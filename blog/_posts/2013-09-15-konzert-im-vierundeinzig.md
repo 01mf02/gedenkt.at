@@ -3,9 +3,6 @@ layout: post
 title: Konzert im Vierundeinzig
 ---
 
-{{page.title}}
-==============
-
 Schon vor einigen Wochen (kurz nach meiner Rückkehr aus Frankreich nach Österreich) fragte mich meine Freundin Stella, ob ich bei der Eröffnung eines neuen Kulturzentrums in Innsbruck, die sie mitorganisiert, spielen möchte. Da ich in Österreich schon seit ca. fünf Jahren kein Konzert mehr gegeben hatte, sagte ich natürlich mit Freude zu, umsomehr, als meine Teilnahme auch bezahlt sein sollte. :)
 
 Und so übte ich also die letzten Wochen voll Hingabe an meinem Programm, das sich zum größten Teil aus Liedern von [Georg Kreisler] zusammensetzte, aber auch einige von mir selbst komponierte Lieder enthielt, u.a. "Goin' To Be Good" und "Don't Be Afraid".

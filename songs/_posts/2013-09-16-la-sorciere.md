@@ -3,9 +3,6 @@ layout: post
 title: La sorcière
 ---
 
-{{page.title}}
-==============
-
 Voilà une nouvelle traduction française ! Il s'agit de la chanson "La sorcière",
 écrite originalement en allemand sous le titre "Die Hexe".
 

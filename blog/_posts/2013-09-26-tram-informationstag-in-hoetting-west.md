@@ -3,9 +3,6 @@ layout: post
 title: Tram-Informationstag in Hötting-West
 ---
 
-{{page.title}}
-==============
-
 Straßenbahnen faszinieren mich grundsätzlich sehr. Neben den praktischen Gründen wie der Größe, der Abgasfreiheit oder der weniger ruckligen Fortbewegung (im Vergleich zum Bus) zieht mich dabei auch das Gefühl von Urbanität an, das eine Straßenbahn einer Stadt verleiht. Seien wir uns ehrlich: Busse fahren in jedem Kaff, aber eine Straßenbahn ist eine besondere Auszeichnung.
 
 In manchen Städten haben es Straßenbahnen sogar zu Wahrzeichen gebracht: Bei San Francisco denkt man an steile Straßenzüge und an die "[cable cars]", und auch z.B. in [Bordeaux][Straßenbahn Bordeaux] findet sich die Straßenbahn bei Stadtbeschreibungen und Werbebroschüren immer wieder an prominenter Stelle. Ich kann mich außerdem noch gut an das erinnern, was mir mein Freund Romaric in Bordeaux erzählt hat: Vor dem dortigen Tramausbau seien die Vorstädte Talence und Pessac verkehrsmäßig sehr bescheiden erschlossen gewesen, und die beiden Vorstädte hätten seit dem Tramausbau eine enorme Aufwertung genossen.
