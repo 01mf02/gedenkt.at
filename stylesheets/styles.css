@@ -258,3 +258,11 @@ footer {
     color:#444;
   }
 }
+
+#img-container {
+  width:500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 20px;
+}
