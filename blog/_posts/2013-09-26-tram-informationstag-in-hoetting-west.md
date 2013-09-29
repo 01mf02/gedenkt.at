@@ -10,7 +10,7 @@ In manchen Städten haben es Straßenbahnen sogar zu Wahrzeichen gebracht: Bei S
 <div class="img-container">
     <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bordeaux_place_de_la_bourse_with_tram.JPG/640px-Bordeaux_place_de_la_bourse_with_tram.JPG" />
     
-Straßenbahn in Bordeaux
+<p>Straßenbahn in Bordeaux (Bild von <a href="http://commons.wikimedia.org/wiki/File:Bordeaux_place_de_la_bourse_with_tram.JPG">Phillip Maiwald</a>)</p>
 </div>
 
 Umso mehr hat es mich gefreut, dass auch in Innsbruck der Tramausbau vorangetrieben werden sollte --- und dann gleich in mein Heimatviertel, [Hötting-West]. Nun ist die Situation in Hötting-West zwar nicht vergleichbar mit Talence/Pessac, da wir ja in Hötting-West schon eine sehr leistungsfähige Buslinie in die Innenstadt haben, aber ich erwarte mir dennoch eine gewisse Aufwertung des Stadtteils.
