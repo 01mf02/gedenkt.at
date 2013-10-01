@@ -14,7 +14,7 @@ Und ein paar Wochen später stand ich also im Hörsaal A der Universität Innsbr
 <div class="img-container">
   <img src="{{ site.url }}/images/2013-09-29-meine-erste-vorlesung/Photo3891.jpg" />
     
-  <p>Glückliche Studenten</p>
+  <p>Glückliche Studenten.</p>
 </div>
 
 Ich versuchte, den Kurs möglichst abwechslungsreich zu gestalten: So erklärte ich z.B. die vollständige Induktion anhand von ein paar Büchern, die ich mitgebracht hatte. Ich wollte nämlich zeigen, dass durch das Umwerfen des ersten Buches auch alle anderen dahinterstehenden Bücher (wieviele auch immer) umfallen würden. Dabei erklärte ich, dass wir bei der vollständigen Induktion immer einen Basisfall und einen Induktionsschritt beweisen müssen. Auf die Bücher angewandt entspricht das Beweisen des Basisfalls dem Umwerfen des allerersten Buches, und das Beweisen des Induktionsschritts, dass wenn ich ein x-beliebiges Buch umwerfe, auch das dahinterstehende Buch umfällt. Zum Schluss stellte ich alle meine Bücher hintereinander und warf das erste Buch um, was auch alle anderen Bücher dahinter zu Fall brachte. Begeisterter Applaus von Seiten der Studenten.
