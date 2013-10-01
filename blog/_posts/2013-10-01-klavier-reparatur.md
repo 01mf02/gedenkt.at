@@ -25,7 +25,6 @@ So versuchte ich, nach Kottan'scher Art dem Problem detektivisch auf die Spur zu
   <p>Die Platinen (die Teile, die mit den grauen Kabeln verbunden sind), habe ich nicht richtig eingesteckt.</p>
 </div>
 
-
 Jetzt ist der Patient jedenfalls wieder bei bester Gesundheit; das ursprüngliche Problem ist bisher nicht mehr aufgetreten und das Klavier wird hoffentlich die nächsten zehn Jahre wieder klaglos seinen Dienst verrichten. :)
 
 Was habe ich aus dieser Sache gelernt?
