@@ -266,3 +266,5 @@ footer {
   text-align: center;
   padding: 20px;
 }
+
+ul p { margin-bottom: 5px; }
