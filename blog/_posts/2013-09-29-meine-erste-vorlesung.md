@@ -12,7 +12,7 @@ In den darauffolgenden Wochen bereitete ich mich auf die Vorlesung vor, indem ic
 Und ein paar Wochen später stand ich also im Hörsaal A der Universität Innsbruck ca. 100 Studenten gegenüber, die alle gekommen waren, um bei mir ihre Mathematik-Kenntnisse aufzufrischen. Bei dieser ersten Vorlesung war ich doch im Vorfeld etwas nervös, aber da ich mich ja auf diese erste Stunde ausreichend vorbereitet hatte, war ich doch zuversichtlich, ohne gröbere Schnitzer aus der Vorlesung herauszukommen. Ich begrüßte die Studenten zu Beginn mit einem "Messieurs et dames, bonjour, willkommen beim Französischkurs für Anfänger." (mit übertriebenem französischen Akzent ausgesprochen), was die Studenten schon einmal zum Lachen brachte und aufweckte. Dann legte ich relativ zügig mit dem Stoff los, bei dem ich mir größte Mühe gab, ihn verständlich zu erklären und durch Zwischenfragen an mein Publikum zu überprüfen, ob alle den Stoff verstanden haben.
 
 <div class="img-container">
-  <img src="{{ site.url }}/images/2013-09-29-meine-erste-vorlesung/Photo3891.jpg" />
+  <img src="/media/2013-09-29-meine-erste-vorlesung/Photo3891.jpg" />
     
   <p>Glückliche Studenten.</p>
 </div>

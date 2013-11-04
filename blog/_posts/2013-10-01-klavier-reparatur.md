@@ -10,7 +10,7 @@ Diese Situation wollte ich also möglichst bald beheben und machte mich zu diese
 Und so bestellte ich also bei einem nahegelegenen Musikgeschäft die entsprechenden Gummikontakte (Seriennummer V828660R), wobei ich nur die in der Mitte des Klaviers gelegenen Oktaven austauschen wollte, da ich ja die ganz hohen/tiefen Oktaven nicht so sehr malträtiere wie die mittleren. :) Die Gummikontakte für sechs Oktaven kosteten 75€, und da ich ja ein alter Dagobert bin, entschloss ich mich, den Einbau selbst zu wagen. Und so schraubte ich einige Zeit an dem Klavier herum, bis ich endlich die Klaviatur freigelegt hatte und die Gummikontakte entnehmen konnte. Tatsächlich: Diese schauten ziemlich verdreckt aus, sodass es mich gar nicht wunderte, dass sie nicht mehr richtig funktionierten! Zehn Jahre Klavierspiel hinterlassen eben doch seine Spuren ...
 
 <div class="img-container">
-  <img src="{{ site.url }}/images/2013-10-01-klavier-reparatur/Photo3928.jpg" />
+  <img src="{{ site.url }}/media/2013-10-01-klavier-reparatur/Photo3928.jpg" />
     
   <p>Oben alt, unten neu.</p>
 </div>
@@ -20,7 +20,7 @@ Ich überlegte mir, ob ich nicht einfach durch Putzen der vorhandenen Gummikonta
 So versuchte ich, nach Kottan'scher Art dem Problem detektivisch auf die Spur zu gehen: Ich kontrollierte die Kabel, die Anschlüsse, die Platinen ... nichts schien auf einen Defekt hinzudeuten, es war einfach, als wäre die Tastatur gar nicht vorhanden. Ich war verzweifelt, sah ich doch schon vor mir endlose Ausgaben für Ersatzteile, denn ich befürchtete schon, durch elektrostatische Aufladung irgendeinem Mikrochip den Garaus gemacht zu haben. Schlussendlich überlegte ich, ob ich nicht vielleicht die Gummikontakte falsch herum eingebaut hätte? Als ich zu diesem Zwecke die auf den Gummikontakten aufliegenden Platinen ausbaute und einen Gummikontakt direkt auf die Platine auflegte und ihn anschlug, hörte ich auf einmal ein leises Tönchen aus dem Lautsprecher. Heureka! Was war aber das Problem? Nach einigen Experimenten ermittelte ich, dass ich die Platinen auf den Gummikontakten falsch montiert hatte und die Gummikontakte die Platinen gar nicht richtig berührt hatten, sodass man das mit einem Klavier vergleichen kann, wo die Hämmer die Saiten nie berühren, sondern schon zuvor zurückfedern.
 
 <div class="img-container">
-  <img src="{{ site.url }}/images/2013-10-01-klavier-reparatur/Photo3931.jpg" />
+  <img src="{{ site.url }}/media/2013-10-01-klavier-reparatur/Photo3931.jpg" />
     
   <p>Die Platinen (die Teile, die mit den grauen Kabeln verbunden sind), habe ich nicht richtig eingesteckt.</p>
 </div>
