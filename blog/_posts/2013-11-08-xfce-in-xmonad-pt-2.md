@@ -78,7 +78,7 @@ Wenn man in xmonad Alt-Leertaste drückt, dann wechselt xmonad die Art, wie es F
 Résumé
 ------
 
-Mit der momentanen Lösung bin ich höchst zufrieden --- alles funktioniert bestens, läuft stabil und ich kann die Annehmlichkeiten von Xfce mit der Effizienz von xmonad verbinden. Ich kann auf die exzellente [Tour d'xmonad][Tour] verweisen, die mich ursprünglich von xmonad begeistert hat. Für das frankophone Publikum möchte ich auch auf [diese Seite](http://blog.fedora-fr.org/metal3d/post/Xmonad,-le-bureau-productif-orient%C3%A9-terminal) verweisen, die eine kleine, recht lustige Einführung in xmonad bietet. Andere gute Einführungen befinden sich [hier](http://www.nepherte.be/step-by-step-configuration-of-xmonad/) und [da](http://www.linuxandlife.com/2011/11/how-to-configure-xmonad-arch-linux.html) (übrigens auch einem Franzosen; mir kommt vor, dass sehr viele diese Arbeitsumgebung nutzen).
+Mit der momentanen Lösung bin ich höchst zufrieden --- alles funktioniert bestens, läuft stabil und ich kann die Annehmlichkeiten von Xfce mit der Effizienz von xmonad verbinden. Ich kann auf die exzellente [Tour d'xmonad][Tour] verweisen, die mich ursprünglich von xmonad begeistert hat. Für das frankophone Publikum möchte ich auch auf [diese Seite](http://blog.fedora-fr.org/metal3d/post/Xmonad,-le-bureau-productif-orient%C3%A9-terminal) verweisen, die eine kleine, recht lustige Einführung in xmonad bietet. Andere gute Einführungen befinden sich [hier](http://www.nepherte.be/step-by-step-configuration-of-xmonad/) und [da](http://www.linuxandlife.com/2011/11/how-to-configure-xmonad-arch-linux.html) (übrigens auch von einem Franzosen; mir kommt vor, dass sehr viele diese Arbeitsumgebung nutzen).
 
 Zu guter Letzt noch ein paar Bildschirmfotos:
 
