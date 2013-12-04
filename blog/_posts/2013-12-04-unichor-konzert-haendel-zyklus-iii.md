@@ -3,7 +3,7 @@ layout: post
 title: "Unichor-Konzert: Händel-Zyklus III"
 ---
 
-Einen wunderschönen guten Morgen, meine Damen und Herren! :)
+Einen wunderschönen guten Morgen, meine sehr verehrten Damen und Herren! :)
 
 Da das diesjährige "Weihnachtskonzert" des Unichores immer näher rückt (für mich das erste in diesem Jahre), halte ich es für angebracht, hier eine Einladung zu selbigem auszusprechen: Wir singen am 8. Dezember um 19 Uhr 30 in der Jesuitenkirche die Werke
 
