@@ -13,7 +13,7 @@ Da das diesjährige "Weihnachtskonzert" des Unichores immer näher rückt (für 
 von [Georg Friedrich Händel]  (in seiner englischen Diktion "[George Frideric Handel]"). Karten sind sowohl im Vorverkauf als auch an der Abendkasse erhältlich.
 
 <div class="img-container">
-  <a href="http://www.uibk.ac.at/unichor/downloads/plakat-a3-konzert-haendel-zyklus-iii-2013.pdf"><img src="/media/2013-12-04-unichor-konzert-ankuendigung/plakat-a3-konzert-haendel-zyklus-iii-2013.png" /></a>
+  <a href="http://www.uibk.ac.at/unichor/downloads/plakat-a3-konzert-haendel-zyklus-iii-2013.pdf"><img src="/media/2013-12-04-unichor-konzert-haendel-zyklus-iii/plakat-a3-konzert-haendel-zyklus-iii-2013.png" /></a>
     
   <p>Das offizielle Plakat.</p>
 </div>
