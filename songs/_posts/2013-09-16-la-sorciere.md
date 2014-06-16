@@ -22,15 +22,15 @@ Traduction
 	au four de la cuisine
 	chez notre voisine.
 
-	Voilà pourquoi la fumée dans la cheminée
-	reste en bas à foison.
+	Pourquoi la fumée dans la cheminée
+	reste en bas à foison ?
 	Et une corneille reste et veille :
 	Enfants --- faites attention !
 
 
 
 	La femme d'à côté --- comme je l'entends ---
-	vient d'on ne sait où
+	elle vient d'on ne sait où
 	elle vit ici déjà il y a longtemps
 	mais elle n'est pas comme nous.
 
@@ -41,18 +41,18 @@ Traduction
 	elle ne peut que penser
 	comment nous bien tromper.
 	Au dehors, elle semble aimable, mais
-	qui la voit à la maison ?
+	étrange est sa maison.
 	Notre programme, c'est fuir cette femme !
 	Enfants --- faites attention !
 
 
 	La sorcière ne peut pas rester
-	non, ça ne peut pas durer !
+	non, ça peut pas durer !
 	C'est sûrement pas facile de l'expulser
-	mais quand-même, il faut arriver !
+	quand-même, il faut arriver !
 
 	Donc désormais, on lui tourne le dos
-	et on crache quand on la voit à nouveau.
+	on crache quand on la voit à nouveau.
 	On lui envoie une anonyme lettre
 	et l'on jette quelques pierres par sa fenêtre
 	jusqu'à ce qu'elle comprenne :
