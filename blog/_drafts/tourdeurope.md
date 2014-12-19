@@ -381,7 +381,7 @@ Zeit in La Grande-Motte:
 * Tour nach Aigues-Mortes über Le Grau-du-Roi
 
 
-36. Tag: La Grande-Motte - Saint-Saturnin-de-Lucian
+# 36. Tag: La Grande-Motte - Saint-Saturnin-de-Lucian
 
 Einmal wird dann doch der Tag kommen, wo man die Gastfreundlichkeit und den Komfort seiner Zweitfamilie hinter sich lassen muss, und zu neuen Ufern aufbricht. Mir fiel der Abschied diesmal etwas leichter, da ich ja --- wie schon erwähnt --- selbst das Gefühl hatte, meine Zeit hier etwas überstrapaziert zu haben. Dennoch, meine Verwandten ließen mich zumindest beim Abschied keine Ressentiments spüren; im Gegenteil, Mino nahm sich noch vor meiner Abfahrt meines Fahrrades an, das schon einen ziemlichen Achter im Hinterrad aufwies. Hier zeigte sich das Genie meines Cousins wieder einmal an einer unerwarteten Stelle aufblitzen, denn er war natürlich auch in der Lage, Fähigkeit 162 aus der Trickkiste abzurufen und wie ein geübter Harfenspieler, der sein Leben nichts anderes gemacht hat, an meinen Radspeichen so zu zupfen und deren Spannung so zu modifizieren, dass mein Hinterrad danach wieder lief wie eine Eins, statt einer Acht.
 Zum Abschied gab er mir auch noch unerwartet eine kleine Süßigkeit mit, was mich so sehr rührte, dass ich diese Süßigkeit --- einem Talisman gleich --- nicht etwa als benötigte Energiezufuhr, sondern als Erinnerungszufuhr aufbewahrte und erst eines schönen Tages in Österreich verspeiste. Als Erinnerungsspeicher gesellte sie sich zu einigen anderen Gegenständen, die ich so mit mir herumschleppte, um mich in schwereren Zeiten besser zu fühlen, wie z.B. der Milka-Glocke meiner Gastgeber aus Pfons.
@@ -392,7 +392,7 @@ Doch ich greife voraus. So wiedervereint fuhren der Alf und ich noch weiter ins 
 Ich selbst durfte in einem séparée schlafen, das heißt, ich hatte eine eigene Gästehütte für mich! Ganz für mich? Nein! Mir wurde von Marion eingeschärft, dass die Hauskatze gerne bei und mit den Gästen schläft und man derem Wunsche unbedingt nachkommen müsse. Doch an Schlaf war noch nicht zu denken bei mir, und ich genoss mit Alf und Marion ein ganz exzellentes französisches Abendessen, wobei sich Marion, die ja aus deutschen Landen stammt, auch mit einigen deutschen Produkten eine Art Enklave aufgebaut hatte; exemplarisch sei eine Zeitschrift der Stiftung Warentest genannt. Nach dem Abendessen jedenfalls ging ich recht bald zu Bett, wobei die Hauskatze mir quasi ständig folgte, nur als ich gerade die Türe zum Einschlafen schließen wollte, kam sie nicht gleich in das Haus, weshalb ich die Gelegenheit nutzte, das Kätzchen auszusperren. Während mich an Edgar Allen Poe erinnernde Schuldgefühle plagten (quasi poe-ethisch, haha!), war ich doch froh, meinen süßen Schlaf nicht von einem dahergelaufenen Kätzchen zerkratzt zu wissen. Sorry, that's the way I tick.
 
 
-37. Tag: Saint-Saturnin-de-Lucian -- Saint-Guilhem-le-Désert -- Saint-Saturnin-de-Lucian
+# 37. Tag: Saint-Saturnin-de-Lucian -- Saint-Guilhem-le-Désert -- Saint-Saturnin-de-Lucian
 
 
 
