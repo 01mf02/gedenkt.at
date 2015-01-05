@@ -115,7 +115,7 @@ Cool, so we were really able to obtain all the words producible by Z!
 
 What about grammars that can produce an infinite amount of words? For this we slightly modify our current grammar, such that it reads as follows:
 
-~~~
+~~~ haskell
 vx = V [[T 'a'], [T 'a', vx]]  -- X -> a | aX
 vy = V [[T 'b', vx]]           -- Y -> bX
 vz = V [[vx], [vy]]            -- Z -> X | Y
@@ -141,7 +141,7 @@ Ok, modules loaded: Main.
 ["a","aa","aaa","aaaa","aaaaa","aaaaaa","aaaaaaa","aaaaaaaa","aaaaaaaaa","aaaaaaaaaa", ...]
 ~~~
 
-Oh noes! We have only strings which start with 'a', our second production rule of variable Z is never considered! Thinking more about it, that sounds reasonable, because Haskell does not pick production rules at random, but it will start with the first one and try to generate all possible words for it. However, as you can already generate an infinite amount of words with the first production rule, it never gets to the second rule. How to fix this?
+Oh noes! We have only strings which start with 'a', thus our second production rule of variable Z is never considered! Thinking more about it, that sounds reasonable, because Haskell does not pick production rules at random, but it will start with the first rule and try to generate all possible words for it before continuing with the second rule. However, as you can already generate an infinite amount of words with the first production rule, it never gets to the second rule. How to fix this?
 
 Looking for the answer, I stumbled upon [a post on stackoverflow](http://stackoverflow.com/a/20719886) by Petr Pudlák, which pointed me to the Omega monad: This seems to be a drop-in replacement for the list monad, which I implicitly used for obtaining nondeterminism. Basically, what the Omega monad does it that when you pick a production rule, it will vary the actually chosen production rule such that all production rules are eventually evaluated. The nice thing about this monad is that we do not really have to change a lot of our code to benefit from it:
 
@@ -178,11 +178,11 @@ We see that now sometimes the production rule starting with 'b' is also chosen -
 
 ## Using it as an exam evaluation tool
 
-Now that we saw that how to generate the language of a grammar, we would like to enter a student's solution, and get possible counterexamples of words which his grammar produces and my reference solution grammar does not.
+Now that we saw how to generate the language of a grammar, we would like to enter a student's solution, and get possible counterexamples of words which his grammar produces and my reference solution grammar does not.
 The sophisticated path to take here would be to generate a set of words of his grammar, then decide with an algorithm such as [CYK](http://en.wikipedia.org/wiki/CYK_algorithm) if all his words are accepted by my reference grammar. However, for CYK, you need Chomsky normal form, and we still have a pile of 60 exams to correct, so no time to implement that, right?
 There is also a quick-and-dirty solution: You generate a set of let's say 50 words of the student's grammar, then generate let's say 500 words of your reference grammar, then display those of the 50 student words which are *not* contained in the 500 reference words. My experiments showed that in many cases this gives a very nice impression of errors the students made.
 
-Let's look at a concrete example: For this, let us formalise my reference grammar and one of my students' grammars. In the following code snippet, I used `pure x` instead of `[x]`, because writing these brackets is such a pain on an Austrian keyboard:
+Let's look at a concrete example: For this, let us formalise my reference grammar and one of my students' grammars. In the following code snippet, I used `pure x` instead of `[x]`, because writing these brackets is such a pain when using an Austrian keyboard layout:
 
 ~~~ haskell
 import Control.Applicative (pure)
@@ -236,7 +236,7 @@ Okay, that should mean that my grammar (`vsum`) produces for example "10+x", but
 S => T => 1A => 1AA => 10A => 10M => 10+S => 10+x
 ~~~
 
-Hm, so the program told us that 10+x could not be produced by the student's grammar, while in fact it could be. Such a thing is to be expected, because we use a quick-and-dirty solution! The fix is quite easy: Increase the number of words generated for the reference solution, by increasing the value of `many` in `langDiff` from `few * 100` to `few * 1000`. What does that give us?
+Hm, so the program told us that 10+x could not be produced by the student's grammar, while in fact it could be, as shown by the production above. Such a thing is to be expected, because we use a quick-and-dirty solution! The fix is quite easy: Increase the number of words generated for the reference solution, by increasing the value of `many` in `langDiff` from `few * 100` to `few * 1000`. What does that give us?
 
 ~~~
 *Main> vsum `langDiff` vs
