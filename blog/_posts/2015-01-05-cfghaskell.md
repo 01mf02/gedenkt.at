@@ -248,7 +248,7 @@ Great, so now the "10+x" has disappeared. When we manually check the remaining c
 
 ## Problem of this approach
 
-Not all is roses in the monad world, because we have to watch out when we formalise our grammars in Haskell. If we slightly change the order of our production rules ...
+Not all is roses in the monad world, because we have to watch out when we formalise our grammars in Haskell. If we slightly change the order of our production rules in the student's grammar above, ...
 
 ~~~ haskell
 -- before (works)
