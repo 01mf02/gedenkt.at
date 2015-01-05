@@ -3,6 +3,8 @@ layout: post
 title: Xfce in xmonad
 ---
 
+*Aktualisierung*: Mittlerweile habe ich [den zweiten Teil des Artikels]({{ site.url }}/blog/xfce-in-xmonad-pt-2/) geschrieben.
+
 Kürzlich habe ich den Fenstermanager [xmonad] ausprobiert, und ich war ziemlich begeistert: Nach kurzer Zeit war ich beim Verwalten meiner Fenster um einiges schneller als zuvor, und ich musste die Maus nur noch sehr sporadisch einsetzen --- eine exzellente Sache, auch im Hinblick auf ergonomisches Arbeiten.
 
 Es zeigte sich allerdings nach und nach, dass ich einige Dinge vermisste: So hätte ich mir Lösungen für folgende Probleme suchen müssen:
@@ -46,24 +48,28 @@ Was ist jetzt also zu tun, wenn ich eine abgespeckte Version von Xfce mit den f�
 
 Diese Arbeit habe ich erledigt und zwei kleine Skripte namens xfce-base.sh und xfce-extras.sh gebastelt, die mir all diese Programme starten:
 
-	#!/bin/bash
-	# xfce-base.sh
-	xdg-user-dirs-update
-	dbus-launch
-	xfsettingsd
-	xfce4-panel &
+~~~
+#!/bin/bash
+# xfce-base.sh
+xdg-user-dirs-update
+dbus-launch
+xfsettingsd
+xfce4-panel &
+~~~
 
 Und die nächste:
 
-	#!/bin/bash
-	# xfce-extras.sh
-	system-config-printer-applet &
-	xfce4-volumed
-	xfce4-power-manager
-	xscreensaver -no-splash &
-	update-notifier &
-	nm-applet &
-	/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 &
+~~~
+#!/bin/bash
+# xfce-extras.sh
+system-config-printer-applet &
+xfce4-volumed
+xfce4-power-manager
+xscreensaver -no-splash &
+update-notifier &
+nm-applet &
+/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 &
+~~~
 
 Umgebungsvariablen setze ich keine, da ich bisher ohne auskomme.
 
@@ -76,26 +82,34 @@ So, jetzt melde ich mich aus Xfce ab und in xmonad an. Wie ich mittlerweile scho
 
 An diesem Punkt bemerke ich allerdings, dass Xfce und xmonad noch nicht so richtig miteinander wollen; das Panel verdeckt meine Fenster, das Wechseln zwischen Fenstern wählt manchmal auch das Panel aus (sehr lästig!), sodass es Zeit für eine Überarbeitung ist und Zeit, eine xmonad-Konfiguration zu erstellen! Im Internet lese ich eine [Version der Konfigurationsdatei mit Xfce](http://www.haskell.org/haskellwiki/Xmonad/Using_xmonad_in_XFCE#Using_XMonad.Config.Xfce), was ich direkt probiere:
 
-	import XMonad
-	import XMonad.Config.Xfce
-	main = xmonad xfceConfig
+~~~ haskell
+import XMonad
+import XMonad.Config.Xfce
+main = xmonad xfceConfig
+~~~
 
 Das war's, diese Zeilen kommen in die Datei ~/.xmonad/xmonad.hs. Ich prüfe mit
 
-	xmonad --recompile
+~~~
+xmonad --recompile
+~~~
 
 nach, ob ich keine Fehler gemacht habe, und verleite xmonad mittels Alt-Q zum Neuladen der Konfiguration. Da ich noch keine Änderung feststellen kann, starte ich auch noch das Panel neu mittels:
 
-	pkill xfce4-panel
-	xfce4-panel &
+~~~
+pkill xfce4-panel
+xfce4-panel &
+~~~
 
 Tada! Mein Panel überlappt meine anderen Fenster nicht mehr und zeigt mir überdies auch noch äußerst geräumig meine Arbeitsflächen an. Als zusätzlichen Bonus kann ich das Panel auch ein-/ausblenden mit Alt-B.
 
 An diesem Punkt bemerke ich allerdings, dass xfceConfig eher dafür gedacht ist, xmonad *innerhalb* von Xfce zu betreiben und nicht andersherum, da ich xmonad z.B. nicht mehr mit Alt-Shift-Q beenden kann, da dies eine Xfce-Funktion aufruft, die ich aber gar nicht gestartet habe. Aus diesem Grunde stelle ich meine xmonad.hs ein wenig um:
 
-	import XMonad
-	import XMonad.Config.Desktop
-	main = xmonad desktopConfig
+~~~ haskell
+import XMonad
+import XMonad.Config.Desktop
+main = xmonad desktopConfig
+~~~
 
 Weiters lösche ich alle Tastaturkürzel von Xfce (via Xfce-Einstellungen), da mir im Laufe meiner Tests ein paar der Kürzel in die Quere gekommen sind und ich die Kürzel ohnehin nie verwende.
 
