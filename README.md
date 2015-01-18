@@ -1,4 +1,4 @@
 gedenkt.at
 ==========
 
-Here lies the source code for the page gedenkt.at.
+Dies ist der Quellcode für die Seite [gedenkt.at](http://gedenkt.at).
