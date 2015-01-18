@@ -12,11 +12,10 @@ Da das diesjährige "Weihnachtskonzert" des Unichores immer näher rückt (für 
 
 von [Georg Friedrich Händel]  (in seiner englischen Diktion "[George Frideric Handel]"). Karten sind sowohl im Vorverkauf als auch an der Abendkasse erhältlich.
 
-<div class="img-container">
-  <a href="http://www.uibk.ac.at/unichor/downloads/plakat-a3-konzert-haendel-zyklus-iii-2013.pdf"><img src="/media/2013-12-04-unichor-konzert-haendel-zyklus-iii/plakat-a3-konzert-haendel-zyklus-iii-2013.png" /></a>
-    
-  <p>Das offizielle Plakat.</p>
-</div>
+<figure>
+  <a href="http://www.uibk.ac.at/unichor/downloads/plakat-a3-konzert-haendel-zyklus-iii-2013.pdf"><img src="$media$/plakat-a3-konzert-haendel-zyklus-iii-2013.png"></a>
+  <figcaption>Das offizielle Plakat.</figcaption>
+</figure>
 
 Warum Händel-Zyklus III? Nun, dies ist der dritte Teil einer Konzertreihe, die 2011 mit dem "Messias" von Händel begonnen hat, als ich gerade beim Unichor eingestiegen bin. Letztes Jahr war ich dann absent, und dieses Jahr findet der Zyklus seinen Abschluss mit besagtem Chorwerk.
 

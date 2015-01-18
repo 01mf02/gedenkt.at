@@ -8,6 +8,7 @@ title: Xfce in xmonad
 Kürzlich habe ich den Fenstermanager [xmonad] ausprobiert, und ich war ziemlich begeistert: Nach kurzer Zeit war ich beim Verwalten meiner Fenster um einiges schneller als zuvor, und ich musste die Maus nur noch sehr sporadisch einsetzen --- eine exzellente Sache, auch im Hinblick auf ergonomisches Arbeiten.
 
 Es zeigte sich allerdings nach und nach, dass ich einige Dinge vermisste: So hätte ich mir Lösungen für folgende Probleme suchen müssen:
+
 - GTK-Programme schauen sehr "schiach" aus.
 - Drahtlose Netzwerke werden nicht automatisch gesucht.
 - USB-Laufwerke werden nicht automatisch eingebunden.
@@ -21,6 +22,7 @@ Und so habe ich einfach einmal unter xmonad versucht, das Panel von Xfce zu star
 
 Welche Möglichkeiten habe ich jetzt also? Ich könnte mich einige Zeit darin vertiefen, xmonad unter Xfce zum Laufen zu bringen, oder ich könnte versuchen, die von mir benötigten Teile von Xfce unter xmonad einzusetzen.
 Ich entscheide mich für letztere Lösung --- Gründe:
+
 - Wenn ich Xfce so konfiguriere, dass es mit xmonad zusammenspielt und nicht umgekehrt, so kann es sein, dass ich beim nächsten Mal, wenn ich alle meine Xfce-Einstellungen lösche (kommt durchschnittlich alle sechs Monate vor), wieder das delikate Zusammenspiel xmonad/Xfce neu einstellen muss. Die xmonad-Konfiguration ist hingegen viel simpler aufgebaut, sodass ich diese gar nicht erst löschen werde.
 - Ich kann einiges über den Aufbau und den Startvorgang von Xfce lernen.
 - Der Start des Desktops könnte etwas schneller sein. :)
@@ -41,6 +43,7 @@ Aus letzterem Grunde entschließe ich mich also gegen xfce4-session, da es mir v
 War das alles, was Xfce startet? Nun, Xfce startet noch einige andere Programme, die ich hier noch nicht aufgelistet habe, aber für mich dennoch wichtig sind, z.B. die Netzwerkverwaltung (network-manager) oder den Bildschirmschoner (xscreensaver). Wenn man sehen möchte, welche Programme Xfce startet, gebe man xfce4-session-settings ein und erhält eine hübsche Liste.
 
 Was ist jetzt also zu tun, wenn ich eine abgespeckte Version von Xfce mit den für mich notwendigen Programmen unter xmonad starten möchte?
+
 1. Wichtige Umgebungsvariablen aus startxfce4 extrahieren.
 2. Weitere Umgebungsvariablen aus xinitrc extrahieren.
 3. Programme aus xinitrc extrahieren, mit Ausnahme von xfwm4, da ja xmonad dessen Arbeit übernimmt.
@@ -119,6 +122,7 @@ Résumé
 
 
 Mittlerweile habe ich ein ganz anständiges System, mit dem ich produktiv arbeiten kann. Es benötigt aber noch ein wenig Arbeit:
+
 - Ich möchte mir noch Tastaturkürzel für einige Sachen, wie z.B. "Bildschirmfoto von aktuellem Fenster machen", definieren.
 - An ein paar Stellen kollidieren Tastaturkürzel von Programmen mit den xmonad-Tastaturkürzeln, vornehmlich jenen, die mit dem Drücken der Alt-Taste beginnen. Ich habe Alt einmal auf die Windows-Taste umdefiniert (modMask), fand das allerdings so fürchterlich, dass ich wieder davon abgekommen bin, da das Drücken der Windows-Taste eine ziemliche Fingerakrobatik erfordert, wenn man mit der ganzen Hand auf der Tastatur "liegt". Zur Lösung dieses Problems habe ich noch überhaupt keine Idee.
 - Manche Programme funktionieren noch nicht richtig im Vollbildmodus; z.B. VLC oder Parole. mplayer geht allerdings.

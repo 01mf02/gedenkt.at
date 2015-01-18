@@ -3,27 +3,25 @@ layout: post
 title: Klavier-Reparatur
 ---
 
-Mein elektronisches Klavier (ein Yamaha Clavinova CLP-170 mit GH3-Tastatur) hatte schon seit längerer Zeit einen unangenehmen [Defekt]({{ site.url }}/blog/konzert-im-vierundeinzig/): Bei manchen Tasten erzeugte das Klavier manchmal einen sehr lauten Ton. Wenn ich also ein Stück sehr zart spielte, fiel ich manchmal fast vom Klavierstuhl, wenn ein Ton plötzlich ganz unerwartet sehr laut war.
+Mein elektronisches Klavier (ein Yamaha Clavinova CLP-170 mit GH3-Tastatur) hatte schon seit längerer Zeit einen unangenehmen [Defekt](/blog/konzert-im-vierundeinzig/): Bei manchen Tasten erzeugte das Klavier manchmal einen sehr lauten Ton. Wenn ich also ein Stück sehr zart spielte, fiel ich manchmal fast vom Klavierstuhl, wenn ein Ton plötzlich ganz unerwartet sehr laut war.
 
 Diese Situation wollte ich also möglichst bald beheben und machte mich zu diesem Zwecke im Internet schlau: Laut [dieser](http://www.pianoworld.com/forum/ubbthreads.php/topics/1402728/Yamaha%20CLP:%20Fixing%20hammer%20sens.html) und [dieser](http://www.fixya.com/support/t1004118-yamaha_digital_piano_clp_170) Seite ist das ein häufiges Phänomen, das durch den Verschleiß von Gummikontakten im Klavier verursacht wird und durch den Austausch derselben zu beheben ist.
 
 Und so bestellte ich also bei einem nahegelegenen Musikgeschäft die entsprechenden Gummikontakte (Seriennummer V828660R), wobei ich nur die in der Mitte des Klaviers gelegenen Oktaven austauschen wollte, da ich ja die ganz hohen/tiefen Oktaven nicht so sehr malträtiere wie die mittleren. :) Die Gummikontakte für sechs Oktaven kosteten 75€, und da ich ja ein alter Dagobert bin, entschloss ich mich, den Einbau selbst zu wagen. Und so schraubte ich einige Zeit an dem Klavier herum, bis ich endlich die Klaviatur freigelegt hatte und die Gummikontakte entnehmen konnte. Tatsächlich: Diese schauten ziemlich verdreckt aus, sodass es mich gar nicht wunderte, dass sie nicht mehr richtig funktionierten! Zehn Jahre Klavierspiel hinterlassen eben doch seine Spuren ...
 
-<div class="img-container">
-  <img src="{{ site.url }}/media/2013-10-01-klavier-reparatur/Photo3928.jpg" />
-    
-  <p>Oben alt, unten neu.</p>
+<figure>
+  <img src="$media$/Photo3928.jpg">
+  <figcaption>Oben alt, unten neu.</figcaption>
 </div>
 
 Ich überlegte mir, ob ich nicht einfach durch Putzen der vorhandenen Gummikontakte auch schon das Problem beheben könnte, aber da ich keine Lust hatte, das ganze Klavier gegebenenfalls noch ein zweites Mal zerlegen zu müssen, entschied ich mich dafür, doch einfach die neuen Gummikontakte einzubauen. Nach dem Einbau schloss ich die Tastatur wieder per Kabel an das restliche Klavier an und hoffte, das Problem gelöst zu haben ... doch aus dem Klavier kam kein einziger Ton. Nichts. Rien ne va plus.
 
 So versuchte ich, nach Kottan'scher Art dem Problem detektivisch auf die Spur zu gehen: Ich kontrollierte die Kabel, die Anschlüsse, die Platinen ... nichts schien auf einen Defekt hinzudeuten, es war einfach, als wäre die Tastatur gar nicht vorhanden. Ich war verzweifelt, sah ich doch schon vor mir endlose Ausgaben für Ersatzteile, denn ich befürchtete schon, durch elektrostatische Aufladung irgendeinem Mikrochip den Garaus gemacht zu haben. Schlussendlich überlegte ich, ob ich nicht vielleicht die Gummikontakte falsch herum eingebaut hätte? Als ich zu diesem Zwecke die auf den Gummikontakten aufliegenden Platinen ausbaute und einen Gummikontakt direkt auf die Platine auflegte und ihn anschlug, hörte ich auf einmal ein leises Tönchen aus dem Lautsprecher. Heureka! Was war aber das Problem? Nach einigen Experimenten ermittelte ich, dass ich die Platinen auf den Gummikontakten falsch montiert hatte und die Gummikontakte die Platinen gar nicht richtig berührt hatten, sodass man das mit einem Klavier vergleichen kann, wo die Hämmer die Saiten nie berühren, sondern schon zuvor zurückfedern.
 
-<div class="img-container">
-  <img src="{{ site.url }}/media/2013-10-01-klavier-reparatur/Photo3931.jpg" />
-    
-  <p>Die Platinen (die Teile, die mit den grauen Kabeln verbunden sind), habe ich nicht richtig eingesteckt.</p>
-</div>
+<figure>
+  <img src="$media$/Photo3931.jpg">
+  <figcaption>Die Platinen (die Teile, die mit den grauen Kabeln verbunden sind), habe ich nicht richtig eingesteckt.</figcaption>
+</figure>
 
 Jetzt ist der Patient jedenfalls wieder bei bester Gesundheit; das ursprüngliche Problem ist bisher nicht mehr aufgetreten und das Klavier wird hoffentlich die nächsten zehn Jahre wieder klaglos seinen Dienst verrichten. :)
 

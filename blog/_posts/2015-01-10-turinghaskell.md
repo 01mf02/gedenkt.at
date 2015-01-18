@@ -84,7 +84,7 @@ instance Show TapeCfg where
 
 instance Show MachineCfg where
   show (MachineCfg s t) =
-    show t ++ "\n" ++ replicate (Seq.length $ leftSyms t) ' ' ++ "| q" ++ show s
+    show t ++ "\n" ++ replicate (Seq.length $$ leftSyms t) ' ' ++ "| q" ++ show s
   showList = showString . L.intercalate "\n\n" . map show
 
 -- | Replace symbol under tape head with new symbol, then move tape head.
@@ -102,7 +102,7 @@ updateTapeCfg (TapeCfg lSyms _ rSyms) newSym MoveRight =
 updateMachineCfg :: Machine -> MachineCfg -> MachineCfg
 updateMachineCfg m (MachineCfg state tape) =
   let (state', newSym, dir) = transition m state (currSym tape)
-  in MachineCfg state' $ updateTapeCfg tape newSym dir
+  in MachineCfg state' $$ updateTapeCfg tape newSym dir
 
 -- | Initialise tape with input word.
 initTapeCfg :: [Symbol] -> TapeCfg
@@ -146,13 +146,13 @@ testMachine =
   t 1 (Just x) = (1,   x, MoveLeft)
   t 1 Nothing  = (2, 'S', MoveRight)
 
-main = print $ runMachine testMachine "10011"
+main = print $$ runMachine testMachine "10011"
 ~~~
 
 What is the output of running this?
 
 ~~~
-michi ~ $ runhaskell Turing.hs 
+michi ~ $$ runhaskell Turing.hs
 10011
 | q0
 
@@ -197,4 +197,4 @@ S10011E
 In the output, we see the different configurations of the Turing machine for the input word "10011". The '|' signifies the current position of the tape head, and the "qn" signifies the current state. In the last configuration, we see that the Turing machine has reached state q2, and because q2 is the accepting state, we know that the Turing machine has accepted the input word.
 
 
-I hope that this article has been instructive. Have fun playing with [the code](/media/2015-01-10-turinghaskell.hs), and if you want something more visual to get a feeling for Turing machines, I can warmly recommend you to look at [Manufactoria](http://pleasingfungus.com/Manufactoria/). It has certainly delayed the publication of this article by several hours. ;)
+I hope that this article has been instructive. Have fun playing with [the code]($media$/Turing.hs), and if you want something more visual to get a feeling for Turing machines, I can warmly recommend you to look at [Manufactoria](http://pleasingfungus.com/Manufactoria/). It has certainly delayed the publication of this article by several hours. ;)

@@ -1,57 +1,12 @@
 ---
-layout: post
-title: Tour d'Europe
+title: Tour d'Europe (Entwurf)
 ---
 
-
-Was war nützlich:
-* Seitentaschen, Vordertaschen (wasserfest!!)
-* Handschuhe (wasserfestigkeit wäre gut gewesen)
-* Schal
-* Regenjacke, -hose, -überzug für Schuhe
-* Rucksack (auch der wasserfest ...)
-* Kugelschreiber
-* Notizblock
-* Handy!!!! (mit Karten-App, Diktierfunktion, Musik, Internet)
-* Adressenliste, für Postkarten (Gastgeber-Adressen gleich mitschreiben)
-* Mückenschutz
-* Schlafsack!
-* Schweizer Messer
-* Handtuch (aber nur eines)
-* Pullover
-* T-Shirt x2 (Funktions-)
-* Unterhosen x2 (Funktions-)
-* Hose x2 (eine lang, eine kurz)
-* Socken x3
-* Badehose
-
-Was hätte ich nicht gebraucht:
-* Sonnencreme
-* Erste-Hilfe
-* 1,5l Wasser
-* Luftpumpe
-* Fahrrad-Reparatur-Set
-* Haken
-* Buch
-* Zelt
-* Iso-Matte
-* Waschcreme
-
-Was habe ich vermisst:
-* Fahrradmitnahme-Sack (für Flieger)
-* Nix
+Dies ist mein andauernder Versuch, meine Fahrradtour von Innsbruck nach Bordeaux mit dem Fahrrad im Frühling 2014 zu dokumentieren. Ich möchte ausdrücklich darauf hinweisen, dass es sich noch um einen Entwurf handelt, was auch bedeutet, dass sich noch einige Notizen an mich selbst im Text finden.
 
 
-Geplant waren:
---------------
-
-Simon:
-* Auch: Erster Druckort der Résistance-Hymne "chant des partisans". Halbe Strecke Toulouse - Condom.
-
-Maigret:
-* Paray-le-Frésil: Geburtsort von Maigret. Im Zentrum Frankreichs, vielleicht auf der Fahrt von Paris nach Lyon? Abstecher nach Moulins möglich.
-
-
+Prolog
+------
 
 Schon als Gymnasiast war ich fasziniert von der Freiheit, die mir das Fahrrad gab. Von der Unabhängigkeit des chronisch überfüllten, lauten und störungsanfälligen Schulbusses, aber auch von der Direktheit aller Umwelteinflüsse, von Sonne, Wind und Regen. Auch nach meiner Schulzeit war ich ungebrochen fahrradbegeistert und benutzte es täglich als Hauptverkehrsmittel, begann aber zu überlegen, es auch für längere Strecken einzusetzen. So begann ich, immer längere Fahrradtouren zu begehen, aber immer unter der Voraussetzung, am Abend am selben Punkt wieder zu sein wie am Morgen. Diese Einschränkung sollte aber nicht ewig währen, denn ich wollte mehr von der Gegend sehen, als mir solche Fahrradtouren erlaubten. Zu dieser Zeit las ich über einen Amerikaner, der die Vereinigten Staaten mit dem Fahrrad von Ost- nach Westküste durchquert hatte. Toll! Das wollte ich auch machen, das fand ich bemerkenswert. Aus eigener Muskelkraft eine dermaßen lange Strecke zurückzulegen, hatte für mich etwas archaisches, war etwas anderes als ein Auto oder ein Flugzeug, in dem man zwar viel fährt, aber wenig sieht außer den Leitplanken der Autobahn und anderen Schicksalsgenossen. Und so wuchs in mir der Wunsch, nach dem Ende meines Studiums ebenfalls eine Fahrradtour durch die Vereinigten Staaten zu machen. Für einige Jahre war dieser Gedanke ungebrochen, aber mit der Zeit begann ich, an der Sinnhaftigkeit meiner Destination zu zweifeln: Amerika, das Land der Freiheit und der Cowboys, der verchromten Träume. Das war das Amerika, dass ich aus den Filmen kannte. Doch Amerika hatte sich gewandelt: Aus dem Land der Freiheit wurde das Land der Angst, das Land der Paranoia. Die Enthüllungen von Edward Snowden hatten einen starken Effekt auf mich, und ich wollte nicht ein Land einreisen, das die ganze Welt überwachte. Zur gleichen Zeit etwa traf ich auf einen Freund, der eine Tour de France mit dem Fahrrad plante, und ich begann mich zu fragen, warum ich nicht einfach meine Radtour in Europa stattfinden ließ? Es ist näher als Amerika, das Essen ist besser (und billiger), und die Sprachen sind eine größere Herausforderung als das Englische, das mir ohnehin schon sehr vertraut war. Aus diesem Grund schwenkte ich auf eine nähere Destination als die Vereinigten Staaten um, nämlich meinen Heimatkontinent!
 
@@ -396,7 +351,9 @@ Ich selbst durfte in einem séparée schlafen, das heißt, ich hatte eine eigene
 Ein schöner Tag ist angebrochen. Während man sich in der Dusche räkelt und den Radfahrerstaub vom Vortag von den Gliedern spült, macht sich ein Kratzen und Miauen an der Badezimmerwand meines Gartenhüttchens bemerkbar. Meine Poe'schen Befürchtungen wurden also wahr; zum Glück fing die Katze nicht an, "Nevermore" zu sagen oder ähnliche Voodoo-Magik auf mich auszuüben. Doch woher nehmen ich die Sicherheit, letzteres zu behaupten? In unserem Universum wäre es durchaus möglich, dass alles Unrecht, dass einmal ausgeübt wurde, letzten Endes irgendwie vergolten wird. Stünde zumindest zu hoffen; sofern man nicht derjenige ist, der selbst das Unrecht verursacht hat. In diesem konkreten Falle jedenfalls folgte meine Strafe auf den Fuß, wenn nicht unmittelbar, so ließ sie doch nicht lange auf sich warten.
 Doch ich greife wieder wie so häufig den Dingen voraus. Faktum ist, dass ich mich noch komplettierter Dusche erst einmal in den Garten begab, wozu ich jedes Mal über eine ca. ein Meter hohe Mauer klettern und dabei aufpassen musste, dabei keine Dachziegel vom danebenstehenden Dach abzureißen. Nach dem Absolvieren dieser Kletterübung saß ich eine Zeitlang am Tisch, als sich plötzlich bestens gelaunt der Herr Alf kurz im Garten blicken ließ, vor sich hin trällernd in seinem schönsten Adamsgewande gekleidet. Während das frühmorgens ein etwas überraschendes Ereignis ist, so ist es doch noch nicht die Bestrafung, die mir von der Voodoo-Katze vermutlich zugedacht worden war. Nein; dieser Tag sollte mir kulturelle Freuden auf perverse Art vergällen. Dass es kulturelle Freuden geben sollte, war ja schon von der Sekunde an bestimmt, als ich meine mittlerweile (von diversen unerwarteten Bergtouren) vollkommen abgetreteten Latschen über die Schwelle meines Gastgeberhauses gesetzt hatte. Doch vorerst ließ sich das Ganze recht gemütlich an: Nachdem sich der Alf also zwischenzeitlich sein Adams- in ein Radfahrerkostüm umgewandelt hatte (sonst wäre ich auch vermutlich nicht mit ihm losgefahren), genossen wir noch ein ausgezeichnetes Frühstück von Marion, bis wir uns dann auf unsere fahrbaren Untersätze schwangen und lassoschwingend ausritten. Hier bitte sich Westernmusik vorstellen.
 Unser erstes Ziel stellte das von mir schon erwähnte Montpeyroux dar, das wie am Tag zuvor allerdings nur Transitdorf bleiben sollte und uns weiter propulsierte in das benachbarte Saint-Jean-de-Fos. Dieses Kleinod unter den französischen Dörfern sollte mir als ein Vertreter der nur in Südfrankreich vorkommenden und somit einzigartigen "circulades" in Erinnerung bleiben: Hierbei handelt es sich um Dörfer, deren Straßen in Spiralform von dem Dorfzentrum wegführen. So etwas wie 102nd Avenue wäre im Languedoc undenkbar, und vielleicht ist die Spiralform ja auch der Tatsache geschuldet, dass viele Franzosen nach einem schönen Weinabend mit Freunden nur noch zu solchen kreisförmigen Bewegungen in der Lage sind? Was gegen diese Hypothese spricht, ist die ausgesprochene Heimeligkeit der Gassen --- manche würden weit weniger euphemistisch auch einfach von "Enge" sprechen, die aber zusammen mit der wunderschönen steinernen Architektur heller Maserung und dem immer wieder zur Auflockerung dazwischengestellten Grünzeug dem Stadtbild eine sehr angenehme Note verleiht. Als weiteres Spezifikum hat Saint-Jean-de-Fos eine lange Töpferei-Tradition, was man auch daran sieht, dass die Straßenschilder in sehr gefälliger Weise als glasierte Keramiken ausgeführt sind.
-![Test](Illustrationpontdudiable.png)
+
+![Pont du Diable]($media$/Illustrationpontdudiable.png)
+
 Eine weitere Attraktion, die man Saint-Jean-de-Fos zuschreiben könnte, liegt eigentlich außerhalb des Dorfes, nämlich der Pont du Diable! Bei der Beschreibung dieser Brücke fällt mir auf, dass das am nächsten liegende Adjektiv eigentlich wieder "schön" wäre, aber ich zwecks Vermeidung von Wortwiederholungen (man ist sich selbst der beste Deutschlehrer) eigentlich einmal ein anderes Adjektiv verwenden sollte. Schwierig in einer Region, die so sehr mit Schönheit punktet. Nun, ich versuche es mit den Adjektiven "elegant", "geschwungen", "majestätisch". Gut so? "Historisch" fehlt vielleicht noch, und "sagenumwoben". Die Geschichte dieser Brücke ist nämlich die folgende: Die Mönche der Abteien Gellone (zu der wir gleich noch kommen werden) und Aniane (zu der wir eher nicht mehr kommen werden) waren beauftragt, eine Brücke über den Hérault-Fluss zu bauen. Doch sie fanden jeden Morgen das Werk des Vortages zerstört. Als sie die unnütze Arbeit satt hatten, legte sich ihr Chef, Guilhèm (französisch Guillaume oder Wilhelm) auf die Lauer und fand den Teufel vor, der die Brücke zerstörte. Da fragte der gute Willi den Teufel, warum er ihnen das antäte, worauf der Teufel antwortete, er würde ihnen die stabilste Brücke aller Zeiten konstruieren, wenn er nur dafür die erste Seele dessen erhielte, der über die fertige Brücke ginge. Dieser Deal gefiel dem Willi, und nach dem Handschlag konstruierte der Teufel also auch wirklich die Brücke. (Streng genommen handelt es sich also hier nicht einmal um französisches Kulturgut, außer man würde annehmen, der Teufel wäre ein Franzose. Und wie würde eine so sanftmütige Nation einen solchen Herrscher der Unterwelt hervorbringen können?) Und was tat danach unser Willi? Er schickte als erstes einen Hund auf die Brücke, um seinen Teil des Paktes zu erfüllen. Da wurde der Teufel wütend und versuchte, die Brücke zu zerstören, was ihm aber dank der Stabilität seiner Konstruktion nicht gelang, worauf er sich in den Hérault stürzte. Bei letzterem befindet sich unser guter Höllenfürst in bester Gesellschaft, denn auch heute stürzen sich da gerne Leute hinunter, um Nervenkitzel und Erfrischung im kühlen Nass zu finden.
 Wir allerdings erfrischten uns nicht, sondern fuhren geradewegs gen Zentrum des guten Willi, nämlich nach Saint-Guilhèm-le-Désert, dabei immer den Hérault entlang, der uns atemberaubende und immer wieder wechselnde Einsichten in seine Gesteinsformationen lieferte. In Saint-Guilhèm (fait partie des "plus beaux villages de France") konnten wir uns von der Effektivität dieses Prädikats überzeugen, denn es wuselte nur so von Touristen, die sich durch die mittelalterlichen Gässlein zwängten. Ein bisschen wie die Innsbrucker Innenstadt, nur stark ansteigend. Wenn man sich an den ganzen obligatorischen Touristenfallen vorbeigekämpft hat, gelangt man zur wirklich sehenswerten Abtei, von der Alf nicht müde wurde, mir immer neue Facetten zu erklären. Auf eine genauere Beschreibung möchte ich mich nicht einlassen, denn eine solche hat besagter Alf [schon geschrieben](http://visitedelgabel.free.fr/mdgtour/guilhem.html). Für die Weiterentwicklung der Geschichte nur noch von Importanz ist unser gemeinsamer Versuch der Entzifferung einer lateinisch beschriebenen Tafel, während der mich heftiges Kopfweh packte. Die Voodoo-Katze hatte zugeschlagen. Und sie hieb weiter nach. Oder es war einfach schon zuviel Kultur für mich an einem Tage, jedenfalls musste ich kopfwehbedingt auf ein Verlassen der historischen Stätte drängen. Die Rückfahrt nach Saint-Saturnin gestaltete sich jedenfalls zum Martyrium, denn noch Monate später ließ mich allein der Gedanke an jede kleine Unebenheit, über die wir mit unseren Fahrrädern hoppelten, schmerzverzerrt zusammenzucken. Als wir endlich zu unserer beschaulichen Bleibe zurückkamen, war Marion schon damit beschäftigt, das Abendessen zu bereiten, und obwohl ich zu essen versuchte, wurde mir so schlecht, dass ich mich vom Tische entschuldigen musste und mich sofort ins Bett legte (um 20 Uhr!), wo ich auch tatsächlich ohne Essen bald einschlief. Die Voodoo-Katze strafte mich durch ihr Nichterscheinen, weder im Bett, noch im Traum.
 
@@ -406,6 +363,63 @@ Wir allerdings erfrischten uns nicht, sondern fuhren geradewegs gen Zentrum des 
 
 Flugticket!
 
+
+
+Appendix
+--------
+
+
+Was war nützlich:
+
+* Seitentaschen, Vordertaschen (wasserfest!!)
+* Handschuhe (wasserfestigkeit wäre gut gewesen)
+* Schal
+* Regenjacke, -hose, -überzug für Schuhe
+* Rucksack (auch der wasserfest ...)
+* Kugelschreiber
+* Notizblock
+* Handy!!!! (mit Karten-App, Diktierfunktion, Musik, Internet)
+* Adressenliste, für Postkarten (Gastgeber-Adressen gleich mitschreiben)
+* Mückenschutz
+* Schlafsack!
+* Schweizer Messer
+* Handtuch (aber nur eines)
+* Pullover
+* T-Shirt x2 (Funktions-)
+* Unterhosen x2 (Funktions-)
+* Hose x2 (eine lang, eine kurz)
+* Socken x3
+* Badehose
+
+Was hätte ich nicht gebraucht:
+
+* Sonnencreme
+* Erste-Hilfe
+* 1,5l Wasser
+* Luftpumpe
+* Fahrrad-Reparatur-Set
+* Haken
+* Buch
+* Zelt
+* Iso-Matte
+* Waschcreme
+
+Was habe ich vermisst:
+
+* Fahrradmitnahme-Sack (für Flieger)
+* Nix
+
+
+Geplant waren:
+--------------
+
+Simon:
+
+* Auch: Erster Druckort der Résistance-Hymne "chant des partisans". Halbe Strecke Toulouse - Condom.
+
+Maigret:
+
+* Paray-le-Frésil: Geburtsort von Maigret. Im Zentrum Frankreichs, vielleicht auf der Fahrt von Paris nach Lyon? Abstecher nach Moulins möglich.
 
 
 

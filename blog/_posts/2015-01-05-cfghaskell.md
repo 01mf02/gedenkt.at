@@ -89,7 +89,7 @@ lang (T t) = return [t]
 lang (V rules) = do
   rule <- rules             -- pick a rule  
   words <- mapM lang rule   -- for each atom in the rule, produce a word from it
-  return $ concat words     -- concatenate the resulting words
+  return $$ concat words     -- concatenate the resulting words
 ~~~
 
 That's it. This code is supposed to generate all words producible by a context-free grammar. If you wonder more about how this works, I really recommend you to read the chapter I linked to above. Now to test this on some concrete example, let's write in Haskell the example grammar from above:
@@ -103,7 +103,7 @@ vz = V [[vx], [vy]]    -- Z -> X | Y
 Evaluating this in ghci will give:
 
 ~~~
-$ ghci
+$$ ghci
 Prelude> :l Lang.hs 
 [1 of 1] Compiling Main             ( Lang.hs, interpreted )
 Ok, modules loaded: Main.
@@ -158,7 +158,7 @@ lang (T t) = return [t]
 lang (V rules) = do
   rule <- each rules          -- ... and we added an "each"
   words <- mapM lang rule
-  return $ concat words
+  return $$ concat words
 
 -- we cannot run `lang' directly, because it returns a monadic result, but we
 -- get the result out quite easily with this helper function
@@ -169,7 +169,7 @@ langO = runOmega . lang
 Now what happens if we run this Omega version?
 
 ~~~
-*Main> take 10 $ langO vz
+*Main> take 10 $$ langO vz
 ["a","aa","ba","aaa","baa","aaaa","baaa","aaaaa","baaaa","aaaaaa"]
 ~~~
 
@@ -263,4 +263,4 @@ va = V [[va, va], pure vm, pure t0, [t0, vt]]
 ~~~
 
 ... Haskell consumes memory faster than you can say "swap is for losers". Needlessly to say, it probably will not terminate. I believe that this is because the Omega monad sometimes chooses production rules in such a way that an infinite loop can result. I was, so far, always able to fix this by moving production rules with terminals to the front, but there might be cases where this doesn't help.
-Still, I found this approach very nice to work with, and as so often, I was amazed by the shortness and conciseness of the Haskell code. You can download my program with some examples from [here](/media/2015-01-05-cfghaskell.hs).
+Still, I found this approach very nice to work with, and as so often, I was amazed by the shortness and conciseness of the Haskell code. You can download my program with some examples from [here]($media$/CFG.hs).

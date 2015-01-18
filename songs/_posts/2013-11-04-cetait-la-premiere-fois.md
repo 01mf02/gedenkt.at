@@ -6,7 +6,7 @@ title: C'était la première fois
 Bonjour ! Le vendredi dernier, j'avais une idée pour une petite nouvelle chanson, et une heure plus tard les paroles et la mélodie étaient finies !
 La chanson s'appelle "C'était la première fois", je l'ai enregistré avec mon bon ami Ben (guitare) hier. Bon ben.
 
-<audio src="/media/2013-11-04-cetait-la-premiere-fois/cetait-la-premiere-fois.mp3">C'était la première fois</audio>
+<audio controls src="$media$/cetait-la-premiere-fois.mp3"></audio>
 
 
 Paroles

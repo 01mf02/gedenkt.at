@@ -12,6 +12,7 @@ An diesem Punkte las ich, dass die neueste Version von xmonad (0.11) [einige Pro
 Ein paar Stunden später ist das neue Xubuntu auf der Platte, inkl. aller wichtigen Softwarepakete. Ich starte xmonad, und --- siehe da! --- jEdit läuft wie am Schnürchen, ohne Probleme quelconque. Wunderbar!
 
 So machte ich weiter mit meiner xmonad-Konfiguration, aber auf einmal packte mich der Schalk im Nacken und ich fragte mich, was in der neuen Xubuntu-Version ein "xmonad --replace" in Xfce bewirken würde. Erinnern wir uns: Dieses Experiment hatte in der alten Xubuntu-Version zu katastrophalen Ergebnissen geführt; neue Fenster wurden nicht mehr angezeigt, ich konnte mich nicht mehr abmelden, ... So sah ich diesem Experiment gespannt entgegen und duckte mich vor dem schicksalshaften Drücken der Eingabe-Taste vor dem Computer. Doch oh Wunder, es passiert nichts, außer dass alle meine bisher geöffneten Fenster von xmonad verwaltet werden; genau so, wie es sein soll! Einen kleinen spontanen Freudentanz später und nach ein paar Tests, ob wirklich alles funktioniert, beschließe ich, auch fortan xmonad innerhalb von Xfce laufen zu lassen, da dieses Arrangement einige Probleme löst:
+
 - Die Xfce-Einstellungen waren unter xmonad immer nur als sehr lange und unübersichtliche Liste im "Startmenü" verfügbar; unter Xfce ist an dieser Stelle nur noch ein einziger Knopf, der das Xfce-Einstellungsprogramm öffnet.
 - Ich kann wieder mit dem Xfce-Panel meinen Rechner ausschalten, in den Schlafmodus versetzen, mich abmelden etc. Unter xmonad waren an dieser Stelle diese Optionen nicht verfügbar bzw. haben Fehlermeldungen angezeigt.
 - Xfce startet automatisch gnome-keyring, weshalb ich mein Passwort nicht mehr jedesmal eingeben muss, wenn ich mit git arbeite.
@@ -37,16 +38,16 @@ import XMonad.Hooks.SetWMName
 import XMonad.Layout.NoBorders
 import XMonad.Util.EZConfig
 
-main = xmonad $ xfceConfig
+main = xmonad $$ xfceConfig
 	{ startupHook = startupHook xfceConfig >>
 	    -- make Java programs resize correctly by pretending we are a
 	    -- different WM (camouflage)
 	    setWMName "LG3D"
 
 	  -- inherit layout from desktopConfig
-	, layoutHook = desktopLayoutModifiers $
+	, layoutHook = desktopLayoutModifiers $$
 	    -- do not show window borders in fullscreen mode
-	    smartBorders $
+	    smartBorders $$
 	    -- switch only between two tiling algorithms instead of three
 	    -- as in the default configuration
 	    Tall 1 (3/100) (1/2) ||| Full
@@ -84,17 +85,15 @@ Mit der momentanen Lösung bin ich höchst zufrieden --- alles funktioniert best
 
 Zu guter Letzt noch ein paar Bildschirmfotos:
 
-<div class="img-container">
-  <img src="/media/2013-11-08-xfce-in-xmonad-pt-2/clean.png" />
-    
-  <p>Einmal aufgeräumt, ...</p>
-</div>
+<figure>
+  <img src="$media$/clean.png">
+  <figcaption>Einmal aufgeräumt, ...</figcaption>
+</figure>
 
-<div class="img-container">
-  <img src="/media/2013-11-08-xfce-in-xmonad-pt-2/messy.png" />
-    
-  <p>... einmal mit Fenstern.</p>
-</div>
+<figure>
+  <img src="$media$/messy.png" />
+  <figcaption>... einmal mit Fenstern.</figcaption>
+</figure>
 
 Man beachte auch die Fenstervorschau pro Arbeitsfläche im Xfce-Panel rechts oben; ein sehr nützliches Werkzeug, um schnell herauszufinden, wo sich der Firefox wieder hinverkrochen hat. ;)
 
