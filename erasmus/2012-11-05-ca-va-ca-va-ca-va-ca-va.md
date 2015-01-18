@@ -1,6 +1,4 @@
 ---
-date: 2012-11-05 06:48:03+00:00
-layout: post
 title: Ca va ça va ça va ça va
 ---
 

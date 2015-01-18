@@ -1,6 +1,4 @@
 ---
-date: 2012-09-16 16:36:57+00:00
-layout: post
 title: J'ai besoin d'un vélo
 ---
 

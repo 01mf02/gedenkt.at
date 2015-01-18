@@ -1,6 +1,4 @@
 ---
-date: 2012-10-14 17:25:32+00:00
-layout: post
 title: A la recherchu du truc perdu
 ---
 

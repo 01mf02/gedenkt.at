@@ -1,6 +1,4 @@
 ---
-date: 2012-08-26 21:19:05+00:00
-layout: post
 title: L'aventure commence
 ---
 

@@ -1,6 +1,4 @@
 ---
-date: 2012-10-24 17:12:57+00:00
-layout: post
 title: Tout le monde connait Much
 ---
 
