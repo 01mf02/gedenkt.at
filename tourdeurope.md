@@ -327,6 +327,7 @@ Auf Anraten des Alfes unternahm ich auch eine Fahrradtour zu der sehr sehenswert
 
 
 Zeit in La Grande-Motte:
+
 * Fußball/Fitness mit Rémy
 * Ausflug nach MP, Sara besuchen
 * Ausflug in den Zoo von MP, dann unangenehmes Erwachen durch 1. Mai (keine Busse!)
