@@ -16,18 +16,10 @@ Nach dem Abendessen wieder einmal eine soirée bei Idir, aber nicht zu lange, da
 Mein Programm für das Konzert lautet wie folgt:
 
 
-
-	
-  * Franz Schubert : Vogel als Prophet (3'30), Jagdlied (3')
-
-	
-  * Frédéric Chopin : Prélude Op. 28 No. 15 (5'), Valse Op. posth. 69 No. 1 (3'30), Étude Op. 25 No. 12 (3')
-
-	
-  * Franz Schubert : Erlkönig (5')
-
-	
-  * Georg Kreisler : Wien ohne Wiener (5')
+* Franz Schubert : Vogel als Prophet (3'30), Jagdlied (3')
+* Frédéric Chopin : Prélude Op. 28 No. 15 (5'), Valse Op. posth. 69 No. 1 (3'30), Étude Op. 25 No. 12 (3')
+* Franz Schubert : Erlkönig (5')
+* Georg Kreisler : Wien ohne Wiener (5')
 
 
 Änderungen in letzter Minute vorbehalten. ;) Am meisten ärgert mich im Moment, dass ich meine Schubert-Gesangsnoten in Tirol gelassen habe; diese würden mir jetzt einen guten Dienst erweisen, da es sich herausstellt, dass die für tiefe Stimme transponierten Versionen der Lieder (die ich immer verwende) im Internet nur schwer erhältlich sind. :/

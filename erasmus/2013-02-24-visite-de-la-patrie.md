@@ -31,18 +31,10 @@ Donnerstag, 4 Uhr morgens. Ein Wecker klingelt. Ich überwinde meinen Impuls, im
 Diesen Tag arbeitete ich dann daran, meinen Arbeitsrückstand aufzuholen, denn ich hatte in den Tagen zuvor nicht allzuviel Zeit, mich meinem Studium zu widmen. Dafür übte ich mich in der Rückschau, denn meine Noten für das letzte Semester standen endlich fest! Ergebnisse (gerundet):
 
 
-
-	
-  * Projet d'étude et de recherche: 158/200
-
-	
-  * Logique: 195/200
-
-	
-  * Compilation: 183/200
-
-	
-  * Logique et Langage: 188/200
+* Projet d'étude et de recherche: 158/200
+* Logique: 195/200
+* Compilation: 183/200
+* Logique et Langage: 188/200
 
 
 Hierzu sei angemerkt, dass es in Frankreich generell als recht schwierig angesehen wird, eine Punktezahl von über 15/20 zu erhalten. [Manche Notenumrechnungstabellen](http://www.uni-hannover.de/imperia/md/content/zentral/anerkennung/notenumrechnung.pdf) rechnen z.B. ab 16/20 Punkten mit einer 1,0, bei 14 Punkten schon 2,0 und dann in Zweierschritten absteigend immer eine Note schlechter. Das deutet darauf hin, dass sich die französischen Noten nicht linear in österreichische übersetzen lassen. Ich hoffe, dass dies bei der Anrechnung meiner Noten in Innsbruck halbwegs berücksichtigt wird; offizielle Informationen habe ich dazu noch nicht gefunden, nur einen Erfahrungsbericht, der sich über die [Notenumrechnung](http://www.lebenslanges-lernen.at/erasmus_outgoing/index.php?lng=de&sekt=1&txt=report-detail&eracode=INNSBRU01&repID=18646) eher negativ auslässt. On verra.

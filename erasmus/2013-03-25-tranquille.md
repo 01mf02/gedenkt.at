@@ -11,28 +11,17 @@ Neben meiner akademischen Tätigkeit habe ich auch die Kunst nicht außer Acht g
 Es folgt eine kleine Auswahl meiner momentanen Lieblingstitel (teilweise inspiriert durch den Film "[On connaît la chanson](http://fr.wikipedia.org/wiki/On_conna%C3%AEt_la_chanson)"):
 
 
-
-	
-  * Michel Berger : [Quelques mots d'amour](http://www.youtube.com/watch?v=Q-0mLKNhFX0), [Ça balance pas mal à Paris](http://www.youtube.com/watch?v=0v2EfoabH_M)
-
-	
-  * Daniel Balavoine : [Le chanteur](http://www.youtube.com/watch?v=Jcys3B3eBAI)
-
-	
-  * Alain Souchon : [On avance](http://www.youtube.com/watch?v=HGdPpEV1b04)
-
-	
-  * France Gall : [Résiste](http://www.youtube.com/watch?v=9IwTgYlP7YM)
-
-	
-  * Bénabar : [Le dîner](http://www.youtube.com/watch?v=3X-KbPmOx8s)
-
-	
-  * Jacques Dutronc : [J'aime les filles](http://www.youtube.com/watch?v=HNRtpvGumkU)
+* Michel Berger : [Quelques mots d'amour](http://www.youtube.com/watch?v=Q-0mLKNhFX0), [Ça balance pas mal à Paris](http://www.youtube.com/watch?v=0v2EfoabH_M)
+* Daniel Balavoine : [Le chanteur](http://www.youtube.com/watch?v=Jcys3B3eBAI)
+* Alain Souchon : [On avance](http://www.youtube.com/watch?v=HGdPpEV1b04)
+* France Gall : [Résiste](http://www.youtube.com/watch?v=9IwTgYlP7YM)
+* Bénabar : [Le dîner](http://www.youtube.com/watch?v=3X-KbPmOx8s)
+* Jacques Dutronc : [J'aime les filles](http://www.youtube.com/watch?v=HNRtpvGumkU)
 
 
 Nebenbei versuche ich auch, das französische Liedgut auf eigene Faust zu erweitern; so habe ich wieder einmal in einem nächtlichen Motivationshoch passend zur neuen Jahreszeit das Lied "Veronika, der Lenz ist da" auf Französisch übersetzt --- voilà "Véronique, le printemps est là":
 
+~~~
 "Véronique, le printemps est là
 les filles chantent "tralala"
 et tout le monde est enchanté
@@ -78,6 +67,7 @@ et tout le monde est enchanté
 Véronique, il faut s'aimer.
 
 Véronique, le printemps est là."
+~~~
 
 Von solch guten Neuigkeiten abgesehen gibt es allerdings auch schlechtes zu berichten: Mit blutleeren Lippen muss ich konstatieren, dass mich seit einigen Tagen eine Armee von Mücken zwar dank Ohrenstöpseln nicht meines Schlafes, doch dafür meines roten Lebenssaftes beraubt. Die reichlichen Regenfälle der letzten Monate und das momentan recht warme Wetter haben nämlich äußerst günstige Lebensbedingungen für die kleinen Sauger geschaffen, die sich jetzt über Village 2 hermachen. Dazu trägt auch bei, dass gewisse Nachbarn ständig das Fenster offen lassen und die Biester geradezu einladen, sich an ihnen (und ihren anderen Nachbarn, wie meiner Wenigkeit) zu laben. Das hat solche Ausmaße angenommen, dass mich Leute schon gefragt haben, ob mich jemand geschlagen hätte, weil ich so rot im Gesicht sei. :)
 Außerdem verfolgt mich schon seit Beginn der Woche ein hartnäckiger Schnupfen, der nicht und nicht weggehen möchte. Immerhin hat er außer Halsweh keine besonders unangenehmen Nebenwirkungen ...

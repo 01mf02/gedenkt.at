@@ -11,15 +11,9 @@ Diese Woche hat der Sprachkurs (Dienstag & Donnerstag) wieder kräftig Fahrt auf
 Am Mittwoch ist eine kleine, aber feine Untermenge unserer Erasmus-Gruppe (Clara, Matthieu und Leo, ein Brasilianer) ins Konzert gegangen, nämlich ein Klavierkonzert von [Nikolai Lugansky](http://de.wikipedia.org/wiki/Nikolai_Lwowitsch_Luganski)! Dieser spielte ein sehr schönes Programm, nämlich:
 
 
-
-	
-  * Leoš Janáček: Im Nebel
-
-	
-  * Franz Schubert: Vier Impromptus, D. 935 (op. 142)
-
-	
-  * Sergei Rachmaninov: Sonate No. 1, d-moll, op. 28
+* Leoš Janáček: Im Nebel
+* Franz Schubert: Vier Impromptus, D. 935 (op. 142)
+* Sergei Rachmaninov: Sonate No. 1, d-moll, op. 28
 
 
 Eine Überraschung bei diesem Programm war für mich der bis dahin unbekannte [Janáček](http://de.wikipedia.org/wiki/Leo%C5%A1_Jan%C3%A1%C4%8Dek) (1854 - 1928), den ich ungerechtfertigterweise aufgrund seines "á" und des Hatschek eher in die Schublade "unhörbare neue Musik" steckte. Doch ich wurde eines besseren belehrt! Jazzige Klänge wechselten sich mit Debussy- und Chopin-artigen Passagen ab --- Hörprobe ist [hier](http://www.youtube.com/watch?v=HTifao_sq2o).
