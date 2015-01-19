@@ -21,7 +21,7 @@ Das Wochenende war uns der Wettergott endlich einmal wieder gnädig und zeigte s
 
 Am Sonntag ging es dann wieder in die Campagne, allerdings in die direkte Umgebung, nämlich nach Artigues-près-Bordeaux. Dort sangen wir vor einem äußerst enthusiastischem Publikum, das uns schon vor der Pause so eifrig beklatschte wie manche Publiken erst nach dem Konzert. Das Après-Sch ... äh Après-Konzert hielten wir dann im "Tennis Club d'Artigues" ab, wo wir uns mit Tischfußball (!) und ein paar Bieren (gratuit) die Zeit vertrieben.
 
-![L'église d'Artigues-près-Bordeaux.]($media$/Photo26461.jpg)
+![L'église d'Artigues-près-Bordeaux.]($media$/Photo2646.jpg)
 
 ![Après.]($media$/Photo2653.jpg)
 
