@@ -13,7 +13,7 @@ Nach dem Konzert gab es --- wie für Bordeaux üblich --- noch ein Buffet mit ei
 
 Am Donnerstag ging es auf Reise in den Süden, nämlich zu Simon in das kleine Dörfchen Cauneille bei Peyrehorade. Dorthin kamen wir per Auto, denn seine Eltern holten ihn aus Village 2 samt seinen Siebensachen ab --- mein Kühlschrank hätte ursprünglich auch mit von der Partie sein sollen, aber leider hatte er keinen Platz mehr in der voiture. Tant pis.
 
-[caption id="attachment_2704" align="aligncenter" width="300" caption="Cauneille."][![](http://youcanmakeit.at/wp-content/uploads/2013/06/Photo3474-300x225.jpg)](http://youcanmakeit.at/blog/enfin-bref/attachment/photo3474/)[/caption]
+![Cauneille.]($media$/Photo3474.jpg)
 
 Seine Eltern, Marie-Laure und Daniel, stellten sich jedenfalls als sehr umgänglich und gastfreundlich heraus, und wie sich herausstellte, wohnen die beiden auf einem für meine Begriffe riesigen Anwesen, das Hühner, Schafe, Wälder und einige Felder umfasst. Jedenfalls eine ganz andere Welt als Pessac. ;) Am Tag unserer Ankunft war davon allerdings noch nicht allzuviel zu sehen, da es fast durchgehend regnete und ziemlich kalt war. So schritten wir nach unserer Ankunft in ihrem Haus auch relativ bald zum Abendessen, das sich --- wie die meisten darauffolgenden Essen auch --- fast ausschließlich aus eigens hergestellten Produkten zusammensetzte! Selbstgemachtes Brot, selbst aufgezogene Hendln, selber gepflanzter Salat ... ich kann wohl sagen, dass ich in Frankreich noch selten so gut gegessen habe. Ein typisches Essen bestand aus folgenden Teilen:
 
@@ -39,21 +39,21 @@ Seine Eltern, Marie-Laure und Daniel, stellten sich jedenfalls als sehr umgängl
 
 Am Freitag setzte sich der Regen weiter fort; ich erfuhr, dass es in der Region zu schweren Überschwemmungen gekommen war, sogar mit einigen Toten. Hauptsächlich Leute, die (ganz nach französischer Manier) Straßensperren ignoriert haben und dann vom Strom weggespült wurden. Diesem Risiko wollten wir uns nicht aussetzen, und so verbrachten wir den Großteil des Tages im "Atelier", wo wir verschiedenen Tätigkeiten nachgingen: Simon bereitete sein Fahrrad auf seine "Tour de France" vor, die er bald unternehmen möchte, und ich versuchte, ein altes Klavier neu zu stimmen, womit ich einige Stunden zubrachte. Besagtes Atelier ist jedenfalls für Bastler eine Goldgrube: Von Schleifmaschinen über eine kleine Küche und eine mechanische Säge aus dem 19. Jahrhundert gibt es ein riesiges Sammelsurium, und gleich darauf schließt die Garage mit Traktor, altem Auto, Fahrrädern etc. an. An verregneten Sommertagen jedenfalls sehr inspirierend. :)
 
-[caption id="attachment_2711" align="aligncenter" width="300" caption="Á l'atelier."][![](http://youcanmakeit.at/wp-content/uploads/2013/06/IMGP1053-300x225.jpg)](http://youcanmakeit.at/blog/enfin-bref/attachment/imgp1053/)[/caption]
+![Á l'atelier.]($media$/IMGP1053.jpg)
 
 Am Abend klarte es ein wenig auf, was wir noch für eine spontane Radltour nützten: So zeigte mir Simon die Umgebung, die relativ hügelig ist und mich an die Steiermark ("Joglland") erinnerte. Wir sahen auch einen Turm, der vom Dichter [Jean Rameau](http://fr.wikipedia.org/wiki/Jean_Rameau) erbaut wurde und den er zur Inspiration nutzte, da er von dort aus einen ausgezeichneten Blick auf die Pyrenäen hatte. Dieser Turm ist heute allerdings leider baufällig und kann nur unter einiger Gefahr betreten, geschweige denn bestiegen werden.
 
 Am Samstag war das Wetter endlich besser, und wir unternahmen eine große Ausfahrt mit Simons Eltern per Auto: So fuhren wir zuerst nach [Bayonne](http://de.wikipedia.org/wiki/Bayonne), das sich schon im Baskenland befindet und eine recht hübsche Stadt ist. Scheinbar gibt es gewisse Rivalitäten zwischen Bordeaux und Bayonne, welche Stadt die bessere ist --- ich war jedenfalls von Bayonne sehr angetan.
 
-[caption id="attachment_2705" align="aligncenter" width="300" caption="Bayonne."][![](http://youcanmakeit.at/wp-content/uploads/2013/06/Photo3481-300x225.jpg)](http://youcanmakeit.at/blog/enfin-bref/attachment/photo3481/)[/caption]
+![Bayonne.]($media$/Photo3481.jpg)
 
 Nach einer kurzen Stadtbesichtigung fuhren wir weiter nach Biarritz, das direkt am Meer liegt. Dort profitierten auch einige andere Leute schon vom guten Wetter, denn der dortige Strand war recht gut gefüllt.
 
-[caption id="attachment_2706" align="aligncenter" width="300" caption="Biarritz."][![](http://youcanmakeit.at/wp-content/uploads/2013/06/Photo3484-300x225.jpg)](http://youcanmakeit.at/blog/enfin-bref/attachment/photo3484/)[/caption]
+![Biarritz.]($media$/Photo3484.jpg)
 
 Von dort ging es an einer Côte-d'Azur-artigen Straße weiter nach Hendaye, das direkt an der spanischen Grenze (Irun) liegt. Wir wollten eigentlich zu Fuß von Frankreich nach Spanien gehen, aber leider vereitelte ein Grenzfluss unser Vorhaben, sodass wir für dieses Mal in Frankreich blieben.
 
-[caption id="attachment_2707" align="aligncenter" width="300" caption="À gauche la France, à droite l'Espagne."][![](http://youcanmakeit.at/wp-content/uploads/2013/06/Photo3501-300x225.jpg)](http://youcanmakeit.at/blog/enfin-bref/attachment/photo3501/)[/caption]
+![À gauche la France, à droite l'Espagne.]($media$/Photo3501.jpg)
 
 Am Abend fuhren wir dann noch einmal nach Bayonne, wo wir uns in der dortigen Kathedrale (auf meinen Vorschlag hin) das Mozart-Requiem in d-moll anhörten. Dieses wurde leider von ziemlich grauenhafter zeitgenössischer Musik eingeleitet, was die zum Brechen volle Kirche dann wieder etwas leerte, aber das Requiem war grandios!
 
@@ -62,7 +62,7 @@ Zu Mittag traf dann die Schwester von Simon samt Mann und Kind ein, und es kam w
 Ein Thema, das weiterhin im Unterbewusstsein der Franzosen schwelt, ist das Verhältnis zu den Deutschen. Wir sind häufig auf das Thema des zweiten Weltkriegs zu sprechen gekommen, und obwohl ich mich als Österreicher natürlich in der Opferrolle fühlen darf, so merke ich doch, dass die Franzosen noch gewisse Ressentiments gegenüber deutschsprachigen Leuten haben, was historisch gesehen sehr gut verständlich ist. Diese Gefühle werden die meiste Zeit nicht artikuliert, aber sie sind definitiv vorhanden. Es wird jedenfalls noch einige Zeit brauchen, bis diese Vorurteile verschwinden, und ich glaube, dass gerade solche Initiativen wie das Erasmus-Programm dazu beitragen, die Völkerverständigung zu fördern.
 Am Nachmittag unternahmen Simon und ich noch eine Radltour in der Umgebung, u.a. nach Peyrehorade und nach Hastingues, wo wir die [Abbaye d'Arthous](https://fr.wikipedia.org/wiki/Abbaye_d%27Arthous) und die Innenstadt von Hastingues besichtigten.
 
-[caption id="attachment_2710" align="aligncenter" width="300" caption="Abbaye d'Arthous."][![](http://youcanmakeit.at/wp-content/uploads/2013/06/IMGP1042-300x225.jpg)](http://youcanmakeit.at/blog/enfin-bref/attachment/imgp1042/)[/caption]
+![Abbaye d'Arthous.]($media$/IMGP1042.jpg)
 
 Am Montag fuhr ich dann von Dax wieder zurück nach Bordeaux, wo mich wieder einmal der Village-2-Blues erfasste. Immerhin traf ich wieder auf einige nette Nachbarn und traf mich noch am Abend mit Lili, wobei wir in Pessac ein bisschen spazieren gingen und dann noch einige Zeit bei ihr blieben. Die Zeit der Abschiede hat jedenfalls schon längst begonnen, ab jetzt ist jeden Abend ein Abschied geplant ...
 

@@ -41,6 +41,6 @@ Vielleicht bin ich aber auch einfach ein wenig zu altmodisch, wenn ich [wundersc
 
 Zum Abschluss noch ein Foto von meinem heutigen Fahrradausflug zum sogenannten "[Bois des sources du Peugue](http://www.pessac.fr/sources-du-peugue.html)". War eine recht schöne Route, und ich bin genau bis an die Grenze von Pessac gestoßen. Dahinter kommt die Freiheit, sprich Arcachon ... ;)
 
-[caption id="attachment_2696" align="aligncenter" width="300" caption="Le Bois des Sources du Peugue."][![](http://youcanmakeit.at/wp-content/uploads/2013/06/Photo3436-300x225.jpg)](http://youcanmakeit.at/blog/a-louest-rien-de-nouveau/attachment/photo3436/)[/caption]
+![Le Bois des Sources du Peugue.]($media$/Photo3436.jpg)
 
 Ich wünsche meinen Lesern noch einen schönen Wochenbeginn und à bientôt !

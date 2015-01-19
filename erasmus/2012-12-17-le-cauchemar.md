@@ -7,7 +7,7 @@ Meine sehr verehrten Damen und Herren, willkommen zu dieser sechzehnten Ausgabe 
 Am Montag kam ich endlich dazu, mein Fahrrad reparieren zu lassen. Ich bin seitdem wieder im Besitz eines muskelbetriebenen fahrbaren Untersatzes, allerdings immer noch mit viel zu tiefem Sattel. :(
 Um quasi nahtlos an meine kulinarischen Experimente vom vorigen Wochenende anzuschließen, leistete ich mir am Abend das Plaisir eines selbstgemachten Kaiserschmarrns! Leider stelle ich immer wieder fest, dass mich der Kaiserschmarrn nicht satt macht, wenn ich ihn selber mache (meistens nach [folgendem Rezept](http://rezepte.nit.at/rezepte/kaiserschmarren.html)); irgendetwas müssen die Leute von der Brandstatt- bzw. Auffangalm anders machen, um zu ihren "Kalorienbomben" zu gelangen.
 
-[caption id="attachment_2206" align="aligncenter" width="300" caption="Kochbuchtauglich ist das Foto zwar nicht, aber mei ..."][![](http://youcanmakeit.at/wp-content/uploads/2012/12/Photo2296-300x225.jpg)](http://youcanmakeit.at/blog/le-cauchemar/attachment/photo2296/)[/caption]
+![Kochbuchtauglich ist das Foto zwar nicht, aber mei ...]($media$/Photo2296.jpg)
 
 Am Dienstag beging ich die grandiose Dummheit, in der raureifgekrönten Dunkelheit mit dem Fahrrad ohne Schal nach Bordeaux zu fahren. Und so glitt ich traumwandlerisch durch das nächtliche Lichtermeer, während sich mein Hals langsam auf Umgebungstemperatur, sprich gefühlter Gefrierpunkt von Wasser, abkühlte und aus meinem Mund kleine Kristalle auf die matte Fahrbahn perlten. Die nächsten Tage verspürte ich ein dauerhaftes Kratzen im Hals, das sich aber bis heute glücklicherweise ohne weitere Nebenwirkungen zurückgebildet hat! :)
 
@@ -29,7 +29,7 @@ Am Nachmittag hielt ich zum Ausgleich wieder eine lange Siesta, um mich für das
 Das erste Stück (Debussy) hat mich dermaßen berührt, dass ich am Ende vor lauter Tränen kaum mehr die Musiker gesehen habe. Vielleicht war das auch eine Nebenwirkung meiner am selben Tag geschriebenen Prüfung, aber auf jeden Fall war dieses Stück so unglaublich schön interpretiert, dass ich mich kaum an ein ähnlich berührendes musikalisches Erlebnis erinnern kann. Auch Anda hat das Konzert sehr gut gefallen, und wir sind danach noch auf eine heiße Schokolade in ein Café gegangen. Alles in allem ein sehr gelungener Abend.
 Das nächste derartige Konzert findet im März statt, wo es Werke von Sibelius (Finlandia), Liszt (Les préludes) und Tschaikowsky (Roméo et Juliette) zu hören geben wird. Darauf freue ich mich schon jetzt!
 
-[caption id="attachment_2207" align="aligncenter" width="300" caption="Les enfants du Monsieur Gatto."][![](http://youcanmakeit.at/wp-content/uploads/2012/12/Photo2302-300x225.jpg)](http://youcanmakeit.at/blog/le-cauchemar/attachment/photo2302/)[/caption]
+![Les enfants du Monsieur Gatto.]($media$/Photo2302.jpg)
 
 Am Donnerstag Nachmittag begab ich mich in die Uni, um dort mit Anca Muscholl potentielle Themen für meine Masterarbeit zu besprechen. Während ich auf sie wartete, stolperte ich über ein paar Kollegen, die mit mir zusammen die Logik-Vorlesung (M1) besuchen. Ungefährer Dialog:
 Ich: "Was haltet ihr davon, wenn wir zusammen am Samstag für die Logik-Prüfung lernen?"
@@ -51,9 +51,9 @@ Dadurch ist mir zwar leider ein Konzert des Chores entgangen, nämlich das Berli
 Am Sonntag nutzte ich das (für hiesige Verhältnisse) hervorragende Wetter, um mit meinem Fahrrad zum Chorkonzert nach Merignac zu fahren. Merignac ist so wie Talence und Pessac ein Vorort von Bordeaux und liegt ca. 5km nördlich meiner Haustüre. Mir fiel beim Hinfahren auf, dass die Radwegbeschilderung nicht gerade besonders ist --- man hat zwar manchmal einen Radweg, aber man weiß nicht, wohin dieser führt. :) Da sind z.B. die Deutschen schon um einiges weiter, denn dort gibt es Wegweiser, die einem am Radweg die nächsten Orte anzeigen.
 Als ich endlich (fahrradhochgeschwindigkeitsbedingt schweißüberströmt) in Merignac ankam, war dort ein guter Teil des Chores schon versammelt, und wir sangen in der gesteckt vollen Hauptkirche von Merignac unser Weihnachtsprogramm, das bei dem Publikum sehr gut ankam. Standing ovations!
 
-[caption id="attachment_2208" align="aligncenter" width="225" caption="Église St-Vincent de Mérignac. Chübsche Kirsche."][![](http://youcanmakeit.at/wp-content/uploads/2012/12/Photo2311-225x300.jpg)](http://youcanmakeit.at/blog/le-cauchemar/attachment/photo2311/)[/caption]
+![Église St-Vincent de Mérignac. Chübsche Kirsche.]($media$/Photo2311.jpg)
 
-[caption id="attachment_2209" align="aligncenter" width="300" caption="La publique."][![](http://youcanmakeit.at/wp-content/uploads/2012/12/Photo2318-300x225.jpg)](http://youcanmakeit.at/blog/le-cauchemar/attachment/photo2318/)[/caption]
+![La publique.]($media$/Photo2318.jpg)
 
 Nach dem Konzert begab ich mich ohne Umschweife wieder per rotas in mein Domizil, wo ich mir noch einen griechischen Salat einwarf und dann relativ zeitig schlafen ging, schon so gegen halb 10. (Die mangelnde Siesta machte sich bemerkbar.) Zitat Pauline: "Wie ein alter Mann." :D
 

@@ -11,7 +11,7 @@ Am Montag Abend gönnte ich mir wieder einmal einen Filmabend bei mir und sah "[
 Am Dienstag fand das Jahreshauptkonzert meines Chores statt, und zwar in der "Église Sainte-Geneviève de Bordeaux". Dies sollte eines der bisher besten Konzerte werden, da die Stimmung im Publikum ganz ausgezeichnet war und sich das natürlich auf uns Sänger übertrug: Es macht einfach mehr Spaß, vor einem hochmotivierten Publikum zu spielen, als vor einem faden und desinteressierten. Und so gaben wir natürlich unser Bestes, was am Ende auch mit einigem Applaus reichlich honoriert wurde. ;)
 Das Konzert feierten wir dann auch bei einer kleinen soirée in einer WG, die sich aus mehreren Chormitgliederinnen zusammensetzt.
 
-[caption id="attachment_2670" align="aligncenter" width="300" caption="Soirée."][![](http://youcanmakeit.at/wp-content/uploads/2013/06/Photo3387-300x225.jpg)](http://youcanmakeit.at/blog/un-air-de-vacances/attachment/photo3387/)[/caption]
+![Soirée.]($media$/Photo3387.jpg)
 
 Die nächsten Tage arbeitete ich relativ hart an meiner Masterarbeit, dabei in engem Kontakt mit meinen beiden Betreuern stehend. Die Tatsache, dass ich zwei Betreuer habe, zeichnete sich hier als Vorteil aus, da natürlich zwei Betreuer beim Lektorat einer Arbeit mehr Fehler entdecken als ein einzelner. ;) Auch waren die verschiedenen Hintergründe meiner Betreuer sehr hilfreich, denn so sah ich die Dinge unter unterschiedlichen Aspekten.
 
@@ -20,7 +20,7 @@ Schon der Soundcheck war sehr lustig; es waren nämlich einige sehr bizarre Pers
 Nach dem Soundcheck schauten wir uns noch ein wenig auf der Fête um und konnten uns dann noch ein wenig unterirdisch ausruhen, denn unter unserem Konzertplatz war ein recht großes unterirdisches Gewölbe, eine ehemalige Parkgarage, die temporär als Künstlerloge herhalten musste. Jedenfalls ein Ort, den man als Normalsterblicher üblicherweise nicht zu Gesicht bekommt. ;)
 Das eigentliche Konzert fand dann zu bester Zeit statt, nämlich um 20 Uhr, und der Zuschauerzustrom war enorm. Einen kleinen Auszug kann man [hier](http://www.youtube.com/watch?v=39mN3-zICmE) sehen. Auch beim eigentlichen Konzert war unser Freund, der Tänzer, wieder anwesend, dazu noch ein etwas notgeil wirkender Mensch, der direkt an der Absperrung stand und die Damen unseres Chores lüstern beäugte --- er bekam seinen Mund kaum zu. Zum Glück war der Rest des Publikums etwas "normaler", und so war es ein sehr gelungenes Konzert.
 
-[caption id="attachment_2675" align="aligncenter" width="300" caption="Fête du Fleuve."][![](http://youcanmakeit.at/wp-content/uploads/2013/06/DSC_0316-300x168.jpg)](http://youcanmakeit.at/blog/un-air-de-vacances/attachment/dsc_0316/)[/caption]
+![Fête du Fleuve.]($media$/DSC_0316.jpg)
 
 Nach dem Konzert traf ich Clara, die ich zum Konzert eingeladen hatte, und wir schauten uns nach einem kurzen Imbiss noch ein anderes Konzert an. Dann ging ich zu einer Chorfeier, die direkt im Stadtzentrum bei unserer Chorsängerin Raïssa stattfand. Von dort konnte man auch das Feuerwerk sehen, das im Rahmen der Fête du Fleuve veranstaltet wurde --- wie mir erzählt wurde, hat der Bürgermeister von Bordeaux, Alain Juppé, ein faible für pyrotechnische Spektakel. ;)
 
@@ -35,7 +35,7 @@ Bei unserer Rückkehr nach Pessac war der Kauf von "après soleil" dringend ange
 
 Am Mittwoch fragte mich Romaric (ein Freund aus meiner Mensa-Stammgruppe) recht spontan, ob ich mit ihm klettern gehen möchte, was ich natürlich mit höchster Freude bestätigte! Und so fuhren wir mit seinem Auto nach dem Mittagessen in das malerische Örtchen [Frontenac](http://fr.wikipedia.org/wiki/Frontenac_%28Gironde%29), wo sich auf dem Gelände eines ehemaligen Bergbaugebiets eine natürliche Kletterwand von ca. 10m Höhe erstreckte. Bevor es ans Klettern ging, gab mir Romaric allerdings noch eine Einführung, da ich mich nicht erinnern kann, je schon einmal mit eigenem Seil klettern gegangen zu sein. (Klettersteige allerdings schon einige!) Als die Einführung vorbei war, war mir trotzdem etwas mulmig zumute, da ich ja Romaric immer wieder sichern musste, aber es ging alles gut, und auch ich selbst kam einige Male ohne Blessuren die Kletterwand hinauf. Es kam also zu keiner Tragödie wie im Film [Nordwand](https://de.wikipedia.org/wiki/Nordwand_%28Film%29), an den ich immer wieder zurückdenken musste ...
 
-[caption id="attachment_2671" align="aligncenter" width="300" caption="À l'escalade."][![](http://youcanmakeit.at/wp-content/uploads/2013/06/100_5409-300x225.jpg)](http://youcanmakeit.at/blog/un-air-de-vacances/attachment/100_5409/)[/caption]
+![À l'escalade.]($media$/100_5409.jpg)
 
 Nach dem Klettern ließen wir uns Zeit mit dem Zurückfahren nach Bordeaux, da wir bei der Hinfahrt schon einige wunderschöne Landschaften gesehen hatten, die wir noch ein wenig genießen wollten. Unter anderem sahen wir ein Art Schloss mitten in der Landschaft, die sich als Naturschutzgebiet um den Lac de Laubesc herum herausstellte --- absolut sehenswert!
 

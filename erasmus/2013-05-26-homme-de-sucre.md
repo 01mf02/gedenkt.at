@@ -19,11 +19,11 @@ Am Abend war auch ein Konzert vorgesehen, nämlich von einer Konservatoriums-Ges
 
 Am Samstag habe ich, wie schon erwähnt, beim Schreiben meine Hand etwas überstrapaziert, was ich u.a. zum Anlass nahm, ein neues Buch anzufangen, nämlich die Bob-Dylan-Autobiographie "Chroniques" (ja, auf französisch), nachdem ich vor kurzem erst mit dem Buch "Le magasin des suicides" (Geschenk von Kristin, danke nochmal dafür!) fertiggeworden bin. Am Abend aß ich mit Simon und fuhr dann mit ihm in die Stadt, um die Nacht der Museen zu besuchen. Im Zuge dessen sahen wir uns das Musée des Beaux-Arts und die etwas weiter im Norden von Bordeaux gelegene base sous-marine an, die von den Deutschen im 2. Weltkrieg konstruiert wurde und uns in der Nacht rot illuminiert anstarrte. Dort war eine Fotoausstellung über arabische Länder, mit arabischer Musik und Essen etc. --- die Deutschen hätten ihre Freude daran gehabt. ;)
 
-[caption id="attachment_2649" align="aligncenter" width="300" caption="Base sous-marine."][![](http://youcanmakeit.at/wp-content/uploads/2013/05/Photo3270-300x225.jpg)](http://youcanmakeit.at/blog/homme-de-sucre/attachment/photo3270/)[/caption]
+![Base sous-marine.]($media$/Photo3270.jpg)
 
 Den Sonntag nutzte ich für eine etwas längere Radltour (~3h), in der ich erstaunlicherweise trotz der langen Dauer nie aus meinem Wohnörtchen Pessac herauskam. Dafür machte ich eine schöne Entdeckung, nämlich die der "[Ecosite du Bourgailh](http://www.bourgailh-pessac.fr/)": Das ist ein Wäldchen im Westen von Pessac, in dem es sich ganz ausgezeichnet radfahren oder laufen lässt. Es ist zwar von der Größe her nicht ganz vergleichbar mit der Innsbrucker Nordkette oder dem Perlacher Forst bei München, aber doch zumindest die größte Grünfläche in der Umgebung, die ich bisher ausfindig machen konnte.
 
-[caption id="attachment_2650" align="aligncenter" width="300" caption="Le lac à côté du bois."][![](http://youcanmakeit.at/wp-content/uploads/2013/05/Photo3290-300x225.jpg)](http://youcanmakeit.at/blog/homme-de-sucre/attachment/photo3290/)[/caption]
+![Le lac à côté du bois.]($media$/Photo3290.jpg)
 
 Am Montag war ich immer noch gehandicappt, weshalb ich kein schlechtes Gewissen hatte, den späten Nachmittag zu einem Kinobesuch mit Lili zu nutzen: Wir sahen den Film "[Searching for Sugar Man](http://de.wikipedia.org/wiki/Searching_for_Sugar_Man)", den ich schon seit langem auf meiner Wunschliste hatte, und der Film hat mich nicht enttäuscht, vielmehr sogar zu Tränen gerührt. Ich kann ihn wirklich allerwärmstens weiterempfehlen. [I wonder ...](http://www.youtube.com/watch?v=t6bjqdll7DI)
 Nach dem Kino habe ich Lili noch das "Sherlock Holmes" gezeigt, in dem ich auch schon länger nicht mehr war. Danach haben wir noch zusammen bei mir zu Abend gegessen ...
@@ -34,7 +34,7 @@ Die anderen Kongressteilnehmer setzten sich zusammen aus Parisern ([Université 
 Für mich der größte Unterschied z.B. zu einer Chorreise waren die Abendgestaltung und die Gesprächsthemen: Wurde im Chor bis spätnachts gefeiert, gingen die Konferenzteilnehmer gleich nach dem Abendessen auf ihre Zimmer, um gleich zu schlafen oder noch zu arbeiten. Auch die Gesprächsthemen beim Essen etc. waren sehr wissenschaftlich ausgerichtet; so bekam ich beim Dîner eine kleine Einführung in die Topologie, was sich aufgrund der zahllosen Definitionen als relativ schwierig herausstellte. :)
 Trotzdem ist die Freizeit auf der Île de Ré nicht zu kurz gekommen: In den Pausen zwischen den Konferenzvorträgen ging ich oft ans Meer laufen, und am Mittwoch machten wir sogar eine Radltour über die gesamte Insel, mit 50km aufgrund des anfangs starken Gegenwinds und des eher miserablen Zustands des Leihrrads eine echte Herausforderung. Es war eine ziemlich tolle Tour, an dessen Ende wir sogar einen deutschen Bunker (in Frankreich besser bekannt unter dem Namen "Blockhaus") zu Gesicht bekamen. Nach der Tour war ich allerdings fix und fertig, nicht zuletzt auch wegen der zahlreich herumfliegenden Pollen, die meinen Augen recht stark zusetzten.
 
-[caption id="attachment_2651" align="aligncenter" width="300" caption="La mer."][![](http://youcanmakeit.at/wp-content/uploads/2013/05/Photo3348-300x225.jpg)](http://youcanmakeit.at/blog/homme-de-sucre/attachment/photo3348/)[/caption]
+![La mer.]($media$/Photo3348.jpg)
 
 Am Donnerstag hielt ich meine Präsentation, die reibungslos verlief und von meinem Publikum recht gut aufgenommen wurde, obwohl ich ja am Ende eigentlich ein Negativergebnis (siehe Mi letzter Woche) konstatieren musste.
 Nach der Präsentation fuhren Géraud und ich vorzeitig nach Bordeaux, da wir beide am Freitag arbeiten mussten.
@@ -48,11 +48,11 @@ Immerhin tauchte Simon, den ich zu dem Konzert eingeladen hatte, danach mit zwei
 
 Am Samstag arbeitete ich größtenteils an meiner Masterarbeit und traf mich am Abend wieder mit Simon und einem seiner Freunde vom Vorabend zum Abendessen, wozu ich einen griechischen Salat beisteuerte, den wir zusammen mit [bœuf bourguignon](http://de.wikipedia.org/wiki/B%C5%93uf_bourguignon) und cidre genossen. Mmmmhhh ...
 
-[caption id="attachment_2653" align="aligncenter" width="300" caption="Le dîner, avec Paul et Simon."][![](http://youcanmakeit.at/wp-content/uploads/2013/05/IMGP0849-300x225.jpg)](http://youcanmakeit.at/blog/homme-de-sucre/attachment/imgp0849/)[/caption]
+![Le dîner, avec Paul et Simon.]($media$/IMGP0849.jpg)
 
 Am Sonntag war ich hauptsächlich damit beschäftigt, diesen Artikel zu schreiben :). Zwecks Erhalts von Bildern zur soirée am Samstag Abend ging ich noch zu Simon, der sich gerade auf eine Fahrradtour nach Bourgailh vorbereitete, und ich beschloss spontan, mich anzuschließen. So fuhren wir also in den Pessacer Hauswald, wo wir das dortige Gewächshaus besichtigten (sehr zu empfehlen!) und nach einer kleinen Tour zum See wieder zurückfuhren.
 
-[caption id="attachment_2652" align="aligncenter" width="225" caption="Avec Simon dans les serres de Bourgailh."][![](http://youcanmakeit.at/wp-content/uploads/2013/05/Photo3376-e1369592380785-225x300.jpg)](http://youcanmakeit.at/blog/homme-de-sucre/attachment/photo3376/)[/caption]
+![Avec Simon dans les serres de Bourgailh.]($media$/Photo3376-e1369592380785.jpg)
 
 
 

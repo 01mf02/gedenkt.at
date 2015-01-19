@@ -12,7 +12,7 @@ Meine bisherige Prüfungsbilanz liegt somit mit einem vorhergesehenen Durchschni
 Am Nachmittag gönnte ich mir dann zur Feier des Tages eine Siesta ohne Wecker, die mit 3h Dauer dann allerdings doch ziemlich lang ausfiel --- wenn man vom Mittagsschläfchen erst wieder aufwacht, wenn die Sonne schon wieder untergeht, dann fühlt man sich doch ein wenig faul. Aber andererseits sind ja Studenten notorische Faulenzer, und als solcher verhalte ich mich nur artgemäß. ;)
 Was charakterisiert den Studenten außer der Faulheit noch? Richtig, neben der Siesta ist die _Fiesta_ das zweitwichtigste characteristicum studentis. Demgemäß beschloss ich mich nach meiner Extrem-Siesta, mich mit meiner Erasmus-Gruppe dem Biergenuss im Cock & Bull hinzugeben, wo außerdem wieder ein Pub-Quiz stattfinden sollte. Unser Gruppenname des Abends: "Who cares about France?" (Danke für deinen Geistesblitz, Stefan!) Leider sind wir wieder grandios gescheitert. Natürlich nicht wegen unseres Gruppennamens.
 
-[caption id="attachment_2183" align="aligncenter" width="300" caption="C'est Kristin tout crachée ... :)"][![](http://youcanmakeit.at/wp-content/uploads/2012/12/Photo2278-300x225.jpg)](http://youcanmakeit.at/blog/le-calme-avant-la-tempete/attachment/photo2278/)[/caption]
+![C'est Kristin tout crachée ... :)]($media$/Photo2278.jpg)
 
 Am Dienstag fand in Village 2 eine Zimmerinspektion statt, im Zuge derer ich zuvor meinen kleinen Kakerlakis einschärfte, keinen Mucks von sich zu geben und sich möglichst hinter meinem Kühlschrank versteckt zu halten. Ach, ich vergaß, dass sie das ohnehin tun --- ich habe sie scheinbar sehr gut erzogen! Die Inspektion war jedenfalls fast lächerlich einfach, ein kurzer Blick ins Zimmer, eine Unterschrift meinerseits und fertig. Man muss wohl ein absolutes Müllschwein sein, dass man bei dieser Inspektion durchfällt.
 Am Nachmittag traf ich mich noch mit meiner PER-Gruppe, um unsere Arbeit weiterzutreiben. Bei diesem Treffen kam es zu Meinungsverschiedenheiten zwischen uns, die ich eigentlich gütlich lösen wollte. Als aber mein Kollege Noël einen meiner Ansicht nach vollkommen undurchdachten Schmarrn auf die Tafel schrieb, bekam ich einen dermaßenen Wutanfall, dass ich nicht mehr Französisch sprechen konnte und mich nur mehr mühsam auf Englisch ausdrücken konnte. (Erinnert mich an die Südtiroler, die mit ihren Kindern nur dann Italienisch sprechen, wenn sie etwas ausgefressen haben.) Stieg dann noch wutentbrannt in die Tram Richtung Sprachkurs, wobei mir vor lauter Ärger gar nicht auffiel, dass ich eine Stunde zu früh dran war. :) In der Alliance Française angekommen musste ich meine cholerischen Elemente irgendwie abbauen, und so schrieb ich ein kleines Lied, wobei Lied wohl noch eine eher harmlose Beschreibung ist. Es war mitnichten ein klassisches Lied, sondern vielmehr in Textform gegossener Zorn. Es bewahrheitet sich hier wieder, dass ich zum Schreiben von Lieder in einer sehr emotionalen Stimmung sein muss, sonst klappt es nicht ...
@@ -84,7 +84,7 @@ Anmerkungen dazu:
 
 Das Konzert dauerte ungefähr 45 Minuten. Die Ansagen machte ich auf Englisch, da Matze, der Freund von Kristin, anwesend war und ja immer noch kein Französisch beherrscht. ;) Dabei fiel mir auf, dass mein Englisch schon komplett eingerostet ist; ich musste mich bei vielen Sätzen vergewissern, ob ich nicht versehentlich ein französisches Wort eingebaut hätte. (Sonst kommen Sätze heraus wie z.B.: "Were you on the market yesterday aussi?")
 
-[caption id="attachment_2181" align="aligncenter" width="300" caption="Post concertem."][![](http://youcanmakeit.at/wp-content/uploads/2012/12/IMG_3298-300x225.jpg)](http://youcanmakeit.at/blog/le-calme-avant-la-tempete/attachment/img_3298/)[/caption]
+![Post concertem.]($media$/IMG_3298.jpg)
 
 Nach dem Konzert luden mich noch meine québécois (die sehr zahlreich erschienen waren) ins Sherlock Holmes ein, ich war allerdings aufgrund eklatanten Schlafmangels (nur ca. 4h!) ziemlich müde und habe mich dann nach Hause ins Bettchen getrollt.
 Danke an dieser Stelle auf jeden Fall an meine Zuhörer; es hat mir Spaß gemacht, für euch zu spielen! :)
@@ -94,22 +94,22 @@ Den Donnerstag habe ich mich wieder ans Klavier gesetzt und ca. 2h lang geübt, 
 Am Freitag war, wen wundert es, wieder einmal ein Chorkonzert angesagt! Dieses fand abends in der Kirche Notre-Dame statt, allerdings nicht in Paris, sondern im Zentrum von Bordeaux. :) Diese Kirche hatte ich zuvor noch nie gesehen, und sie ist wirklich recht hübsch!
 Das Konzert wurde veranstaltet [zu Gunsten von krebskranken Kindern und Jugendlichen](http://www.sudouest.fr/2012/12/03/espoir-en-musique-897392-2780.php), und wir sangen in einer ziemlich vollen Kirche (trotz regulären Eintrittspreises von 15€!) ca. zwei Stunden lang kreuz und quer durch das musikalische Gemüsebeet, saisonbedingt auch einige Weihnachtslieder. Bei diesem Konzert war auch Pauline anwesend, der es sehr gut gefallen hat.
 
-[caption id="attachment_2182" align="aligncenter" width="300" caption="Qui peut me trouver ?"][![](http://youcanmakeit.at/wp-content/uploads/2012/12/P1000596-300x225.jpg)](http://youcanmakeit.at/blog/le-calme-avant-la-tempete/attachment/p1000596/)[/caption]
+![Qui peut me trouver ?]($media$/P1000596.jpg)
 
 Nach dem Konzert ging es noch zu unserem Chorleiter Alexis, wo eine sogenannte soirée espagnole stattfand: Alexis hatte nämlich unsere Reise in Spanien filmisch festgehalten, und er präsentierte uns das Ergebnis in Form einer einstündigen Dokumentation, die überwiegend humoristisch angelegt war. Zum Glück war ich nicht allzu häufig in peinlichen Situationen anzusehen. ;)
 
-[caption id="attachment_2186" align="aligncenter" width="300" caption="Avant la première du film."][![](http://youcanmakeit.at/wp-content/uploads/2012/12/Photo2286-300x225.jpg)](http://youcanmakeit.at/blog/le-calme-avant-la-tempete/attachment/photo2286/)[/caption]
+![Avant la première du film.]($media$/Photo2286.jpg)
 
 Den Samstag habe ich überwiegend lernend verbracht. Am Nachmittag habe ich mich noch mit Noël für PER getroffen, wo wir sehr gut vorangekommen sind und nunmehr am Montag eine gute Arbeit präsentieren können. Ich war etwas erleichtert, dass ich mich mit Noël nach meinem durch ihn am Dienstag ausgelösten Wutanfall wieder so gut verstanden habe. ;)
 Am Abend wollte ich eigentlich ursprünglich im Basislager (Village 2) bleiben, ließ mich dann aber doch von Phil zu einem kleinen abendlichen Umtrunk überreden, den wir dann in einer neuen Lokalität, nämlich dem Rose Pub (ich liebe solche Film-Anspielungen ^^), einnahmen. In besagtem Pub wurde überwiegend Paulaner-Bier aus München ausgeschenkt, was besonders bei unseren Deutschen auf Anklang stieß. (Ich persönlich bin kein so großer Paulaner-Fan, aber das Paulaner Salvator hat mir nicht so schlecht geschmeckt.)
 
 Am Sonntag hieß es wieder lernen, aber ich fand zwischendurch wieder einmal Zeit, mich kulinarisch zu betätigen. Voilà: mein erstes französisches Wiener Schnitzel, selbst paniert! Es ist mir auf Anhieb gelungen, und trotz mangelnder Zitrone, trotz mangelnder Preiselbeermarmelade war es ein Genuss. Man wird bescheiden, wenn man tagein, tagaus Spaghetti, Spiegelei, Tortellini und Frankfurter mampft. :)
 
-[caption id="attachment_2185" align="aligncenter" width="300" caption="Escalope viennoise."][![](http://youcanmakeit.at/wp-content/uploads/2012/12/Photo2293-300x225.jpg)](http://youcanmakeit.at/blog/le-calme-avant-la-tempete/attachment/photo2293/)[/caption]
+![Escalope viennoise.]($media$/Photo2293.jpg)
 
 In Village 2 ist übrigens schon erste nomadische (weniger monadische ^^) Aktivität zu erkennen, denn die ersten Heimbewohner ziehen schon wieder aus, da ihr Erasmus-Aufenthalt zu Ende ist. Unter anderem auch Tina und Dorca aus Ungarn. Schluchz. Was sich dadurch aber kaum ändern wird, ist der Zustand der Hütte, der mittlerweile auch literarische Anerkennung an der Tür zu den Klohäusln gefunden hat.
 
-[caption id="attachment_2184" align="aligncenter" width="225" caption="War leider bisher noch nicht von Erfolg gekrönt."][![](http://youcanmakeit.at/wp-content/uploads/2012/12/Photo2273-225x300.jpg)](http://youcanmakeit.at/blog/le-calme-avant-la-tempete/attachment/photo2273/)[/caption]
+![War leider bisher noch nicht von Erfolg gekrönt.]($media$/Photo2273.jpg)
 
 Zum Abschluss noch eine kleine Liste von Dingen, die ich aus Tirol nach den Weihnachtsferien mitnehmen möchte:
 

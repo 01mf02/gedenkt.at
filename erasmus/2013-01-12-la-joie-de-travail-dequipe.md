@@ -24,9 +24,9 @@ Zum Glück ist die Informatik (entgegen der Meinung dieses Professors) kein Fach
 Gut, genug philosophiert. Die Gruppenarbeit gab ich auf jeden Fall rechtzeitig am 8. Jänner ab, nachdem ich am selben Tag noch alle erforderlichen Funktionen eingebaut hatte. Dann machte ich mich auf in die Universität, um dort meinen Innsbrucker Betreuer Cezary zu treffen und mit ihm das Thema meiner Masterarbeit zu besprechen. Ich habe mich jetzt nämlich für das Thema "Complexité des preuves d'égalité de langages finis" von Géraud Sénizergues entschieden, das meinem Bauch einfach mehr zugesagt hat als die Themen von Anca Muscholl. Diese Entscheidung ist mir allerdings sehr, sehr schwer gefallen, und ich bin mir immer noch nicht ganz sicher, ob es eine wirklich gute Entscheidung war, denn Anca hat sich mir gegenüber so zuvorkommend verhalten, dass ich ehrlich gesagt nicht sicher bin, ob ich nicht gerade eine riesige Dummheit begehe. Aber andererseits finde ich das Thema, für das ich mich entschieden habe, sehr spannend und hoffe, dass mich der Schein nicht trügt.
 Um meinen Entschluss und die fertige Gruppenarbeit zu feiern, ging ich am Abend noch zu meinem Freund Gerald, wo wir uns den Film [Contact High](http://de.wikipedia.org/wiki/Contact_High) zu Gemüte führten und danach noch lange diskutierten.
 
-[caption id="attachment_2268" align="aligncenter" width="300" caption="Moderne Kunst an der Universität Innsbruck."]![](http://youcanmakeit.at/wp-content/uploads/2013/01/Photo2498-300x225.jpg)[/caption]
+![Moderne Kunst an der Universität Innsbruck.]($media$/Photo2498.jpg)
 
-[caption id="attachment_2269" align="aligncenter" width="300" caption="So schaut's aus bei mir."]![](http://youcanmakeit.at/wp-content/uploads/2013/01/Photo2499-300x225.jpg)[/caption]
+![So schaut's aus bei mir.]($media$/Photo2499.jpg)
 
 Am Tag darauf, Mittwoch 9. Jänner, ging ich noch mit meiner Tante Schuhe kaufen, nachdem meine alten Treter ja dem beständigen Pariser Regen nicht standgehalten haben. Somit bin ich jetzt im Besitz echter Schweizer Qualitätsschuhe (zumindest hoffe ich das), die mir hoffentlich dank Gore-Tex auch in dem Dauerregen von Bordeaux trockene Füße bewahren werden.
 Am Abend traf ich mich dann mit Spielmanns im Innsbrucker Leostüberl (gegenüber Leokino), im Zuge dessen ich von ihnen reich mit Tiroler Spezialitäten beschenkt wurde; von selbstgemachter Marmelade über Kaminwurzen bis Speck war wirklich alles dabei --- danke nochmal vielmals dafür! :)
@@ -35,7 +35,7 @@ Am Donnerstag erledigte ich noch allfällige Geschäfte vor meiner Abreise nach 
 Weiters besorgte ich mir noch ein Paar neue Hausschuhe für Bordeaux ([Kitz-Pichler](http://www.gottstein.at/)) und besuchte dann noch meinen Freund Karl im Krankenhaus, wo er aufgrund eines beim Schifahren gebrochenen Daumens einsitzen (abliegen?) musste.
 Nach dieser Tour d'Innsbruck ging es am Abend nach Hause, wo das "letzte Abendmahl" mit meiner Familie stattfand. Der Kloß in meinem Hals wurde da schon immer größer ...
 
-[caption id="attachment_2270" align="aligncenter" width="300" caption="Ein glücklicher Patient ..."]![](http://youcanmakeit.at/wp-content/uploads/2013/01/Photo2503-300x225.jpg)[/caption]
+![Ein glücklicher Patient ...]($media$/Photo2503.jpg)
 
 Am Freitag war dann der Tag der Reise nach Bordeaux! Natürlich fing es genau an diesem Tage in Innsbruck an zu schneien, das erste Mal seit meiner Ankunft in Tirol überhaupt. Mir schien, also wollte mich selbst der Wettergott verhöhnen und mir deutlich vor Augen führen, dass ich diese Saison wohl nicht mehr in den Genuss des geliebten weißen Goldes kommen würde. :(
 Um die Reise kurz zu illustrieren, seien die verschiedenen Verkehrsmittel genannt, derer ich mich bediente:
@@ -67,9 +67,9 @@ Um die Reise kurz zu illustrieren, seien die verschiedenen Verkehrsmittel genann
   * Tram B Richtung Pessac Centre nach Doyen Brus
 
 
-[caption id="attachment_2272" align="aligncenter" width="300" caption="Der Zug, der mich von zuhause fortträgt ..."]![](http://youcanmakeit.at/wp-content/uploads/2013/01/Photo2504-300x225.jpg)[/caption]
+![Der Zug, der mich von zuhause fortträgt ...]($media$/Photo2504.jpg)
 
-[caption id="attachment_2271" align="aligncenter" width="300" caption="Der Arlberg gab sich verschneit."]![](http://youcanmakeit.at/wp-content/uploads/2013/01/Photo2514-300x225.jpg)[/caption]
+![Der Arlberg gab sich verschneit.]($media$/Photo2514.jpg)
 
 Ich brauche wohl nicht zu erwähnen, dass ich nach dieser Reise komplett paniert in meinem französischen Domizil ankam --- sieben Mal umsteigen! Was mich allerdings mehr mitnahm als die Reise selbst, war die Gewissheit, dass ich nunmehr gut sechs Monate in Frankreich verbringen muss, ohne größere Möglichkeit, einmal nach Österreich zu fahren. Selbst wenn ich die Möglichkeit hätte, würde ich sie vermutlich nicht wahrnehmen, da mich der Ortswechsel jedes Mal so sehr psychisch schmerzt, dass es mir mehr Schaden als Nutzen bringen würde. Ich bin auch im Moment noch total traurig darüber, dass ich mein geliebtes Heimatland verlassen habe, wo ich noch gestern geweilt habe --- tatsächlich liegt ein leichter Tränenschleier über meinen Augen, während ich diese Worte hier schreibe. Zusätzlich hat sich soeben wieder ein großer Kloß in meinem Hals gebildet, der einfach nicht weggehen möchte. Selbst das gemeinsame Frühstück mit Pauline heute Früh hat mich nur kurzfristig aufgeheitert.
 Ich bin mir sehr sicher, dass spätestens morgen oder übermorgen dieser initiale Fluchtreflex à la "ich fahre sofort mit dem nächsten Zug wieder zurück nach Österreich" wieder verschwunden sein wird und ich mich langsam wieder eingewöhnen werde, doch ist das leider kein großer Trost, wenn ich mich gerade einfach sehr verlassen und von meiner Heimat abgeschnitten fühle. (Tränen kommen wieder ...) Ich scheine allerdings durchaus nicht der einzige zu sein, dem es so ergangen ist; auch Pauline hat von selbiger Stimmung bei ihrer letzten Ankunft in Bordeaux berichtet, und sie musste nicht einmal Land oder Sprache wechseln, sondern nur den Aufenthaltsort!
@@ -81,4 +81,4 @@ P.S.: Bei der Ankunft in meinem französischen Zimmer musste ich feststellen, da
 
 P.P.S.: Spontanes Nachbarntreffen in Village 2! Jetzt fühle ich mich schon ein wenig besser ...
 
-[caption id="attachment_2275" align="aligncenter" width="300" caption="Omar, Miriam, Idir et Pauline."]![](http://youcanmakeit.at/wp-content/uploads/2013/01/Photo2524-300x225.jpg)[/caption] 
+![Omar, Miriam, Idir et Pauline.]($media$/Photo2524.jpg)

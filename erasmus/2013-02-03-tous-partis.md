@@ -103,27 +103,27 @@ et reviens chez moi en Espagne !"
 Am Donnerstag hatte ich dann auch noch rendez-vous mit Géraud, mit dem ich mich über meine weitere Vorgangsweise (Austrizismus à propos ^^) abstimmte: In der nächsten Zeit beschäftige ich mich damit, ob und wie ich von einem Algorithmus ausgehend automatische Äquivalenzbeweise konstruieren kann. Sehr cool. :) Habe seither schon ein bisschen über dem Problem meditiert und begonnen, den Algorithmus in OCaml zu implementieren, da seine Funktionsweise für mich noch ein wenig im Dunklen liegt.
 Am Abend war dann die Abschiedsfeier für Kristin, der ich glücklicherweise beiwohnen konnte. Allerdings war ich durch den wenigen Schlaf in der Nacht davor (3h?) ziemlich müde, sogar zu müde, um allzu groß über den Weggang von Kristin traurig zu sein, was mir sehr entgegenkam. Schlafentzug --- ein probates Mittel gegen Depression?
 
-[caption id="attachment_2343" align="aligncenter" width="300" caption="Soirée Kristin."]![](http://youcanmakeit.at/wp-content/uploads/2013/02/Photo2596-300x225.jpg)[/caption]
+![Soirée Kristin.]($media$/Photo2596.jpg)
 
 Am Freitag war nix sonderlich interessantes los. Hab mir Jägernudeln gemacht, powered by Tiroler Speck. :)
 
-[caption id="attachment_2344" align="aligncenter" width="300" caption="Pâtes de chasseur."]![](http://youcanmakeit.at/wp-content/uploads/2013/02/Photo2600-300x225.jpg)[/caption]
+![Pâtes de chasseur.]($media$/Photo2600.jpg)
 
 Am Samstag ging ich mit Sara in die Stadt, wo wir im jardin public (Volksgarten) ein wenig flanierten und uns dann in ein Café platzierten. Anschließend machten wir uns in den Auchan auf, wo ich (leider erfolglos) versuchte, für meinen Stabmixer einen Schneebesen-Aufsatz zu bekommen. Des isch volle schlecht. Danach machte ich mich in mein Domizil auf, da Sara noch krank war und sich auskurieren musste.
 
-[caption id="attachment_2345" align="aligncenter" width="300" caption="Sara dans le jardin public."]![](http://youcanmakeit.at/wp-content/uploads/2013/02/Photo2607-300x225.jpg)[/caption]
+![Sara dans le jardin public.]($media$/Photo2607.jpg)
 
 Bei mir angekommen machte ich mir Crêpes, denn am 2. Feber ist in Frankreich [fête des crêpes](http://fr.wikipedia.org/wiki/Chandeleur). Interessant, wusste ich zuvor auch nicht. Nach einem gemütlichen Abendessen saß ich also vor meinem Computer und machte n'importe quoi, als plötzlich das Licht ausging, sich die Helligkeit meines Computerbildschirms automatisch reduzierte und der Kühlschrank sich mit einem Geräusch abfallender Tonhöhe in den Winterschlaf verabschiedete. Was hat sich begeben? Stromausfall! Zuerst nur an einen lokalen Ausfall denkend (so wie das letzte Mal, als der chinesische Mehrfachstecker meines Nachbarn explodiert ist), begab ich mich auf den Gang, wo ich allerdings feststellen musste, dass ganz Village 2 bis auf ein paar grüne Notlichter zappenduster war. Statt Elektronen strömten nunmehr dunkle Gestalten auf den Gang, die man noch nie zuvor gesehen hatte, und erkundigten sich, ob man denn auch keinen Strom hätte? Nachbarin Kasia beruhigte allerdings unter Verweis darauf, dass das schon häufiger vorgekommen sei und nach fünf Minuten die Stromversorgung üblicherweise wiederhergestellt wäre. Und siehe da, tatsächlich: Es wurde Licht! Die Zivilisation kehrte wieder in unsere heiligen Hallen zurück, und die einstmals dunklen Gestalten, nunmehr hell erleuchtet, krochen (Kakerlaken gleich) eilig wieder in ihre Zimmer zurück. Ich nützte die Gelegenheit, um noch zuvor ein paar Nachbarn zu einem kleinen Aperitif einzuladen, der dann auch bei mir stattfand.
 
-[caption id="attachment_2354" align="aligncenter" width="300" caption="Jorge, Miriam (pense de ne pas être photogène) et Kasia."]![](http://youcanmakeit.at/wp-content/uploads/2013/02/Photo2611-300x225.jpg)[/caption]
+![Jorge, Miriam (pense de ne pas être photogène) et Kasia.]($media$/Photo2611.jpg)
 
 Der Sonntag begrüßte mich mit Wochenend und Sonnenschein, und von letzterem --- für Bordeaux ungewohnt --- nicht zu knapp. Diese Gelegenheit nutzte ich, um meinem Fahrrad den schon länger ersehnten Auslauf zu geben und zum marché nach Pessac Centre zu fahren. Dieser zeigte sich bei bestem Wetter zum Platzen voll und beeindruckte mich durch seine Größe. Ich kann mich an keinen einzigen Bauernmarkt in Österreich oder Deutschland erinnern, der nur annähernd eine solche Dimension erreicht hätte. Lustigerweise gibt es dort auch z.B. Kleider zu kaufen, und zwar zu ziemlich kompetitiven Preisen. ;) In dem Schieben und dem Schubsen ergatterte ich neben dem obligatorischen Baguette auch ein cannelé, eine typische Spezialität aus Bordeaux.
 
-[caption id="attachment_2347" align="aligncenter" width="300" caption="Marché à Pessac."]![](http://youcanmakeit.at/wp-content/uploads/2013/02/Photo2613-300x225.jpg)[/caption]
+![Marché à Pessac.]($media$/Photo2613.jpg)
 
 Nach dem Marktbesuch nützte ich das Wetter noch für eine kleine Radltour, nämlich Richtung Arcachon, um einmal abzuklären, wie leicht der Weg dorthin mit dem Fahrrad zu finden ist. Das Resultat war allerdings ernüchternd: Die Fahrradwege in Pessac sind nämlich an unklarer Beschilderung kaum zu übertreffen; ähnliches habe ich bisher erst in der Steiermark erlebt. :) Der "Radweg" nach Arcachon stellte sich --- zumindest in Pessac --- als relativ stark befahrene Straße mit kleinem Radlstreifen direkt neben den Autos heraus. Unter einem schönen Radweg verstehe ich etwas anderes. Vielleicht ist es allerdings nach Verlassen des Ortsgebietes etwas besser --- zumindest laut Freund Google gibt es dort einen relativ durchgängigen Feldweg entlang der Bahnstrecke, was mir mehr zusagen würde als die dreckige autostrada.
 
-[caption id="attachment_2346" align="aligncenter" width="300" caption="Très creatif. :)"]![](http://youcanmakeit.at/wp-content/uploads/2013/02/Photo2618-300x225.jpg)[/caption]
+![Très creatif. :)]($media$/Photo2618.jpg)
 
 Nachdem ich also in Pessac ein wenig herumgekurvt war, kehrte ich in mein Domizil zurück, wo ich Yuko wieder einmal auf ein Mittagessen (griechischer Salat) einlud. Zuvor musste ich die allerdings etwas unangenehme Erfahrung machen, dass die Zigeuner scheinbar wieder zurückgekehrt sind, denn auf dem Hof von Village 2 fragte mich eine Familie, ob ich ihnen die Türe öffnen könnte, da sie duschen möchten. Das verweigerte ich ihnen; trotzdem versuchte ein Knabe bei meinem Eintritt in das Haus die hinter mir zufallende Tür aufzuhalten, was ich allerdings verhinderte. Ich fühlte mich danach etwas herzlos, andererseits denke ich daran zurück, dass die Zigeuner einmal vermutlich den Schließmechanismus der Türe ausgehebelt hatten und sich die Türe danach nicht mehr schließen ließ. Auch der "fette Zigeuner", der die weiblichen Schönheiten von Village 2 beim Duschen beobachtet, ist schon beinahe legendär. Insofern habe ich kein allzu schlechtes Gewissen, da ich meine, dass, wenn man sich ein Nomadendasein aussucht, man auch dazu stehen und nicht in Studentenheimen bei den sanitären Einrichtungen mitschmarotzen soll, ganz zu schweigen von einigen schwarzen Schafen, die sich dann im Wohnheim danebenbenehmen und gegen die man keine Handhabe hat.
 Und doch ... irgendwie haben sie mir schon leid getan. Vielleicht öffne ich ihnen das nächste Mal doch die Türe, wenn sie duschen möchten ...
@@ -132,6 +132,6 @@ In diesem Sinne wünsche ich meinen Lesern noch einen angenehmen Abend und hoffe
 
 P.S.: Wer könnte sich in Österreich vorstellen, dass es im Jänner Mücken gibt? Immerhin hat sich mein Kakerlakenproblem verringert, meine kleinen Freunde sehe ich nur noch selten. :( Dafür hat Nachbar Omar meinen Rekord gebrochen; er hat heute ca. 60 Kakerlaken exterminiert. Das tapfere Schneiderlein würde vor Neid erblassen.
 
-[caption id="attachment_2355" align="aligncenter" width="300" caption="Le nouveau maître des cafards."]![](http://youcanmakeit.at/wp-content/uploads/2013/02/Photo2620-300x225.jpg)[/caption]
+![Le nouveau maître des cafards.]($media$/Photo2620.jpg)
 
 P.P.S.: [Noch ein schönes Lied zum Ende.](http://www.youtube.com/watch?v=PqrD5aVH-ro)

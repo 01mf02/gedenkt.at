@@ -90,13 +90,13 @@ Am Freitag fand wieder einmal ein kleines Treffen unserer Erasmus-Gruppe statt, 
 
 Am Samstag stand eine kulturelle Stadtführung von Bordeaux am Programm! Diese wurde veranstaltet von unserer Französisch-Professorin, die den Französisch-Kurs am Dienstag hielt und uns nunmehr aufgrund einer Beinoperation leider nicht mehr unterrichten wird. Wir sahen bei dieser Stadtführung einige uns schon bekannte Monumente, aber auch einige versteckte Ecken der Stadt --- ich hoffe, meine nächsten Besucher aus Heimatlanden jetzt also eine kulturelle Einführung in die Stadt geben zu können. ;)
 
-[caption id="attachment_2541" align="aligncenter" width="300" caption="À la fin du tour."][![](http://youcanmakeit.at/wp-content/uploads/2013/03/Photo2979-300x225.jpg)](http://youcanmakeit.at/blog/tranquille/attachment/photo2979/)[/caption]
+![À la fin du tour.]($media$/Photo2979.jpg)
 
 Nach der Stadtbesichtigung gingen wir geschlossen zum Döner (obwohl es kein Dienstag und somit kein Döner-Day war!), der nach der ausführlichen Stadttour auch dringend nötig war. Danach verabschiedete ich mich frühzeitig von den anderen, da ich starken Siesta-Bedarf hatte und mich für den Abend ausruhen wollte, denn da war ein Chorkonzert angesagt.
 Dieses Konzert fand in der Maison cantonale de La Bastide in Bordeaux statt, auf der rive droite (rechten Flussseite) von Bordeaux. Wunderschön in der Nähe der Tramstation "Stalingrad" gelegen (führt zu lustigen Sätzen wie "Ich fahre heute nach Stalingrad." ^^) begrüßte uns die Maison cantonale mit einem kleinen, aber feinen Veranstaltungssaal, den wir an diesem Abend allerdings leider nicht füllten, vermutlich wegen mangelnder Werbung. War aber trotzdem ein tolles Konzert!
 
 Am nächsten Tag ging es weiter mit dem nächsten Konzert, diesmal in der Dorfkirche von Camarsac. Hier bekamen wir immerhin schon vor dem Konzert crêpes und cidre serviert, sodass dieses Konzert ein sehr lustiges wurde. ;)
 
-[caption id="attachment_2542" align="aligncenter" width="300" caption="À Camarsac."][![](http://youcanmakeit.at/wp-content/uploads/2013/03/Photo2985-300x225.jpg)](http://youcanmakeit.at/blog/tranquille/attachment/photo2985/)[/caption]
+![À Camarsac.]($media$/Photo2985.jpg)
 
 Das war im Groben und Ganzen meine Woche. Ich hoffe, dass diese Woche auch für meine verehrten Leser eine gute war und freue mich auf ein Wiederlesen! :)
