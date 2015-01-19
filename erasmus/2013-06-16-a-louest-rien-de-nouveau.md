@@ -9,26 +9,12 @@ Ich mache mir momentan allerdings ein wenig Sorgen über meine "Reintegration" i
 
 Ein Aufbruch muss natürlich wohl geplant sein --- hier also eine kurze Aufstellung meiner Pläne, die sich dann natürlich an der Realität messen lassen müssen. Frei nach Brecht: "Ja; mach nur einen Plan, sei nur ein großes Licht! Und mach dann noch´nen zweiten Plan, gehn tun sie beide nicht." Na sein wir einmal nicht so pessimistisch:
 
-
-
-	
-  * 17. Juni: Präsentation der Masterarbeit an der Universität Bordeaux 1
-
-	
-  * 20.-23. Juni: Aufenthalt in [Peyrehorade](http://www.peyrehorade.fr/) (Nähe Bayonne/Biarritz) bei Simon
-
-	
-  * 28. Juni: Auszug aus Village 2
-
-	
-  * 28.-30. Juni: Aufenthalt in [Preignac](http://www.preignac.fr) (Nähe Bordeaux) bei Eli
-
-	
-  * 30.-5. Juni: Aufenthalt in La Grande-Motte bei meinem Cousin Mino
-
-	
-  * 5.-8. Juni: Heimfahrt nach Innsbruck mit meinen Eltern
-
+* 17. Juni: Präsentation der Masterarbeit an der Universität Bordeaux 1
+* 20.-23. Juni: Aufenthalt in [Peyrehorade](http://www.peyrehorade.fr/) (Nähe Bayonne/Biarritz) bei Simon
+* 28. Juni: Auszug aus Village 2
+* 28.-30. Juni: Aufenthalt in [Preignac](http://www.preignac.fr) (Nähe Bordeaux) bei Eli
+* 30.-5. Juni: Aufenthalt in La Grande-Motte bei meinem Cousin Mino
+* 5.-8. Juni: Heimfahrt nach Innsbruck mit meinen Eltern
 
 Bis zu meiner Ankunft in Tirol ist natürlich noch eine Menge zu organisieren; die Liste geht von Kontoschließung über Fahrradverkauf bis Mobilfunkvertragsauflösung. Meine geschätzte Leserschaft möchte ich nicht mit unwesentlichen Details dazu plagen.
 

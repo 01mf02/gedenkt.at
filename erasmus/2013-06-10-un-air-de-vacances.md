@@ -39,7 +39,7 @@ Am Mittwoch fragte mich Romaric (ein Freund aus meiner Mensa-Stammgruppe) recht 
 
 Nach dem Klettern ließen wir uns Zeit mit dem Zurückfahren nach Bordeaux, da wir bei der Hinfahrt schon einige wunderschöne Landschaften gesehen hatten, die wir noch ein wenig genießen wollten. Unter anderem sahen wir ein Art Schloss mitten in der Landschaft, die sich als Naturschutzgebiet um den Lac de Laubesc herum herausstellte --- absolut sehenswert!
 
-[caption id="attachment_2672" align="aligncenter" width="300" caption="Lac de Laubesc"][![](http://youcanmakeit.at/wp-content/uploads/2013/06/100_5436-300x82.jpg)](http://youcanmakeit.at/blog/un-air-de-vacances/attachment/100_5436/)[/caption]
+![Lac de Laubesc]($media$/100_5436.JPG)
 
 Weiters sahen wir einen Radweg (voie verte), der ca. 50km von Bordeaux nach Sauveterre-de-Guyenne führt und einen sehr schönen Eindruck macht. Hätte ich ein gescheites Fahrrad, würde ich mir sofort einen Tag für diese Route gönnen ...
 Nach unserer Landschaftsbesichtigung gingen wir in eine Pizzeria, um den Tag bei einer Riesenpizza und einem Radler ausklingen zu lassen. Da Romaric ein bisschen mehr als ich trank, bot ich ihm an, das Steuer bei der Rückfahrt zu übernehmen, und so kam ich also zum allerersten Mal ans Steuer eines Autos in Frankreich. Die Tatsache, dass es ein Diesel-Auto war, es mittlerweile stockdunkel war und ich vor ca. fünf Monaten das letzte Mal Auto gefahren bin, machten mir anfangs ein wenig zu schaffen, weshalb ich oftmals auf der Landstraße mit 40km/h unterwegs war. Gab mir jedenfalls schon einen Vorgeschmack auf die Pension. ;)

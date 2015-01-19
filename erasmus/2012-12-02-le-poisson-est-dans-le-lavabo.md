@@ -38,16 +38,8 @@ Heute habe ich dann wieder einen Strebertag eingelegt, ohne besondere Vorkommnis
 
 Weitere Meldungen des Tages:
 
-
-
-	
-  * Habe ein probates Mittel gefunden, um die Cedille unter Linux etwas weniger umständlich eingeben zu können: Das Zeichen '  (rechts vom ß) direkt gefolgt vom "c" erzeugt ein wunderschönes ç bzw. Ç. Jetzt brauche ich nur noch einen Weg, um das "ë" schreiben zu können ...
-
-	
-  * Möchte mir heute noch die Sendung Österreich-Bild anschauen, in der ein Bericht über die "Neue Unterinntalbahn" gesendet wird. Da das Internet am Abend hier ziemlich langsam sein kann, habe ich nach Wegen gesucht, um Sendungen aus der ORF-TVthek herunterzuladen, und bin [hier](http://rwrbrille.at/2010/03/howto-video-download-von-der-orf-tvthek/) fündig geworden. Besagte Anleitung lässt sich auch ohne weiteres auf Linux übertragen, wo man die entsprechende WMV-Datei mittels "mplayer -dumpstream mms://[...].wmv" herunterladen kann. Habe den Blog, wo ich die besagte Anleitung gefunden habe, noch etwas ausgiebiger studiert, und habe jetzt Lust auf einen [Wintersonnenuntergangswaldspaziergang](http://rwrbrille.at/2011/12/wintersonnenuntergangswaldspaziergange/). :) Ich freue mich schon wieder auf zuhause!
-
-	
-  * Der Titel dieses heutigen Artikels leitet sich übrigens ab von einem Missverständnis: Kristin wollte etwas sagen wie "je suis déjà empoisonnée dans le labor" (dt. "ich werde schon im Labor vergiftet") , worauf ich "le poisson est dans le lavabo" (dt. "der Fisch ist im Waschbecken") verstand. Das ist jetzt unsere neue Redewendung, die besagen will, dass man eine gewisse Sache jetzt nicht mehr ändern kann. ;)
-
+* Habe ein probates Mittel gefunden, um die Cedille unter Linux etwas weniger umständlich eingeben zu können: Das Zeichen '  (rechts vom ß) direkt gefolgt vom "c" erzeugt ein wunderschönes ç bzw. Ç. Jetzt brauche ich nur noch einen Weg, um das "ë" schreiben zu können ...
+* Möchte mir heute noch die Sendung Österreich-Bild anschauen, in der ein Bericht über die "Neue Unterinntalbahn" gesendet wird. Da das Internet am Abend hier ziemlich langsam sein kann, habe ich nach Wegen gesucht, um Sendungen aus der ORF-TVthek herunterzuladen, und bin [hier](http://rwrbrille.at/2010/03/howto-video-download-von-der-orf-tvthek/) fündig geworden. Besagte Anleitung lässt sich auch ohne weiteres auf Linux übertragen, wo man die entsprechende WMV-Datei mittels "mplayer -dumpstream mms://[...].wmv" herunterladen kann. Habe den Blog, wo ich die besagte Anleitung gefunden habe, noch etwas ausgiebiger studiert, und habe jetzt Lust auf einen [Wintersonnenuntergangswaldspaziergang](http://rwrbrille.at/2011/12/wintersonnenuntergangswaldspaziergange/). :) Ich freue mich schon wieder auf zuhause!
+* Der Titel dieses heutigen Artikels leitet sich übrigens ab von einem Missverständnis: Kristin wollte etwas sagen wie "je suis déjà empoisonnée dans le labor" (dt. "ich werde schon im Labor vergiftet") , worauf ich "le poisson est dans le lavabo" (dt. "der Fisch ist im Waschbecken") verstand. Das ist jetzt unsere neue Redewendung, die besagen will, dass man eine gewisse Sache jetzt nicht mehr ändern kann. ;)
 
 Ich wünsche meinen Lesern alles Liebe und noch einen schönen Sonntag Abend!

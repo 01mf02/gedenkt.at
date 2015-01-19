@@ -22,64 +22,32 @@ Nach dem Sprachkurs holte ich mir noch rasch meinen üblichen Dienstags-Döner (
 Am Mittwoch fand mein Klavierkonzert statt, mein allererstes öffentliches Solokonzert meines Lebens! Ich kam um ca. 17 Uhr zum Salle des Actes, wo ich ungefähr 40 Minuten Zeit zum Einspielen hatte --- nicht viel, wenn man bedenkt, dass ich durch den Ausfall der Übemöglichkeit in Village 2 die ganze Woche nicht üben konnte. Nach einiger Zeit kam dann Matthieu, der mich bei einem Lied mit der Gitarre begleitet, und wir übten dieses eine Lied dann solange, bis die ersten Zuhörer eintrudelten. Es kamen dann allerdings deutlich weniger Leute, als ich erwartet hatte (ungefähr 15-20), was an folgenden drei Gründen liegen mag:
 
 
-
-	
-  * Gießender Regen: An diesem Abend hatten sich scheinbar alle verfügbaren Wettergötter gegen das kleine Dörfchen Talence gerichtet, mit dem festen Ziel, den Ort in einen großen Fluss zu verwandeln. Wir können von Glück reden, dass uns nur der Regen und nicht auch der Himmel auf den Kopf gefallen ist.
-
-	
-  * Vergessene Einladungen: Nach dem Konzert sind mir zig Leute eingefallen, die ich eigentlich einladen hätte wollen, aber aus Vergesslichkeit nicht eingeladen habe. Alzi lässt grüßen. Auch meine Lieblingsnachbarin Pauline (die ich hier exemplarisch nenne) wusste nichts von dem Ereignis, als ich ihr eine Stunde davor davon erzählte, und hatte leider schon etwas ausgemacht. :(
-
-	
-  * Die Zeit: Um 18 Uhr, man glaubt es kaum, haben viele Studenten hier noch Lehrveranstaltungen. Später als 18 Uhr konnte ich das Konzert allerdings kaum veranstalten, da den eifrigen Pianisten im Salle des Actes der Rausschmiss ab 19:30 Uhr droht, wenn nämlich der Nachtwächter in den Saal stürmt und die sofortige Evakuierung anordnet.
+* Gießender Regen: An diesem Abend hatten sich scheinbar alle verfügbaren Wettergötter gegen das kleine Dörfchen Talence gerichtet, mit dem festen Ziel, den Ort in einen großen Fluss zu verwandeln. Wir können von Glück reden, dass uns nur der Regen und nicht auch der Himmel auf den Kopf gefallen ist.
+* Vergessene Einladungen: Nach dem Konzert sind mir zig Leute eingefallen, die ich eigentlich einladen hätte wollen, aber aus Vergesslichkeit nicht eingeladen habe. Alzi lässt grüßen. Auch meine Lieblingsnachbarin Pauline (die ich hier exemplarisch nenne) wusste nichts von dem Ereignis, als ich ihr eine Stunde davor davon erzählte, und hatte leider schon etwas ausgemacht. :(
+* Die Zeit: Um 18 Uhr, man glaubt es kaum, haben viele Studenten hier noch Lehrveranstaltungen. Später als 18 Uhr konnte ich das Konzert allerdings kaum veranstalten, da den eifrigen Pianisten im Salle des Actes der Rausschmiss ab 19:30 Uhr droht, wenn nämlich der Nachtwächter in den Saal stürmt und die sofortige Evakuierung anordnet.
 
 
 Beim nächsten Konzert werde ich jedenfalls versuchen, diese Punkte soweit wie möglich zu berücksichtigen. (Bis auf den Wettergott, beim Teutates!)
 Kommen wir allerdings zurück zu dem Konzert diese Woche. Ich spielte folgendes Programm:
 
-	
-  * Robert Schumann: Vogel als Prophet
-
-	
-  * Robert Schumann: Jagdlied
-
-	
-  * Frédéric Chopin: Prelude Op. 28 No. 15
-
-	
-  * Frédéric Chopin: Valse Op. posth. 69 No. 1
-
-	
-  * Frédéric Chopin: Etude Op. 25 No. 12
-
-	
-  * Scott Joplin: Maple Leaf Rag
-
-	
-  * Michael Färber: Goin' To See You
-
-	
-  * Georg Kreisler: Tauben vergiften
-
-	
-  * Georg Kreisler: Der guate, alte Franz
-
-	
-  * Georg Kreisler: Wien ohne Wiener
-
-	
-  * Comedian Harmonists: Mein kleiner grüner Kaktus (mit Text von mir)
+* Robert Schumann: Vogel als Prophet
+* Robert Schumann: Jagdlied
+* Frédéric Chopin: Prelude Op. 28 No. 15
+* Frédéric Chopin: Valse Op. posth. 69 No. 1
+* Frédéric Chopin: Etude Op. 25 No. 12
+* Scott Joplin: Maple Leaf Rag
+* Michael Färber: Goin' To See You
+* Georg Kreisler: Tauben vergiften
+* Georg Kreisler: Der guate, alte Franz
+* Georg Kreisler: Wien ohne Wiener
+* Comedian Harmonists: Mein kleiner grüner Kaktus (mit Text von mir)
 
 
 Anmerkungen dazu:
 
-	
-  * Statt des "Maple Leaf Rag" wollte ich eigentlich den "Entertainer" spielen, allerdings entschieden sich meine Finger spontan für ersteres Stück, das ich mitnichten zuvor geübt hatte. Wurde dann auch in der Mitte ein wenig wacklig, aber ich kompensierte fehlende Übung durch Elan. :)
-
-	
-  * "Goin' To See You" ist eine Eigenkomposition von mir aus dem Jahre 2012, die ich mit Matthieu zusammen spielte.
-
-	
-  * Ich entschloss mich für ein paar deutschsprachige Lieder am Ende, da ich sie schon zuvor einige Male vor französischem Publikum gespielt und das Publikum trotz Sprachbarriere immer sehr positiv reagiert hatte.
+* Statt des "Maple Leaf Rag" wollte ich eigentlich den "Entertainer" spielen, allerdings entschieden sich meine Finger spontan für ersteres Stück, das ich mitnichten zuvor geübt hatte. Wurde dann auch in der Mitte ein wenig wacklig, aber ich kompensierte fehlende Übung durch Elan. :)
+* "Goin' To See You" ist eine Eigenkomposition von mir aus dem Jahre 2012, die ich mit Matthieu zusammen spielte.
+* Ich entschloss mich für ein paar deutschsprachige Lieder am Ende, da ich sie schon zuvor einige Male vor französischem Publikum gespielt und das Publikum trotz Sprachbarriere immer sehr positiv reagiert hatte.
 
 
 Das Konzert dauerte ungefähr 45 Minuten. Die Ansagen machte ich auf Englisch, da Matze, der Freund von Kristin, anwesend war und ja immer noch kein Französisch beherrscht. ;) Dabei fiel mir auf, dass mein Englisch schon komplett eingerostet ist; ich musste mich bei vielen Sätzen vergewissern, ob ich nicht versehentlich ein französisches Wort eingebaut hätte. (Sonst kommen Sätze heraus wie z.B.: "Were you on the market yesterday aussi?")
@@ -114,15 +82,9 @@ In Village 2 ist übrigens schon erste nomadische (weniger monadische ^^) Aktivi
 Zum Abschluss noch eine kleine Liste von Dingen, die ich aus Tirol nach den Weihnachtsferien mitnehmen möchte:
 
 
-
-	
-  * Zahnseide-Sticks: In Frankreich habe ich noch keine integrierten Zahnseide-Sticks mit Zahnstocher am Ende gefunden. Die einzigen Zahnseide-Sticks, die ich hier gekauft habe, sind von so minderwertiger Qualität, dass die Zahnseide durchreißt, bevor ich alle Zähne damit gereinigt habe.
-
-	
-  * Neue Schuhe: Bei dem Scheißwetter hier, wo es alle geschätzen zehn Minuten schifft, brauche ich neue Schuhe, denn die alten sind schon leck und ich laufe bei Regen die meiste Zeit mit nassen Füßen herum. [Das kann as doch nüd sin.](http://www.youtube.com/watch?v=wmI2m06YFfc)
-
-	
-  * Spätzlehobel: Deutlich praktischer, als mit dem Schneidbrett und dem Messer herumzufuhrwerken.
+* Zahnseide-Sticks: In Frankreich habe ich noch keine integrierten Zahnseide-Sticks mit Zahnstocher am Ende gefunden. Die einzigen Zahnseide-Sticks, die ich hier gekauft habe, sind von so minderwertiger Qualität, dass die Zahnseide durchreißt, bevor ich alle Zähne damit gereinigt habe.
+* Neue Schuhe: Bei dem Scheißwetter hier, wo es alle geschätzen zehn Minuten schifft, brauche ich neue Schuhe, denn die alten sind schon leck und ich laufe bei Regen die meiste Zeit mit nassen Füßen herum. [Das kann as doch nüd sin.](http://www.youtube.com/watch?v=wmI2m06YFfc)
+* Spätzlehobel: Deutlich praktischer, als mit dem Schneidbrett und dem Messer herumzufuhrwerken.
 
 
 Gruß und Kuss aus Pessac! (jetzt hätte ich beinahe München geschrieben ... what goes on in this brain? ^^)

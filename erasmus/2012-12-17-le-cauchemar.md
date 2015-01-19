@@ -15,15 +15,9 @@ Am Mittwoch fand die Prüfung für Compilation statt. War an sich nicht besonder
 Am Nachmittag hielt ich zum Ausgleich wieder eine lange Siesta, um mich für das Highlight des Abends vorzubereiten: Am Abend ging ich nämlich mit Anda in das Symphoniekonzert, das vom Conservatoire aus gratis angeboten wurde und meines Erachtens sehr, sehr hörenswert war! Das Programm:
 
 
-
-	
-  * Claude Debussy: Prélude à l'après-midi d'un faune
-
-	
-  * Gustav Mahler: 4. Symphonie, 4. Satz
-
-	
-  * César Franck: Psyché
+* Claude Debussy: Prélude à l'après-midi d'un faune
+* Gustav Mahler: 4. Symphonie, 4. Satz
+* César Franck: Psyché
 
 
 Das erste Stück (Debussy) hat mich dermaßen berührt, dass ich am Ende vor lauter Tränen kaum mehr die Musiker gesehen habe. Vielleicht war das auch eine Nebenwirkung meiner am selben Tag geschriebenen Prüfung, aber auf jeden Fall war dieses Stück so unglaublich schön interpretiert, dass ich mich kaum an ein ähnlich berührendes musikalisches Erlebnis erinnern kann. Auch Anda hat das Konzert sehr gut gefallen, und wir sind danach noch auf eine heiße Schokolade in ein Café gegangen. Alles in allem ein sehr gelungener Abend.

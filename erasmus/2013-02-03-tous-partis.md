@@ -18,20 +18,14 @@ Da so eine Abschiedsstimmung inspiriert, setzte ich mich auch einmal wieder an d
 
 In der Nacht auf Donnerstag schlief ich ziemlich schlecht, da ich mitten in der Nacht auf einmal die Idee hatte, das Lied "[Schöne Isabella aus Kastilien](http://www.youtube.com/watch?v=19IyQ2fPvqw)" von den [Comedian Harmonists](http://de.wikipedia.org/wiki/Comedian_Harmonists) auf Französisch zu übersetzen. Ich hatte dieses Lied am Vortag gehört, und wie es scheint, hat mein Unterbewusstsein mir diese Aufgabe auferlegt. Da half kein Jammern, ich konnte nicht mehr einschlafen, und so machte ich mich an die Arbeit. ;) Hier das Resultat --- grammatikalische Fehler oder sonstige Verbesserungsvorschläge mir bitte mitteilen:
 
-
+~~~
 "Belle Isabelle de Castille
 rends tout de suite tes ustensiles
 et reviens chez moi en Espagne !
 
-
-
-
 Tu sais que seulement dans le beau pays des toreros
 tu perds ton cœur et trouves ton héros
 donc reviens chez moi en Espagne !
-
-
-
 
 Viens bientôt, sinon
 je serai violent
@@ -40,27 +34,17 @@ quand tu m'embrasse
 et je te vois juste en face
 alors s'il te plaît ma
 
-
-
-
 Belle Isabelle de Castille
 rends tout de suite tes ustensiles
 et reviens chez moi en Espagne !
-
-
-
 
 Je chante que des chansons de chagrin, reviens
 car pour moi t'es la fille idéale.
 Personne ne m'attire pas si entièrement, contrairement
 en dansant tu es juste phénoménale.
 
-
-
-
 Et ta bouche, cheri, tu dois le savoir sûrement,
 embrasse d'une manière presque illégale.
-
 
 Belle Isabelle de Castille
 rends tout de suite tes ustensiles
@@ -97,8 +81,12 @@ si tu ne m'embrasse pas !
 Belle Isabelle de Castille
 achetes tout de suite un billet
 et reviens chez moi en Espagne !"
+~~~
 
-[Wie das klingt, kann man hier anhören.](http://youcanmakeit.at/blog/tous-partis/attachment/belle-isabelle-de-castille/) (Die übliche Sängerlitanei, dass ich "nicht eingesungen war", spare ich mir an dieser Stelle.) Ich habe mir überlegt, die Aufführung dieser Übersetzung meinem französischen Chor vorzuschlagen. Allerdings ist es relativ schwierig bis unmöglich, Noten des Stücks in der Originalbesetzung (fünf Stimmen + Klavier) zu erhalten, weshalb wohl nur "Heraushören" übrig bleibt. :/
+Wie das klingt, kann man hier anhören: (Die übliche Sängerlitanei, dass ich "nicht eingesungen war", spare ich mir an dieser Stelle.)
+<audio controls src="$media$/belle-isabelle-de-castille.mp3"></audio>
+
+Ich habe mir überlegt, die Aufführung dieser Übersetzung meinem französischen Chor vorzuschlagen. Allerdings ist es relativ schwierig bis unmöglich, Noten des Stücks in der Originalbesetzung (fünf Stimmen + Klavier) zu erhalten, weshalb wohl nur "Heraushören" übrig bleibt. :/
 
 Am Donnerstag hatte ich dann auch noch rendez-vous mit Géraud, mit dem ich mich über meine weitere Vorgangsweise (Austrizismus à propos ^^) abstimmte: In der nächsten Zeit beschäftige ich mich damit, ob und wie ich von einem Algorithmus ausgehend automatische Äquivalenzbeweise konstruieren kann. Sehr cool. :) Habe seither schon ein bisschen über dem Problem meditiert und begonnen, den Algorithmus in OCaml zu implementieren, da seine Funktionsweise für mich noch ein wenig im Dunklen liegt.
 Am Abend war dann die Abschiedsfeier für Kristin, der ich glücklicherweise beiwohnen konnte. Allerdings war ich durch den wenigen Schlaf in der Nacht davor (3h?) ziemlich müde, sogar zu müde, um allzu groß über den Weggang von Kristin traurig zu sein, was mir sehr entgegenkam. Schlafentzug --- ein probates Mittel gegen Depression?

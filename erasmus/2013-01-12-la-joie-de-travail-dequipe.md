@@ -41,30 +41,14 @@ Am Freitag war dann der Tag der Reise nach Bordeaux! Natürlich fing es genau an
 Um die Reise kurz zu illustrieren, seien die verschiedenen Verkehrsmittel genannt, derer ich mich bediente:
 
 
-
-	
-  * 9:25 - 9:45: Auto von zuhause nach Innsbruck Hauptbahnhof (sehr schmerzhafter Abschied am Bahnhof ...)
-
-	
-  * 9:54 - 13:20: railjet von Innsbruck Hauptbahnhof nach Zürich Hauptbahnhof
-
-	
-  * 13:34 - 17:37: TGV von Zürich Hauptbahnhof nach Paris Gare de Lyon
-
-	
-  * Métro 14 Richtung Olympiades nach Bercy
-
-	
-  * Métro 6 Richtung Étoile nach Montparnasse Bienvenüe
-
-	
-  * 18:28 - 21:42: TGV von Paris Montparnasse nach Bordeaux Saint-Jean
-
-	
-  * Tram C Richtung Les Aubiers nach Quinconces
-
-	
-  * Tram B Richtung Pessac Centre nach Doyen Brus
+* 9:25 - 9:45: Auto von zuhause nach Innsbruck Hauptbahnhof (sehr schmerzhafter Abschied am Bahnhof ...)
+* 9:54 - 13:20: railjet von Innsbruck Hauptbahnhof nach Zürich Hauptbahnhof
+* 13:34 - 17:37: TGV von Zürich Hauptbahnhof nach Paris Gare de Lyon
+* Métro 14 Richtung Olympiades nach Bercy
+* Métro 6 Richtung Étoile nach Montparnasse Bienvenüe
+* 18:28 - 21:42: TGV von Paris Montparnasse nach Bordeaux Saint-Jean
+* Tram C Richtung Les Aubiers nach Quinconces
+* Tram B Richtung Pessac Centre nach Doyen Brus
 
 
 ![Der Zug, der mich von zuhause fortträgt ...]($media$/Photo2504.jpg)
