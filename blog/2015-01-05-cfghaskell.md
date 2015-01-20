@@ -5,12 +5,13 @@ title: Generating the language of a context-free grammar in Haskell
 
 In this little article, I will show you how to obtain the language of context-free grammars in Haskell, using its mechanisms for nondeterminism. Furthermore, I show you how to use the results to grade students' homework. ;)
 
-
 ## Motivation
 
 Recently, I was facing the task of correcting a huge amount of students' exams. In these exams, students had to create a context-free grammar (CFG) for a given formal language:
 
-> L = {s1 + ... + s2 `|` n >= 1, every summand si is the variable x or a binary number (without leading zeros)}
+\\[ L=\\left\\{ s_1+\\dots+s_n\\mid n\\geq1, s_i \\in \\{x\\} \\cup \\mathbb{B}\\right\\}, \\]
+
+where \\( \\mathbb{B} \\) is the set of binary numbers without leading zeros.
 
 Examples for words in this grammar include "x+101+0+x" and "1000"; words which are *not* included in the grammar are e.g. the empty word, "y", "001+x".
 

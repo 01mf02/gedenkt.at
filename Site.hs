@@ -1,16 +1,15 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
-import           Austrian (austrianTimeLocale)
 import           Data.Monoid ((<>))
+import qualified Data.Set as S
 import           System.FilePath (takeBaseName)
+
 import           Hakyll
+import           Text.Pandoc.Options
+
+import           Austrian (austrianTimeLocale)
 --------------------------------------------------------------------------------
 
-allPosts :: [Pattern]
-allPosts = ["blog/*", "musica/*", "erasmus/*"]
-
-patternAny :: [Pattern] -> Pattern
-patternAny = foldl1 (.||.)
 
 main :: IO ()
 main = hakyll $ do
@@ -47,18 +46,32 @@ main = hakyll $ do
     route   $ setExtension "html"
     compile $ do
       posts <- recentFirst =<< loadAll (patternAny allPosts)
-      markdownCompiler $ postsCtx $ take 3 posts
+      markdownCompiler $ postListCtx $ take 3 posts
 
   match "templates/*" $ compile templateCompiler
 
 
 --------------------------------------------------------------------------------
+-- Patterns
+
+allPosts :: [Pattern]
+allPosts = ["blog/*", "musica/*", "erasmus/*"]
+
+patternAny :: [Pattern] -> Pattern
+patternAny = foldl1 (.||.)
+
+
+--------------------------------------------------------------------------------
+-- Routes
 
 removeDate :: Routes
 removeDate = gsubRoute "/[0-9]{4}-[0-9]{2}-[0-9]{2}-" (const "/")
 
 
-mediaField :: Context String
+--------------------------------------------------------------------------------
+-- Fields and Contexts
+
+mediaField :: Context a
 mediaField = 
   field "media" (return . mediaPath . toFilePath . itemIdentifier)
   where mediaPath p = "/media/" ++ takeBaseName p
@@ -69,17 +82,36 @@ postCtx =
   mediaField <>
   defaultContext
 
-postsCtx :: [Item String] -> Context String
-postsCtx posts =
+postListCtx :: [Item String] -> Context String
+postListCtx posts =
   listField "posts" postCtx (return posts) <>
   defaultContext
 
 
+--------------------------------------------------------------------------------
+-- Math rendering in Pandoc
+
+writerOptions :: WriterOptions
+writerOptions = defaultHakyllWriterOptions {
+  writerExtensions = newExtensions,
+  writerHTMLMathMethod = MathJax ""
+} where
+    mathExtensions = [Ext_tex_math_double_backslash]
+    defaultExtensions = writerExtensions defaultHakyllWriterOptions
+    newExtensions = foldr S.insert defaultExtensions mathExtensions
+
+renderPandocMath :: Item String -> Item String
+renderPandocMath = renderPandocWith defaultHakyllReaderOptions writerOptions
+
+
+--------------------------------------------------------------------------------
+-- Compilers for different kinds of documents
+
 postCompiler :: Compiler (Item String)
 postCompiler =
   getResourceBody
+    >>= return . renderPandocMath
     >>= applyAsTemplate postCtx
-    >>= return . renderPandoc
     >>= loadAndApplyTemplate "templates/post.html"    postCtx
     >>= loadAndApplyTemplate "templates/default.html" postCtx
     >>= relativizeUrls
@@ -87,7 +119,7 @@ postCompiler =
 postListCompiler :: Pattern -> Compiler (Item String)
 postListCompiler ptrn = do
   posts <- recentFirst =<< loadAll ptrn
-  markdownCompiler $ postsCtx posts
+  markdownCompiler $ postListCtx posts
 
 markdownCompiler :: Context String -> Compiler (Item String)
 markdownCompiler ctx =
