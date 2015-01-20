@@ -9,17 +9,11 @@ Gestern aus Spanien zurückgekehrt, sehe ich mich vor die monströse Aufgabe ges
 Beginnen wir also dort, wo mein letzter Artikel so abrupt abgerissen ist, nämlich am Freitag, den 19. Oktober. An diesem Tag fand unser erstes [PER](/erasmus/a-la-recherchu-du-truc-perdu.html)-Treffen an der Universität statt, wo wir in entspannter Atmosphäre unseren Artikel diskutierten. Das Thema verspricht nach meinem ersten Eindruck jedenfalls recht spannend zu sein.
 Am Nachmittag ging ich dann noch mit Laetitia ins Kino --- sie wollte unbedingt "Ted" sehen. Leider stellte sich bei mir beim Betrachten des Films ein erheblicher Fremdschämfaktor für dessen Kreatoren ein, was noch zusätzlich verstärkt wurde durch meine gerade an diesem Nachmittag einsetzenden Schnupfen. Nach dem Film musste ich mich dann auch krankheitsbedingt in mein Domizil zurückziehen, in welchem ich mich auch das gesamte Wochenende aufhielt. Dabei wollte ich meine Krankheit ursprünglich dafür nutzen, um für die Uni zu arbeiten und noch einiges zu schreiben (wie z.B. für meinen Blog hier), aber dummerweise bekam ich schon am Samstag Nachmittag heftige Schmerzen in der Hand, die mich effektiv an manuellen Arbeiten hinderten. So konnte ich eigentlich nur noch im Bett herumliegen und lesen, am Sonntag wurde mir das zu langweilig und ich schaute mir das dreieinhalbstündige Epos "[Lawrence of Arabia](http://en.wikipedia.org/wiki/Lawrence_of_Arabia_%28film%29)" an. Hätte mir nicht gedacht, dass ein Film dieser Länge so kurzweilig sein könnte.
 
-<div class="img-container">
-  <img src="/media/2012-11-05-ca-va-ca-va-ca-va-ca-va/Photo1758.jpg" />
-  <p>Das ist das Wetter, aus dem Krankheiten gemacht sind.</p>
-</div>
+![Das ist das Wetter, aus dem Krankheiten gemacht sind.]($media$/Photo1758.jpg)
 
 Am Montag schleppte ich mich trotz anhaltender Krankheit noch in die Stadt, um für Lisas Geburtstag Hausschuhe zu kaufen, die sie nach unserem letzten Sprachkurs in einem Schaufenster bewundert hatte. Sie hat sich dann auch entsprechend gefreut, als sie die Patschen am Abend bei ihrer Geburtstagsfeier bekommen hat. Kein Wunder bei den fußbodengekühlten Studentenheimen von Bordeaux. ^^ Von der Geburtstagsfeier musste ich mich allerdings relativ früh schon wieder empfehlen, da ich mich gesundheitlich schlecht fühlte.
 
-<div class="img-container">
-  <img src="/media/2012-11-05-ca-va-ca-va-ca-va-ca-va/Photo1765.jpg" />
-  <p>Der Lisas neue Schlapfen.</p>
-</div>
+![Der Lisas neue Schlapfen.]($media$/Photo1765.jpg)
 
 Am Montag erhielten wir übrigens das Resultat des Logik-Tests; wie es scheint, war ich mit 19/20 Punkten der Beste. Das tut dem Ego gut. :)
 
@@ -29,17 +23,11 @@ Beim abendlichen Sprachkurs eine Neuigkeit: Unsere Gruppe war zweigeteilt worden
 
 Am Mittwoch war wieder einmal Pub-Quiz angesagt, und zwar diesmal mit einer Runde von Quebecois, mir und meiner Nachbarin Pauline, die ich eingeladen hatte. Wir verloren zwar haushoch (vorletzter Platz o_O), aber es war trotzdem sehr lustig. :)
 
-<div class="img-container">
-  <img src="/media/2012-11-05-ca-va-ca-va-ca-va-ca-va/Photo1778.jpg" />
-  <p>Pub quiz --- one more time.</p>
-</div>
+![Pub quiz --- one more time.]($media$/Photo1778.jpg)
 
 Am Donnerstag rief ich noch auf eine Fahrradannonce hin bei einer Dame an, die mir --- oh Wunder --- noch für den selbigen Tag ein Treffen in Pessac zusagte. Bei strömendem Regen begab ich mich dorthin, und fand ein sehr schönes Fahrrad im holländischen Stil mit sieben Gängen vor, das ich für 65€ erstand. Der Haken? Das Kabel für die Gangschaltung ist gerissen und muss wohl ersetzt werden --- ich hoffe, das wird nicht zu teuer. Die Fahrrad-Odyssee hat jedenfalls für den Moment ein Ende.
 
-<div class="img-container">
-  <img src="/media/2012-11-05-ca-va-ca-va-ca-va-ca-va/Photo2073.jpg" />
-  <p>Bicycle, bicycle, bicycle, I want to ride my ...</p>
-</div>
+![Bicycle, bicycle, bicycle, I want to ride my ...]($media$/Photo2073.jpg)
 
 Am Abend ging ein Teil unserer Erasmus-Gruppe nach dem Sprachkurs noch ins Kino, und zwar den Film "Dans la maison". Dieser Film hat mir sehr gut gefallen und ist zum Nachschauen empfohlen. Ich denke da an eine gewisse Exilpariserin. :)
 
@@ -47,10 +35,7 @@ Der Freitag begann mit einem traurigen Ereignis: Mir ist meine letzte Ampasser M
 Am Freitag sollte weiters eine "désinsectisation" in Village 2 stattfinden. Tollerweise wurde davon nur ca. 1% aller Residenten davon per E-Mail informiert (darunter glücklicherweise ich ^^) und es wurde auch sonst nirgendwo etwas ausgehängt, was auf dieses Ereignis hinweisen würde. Als wir den Nachtwächter nach unserem donnerstäglichen Kinobesuch danach fragten, wies er uns sinngemäß darauf hin, dass er nichts wisse und wir unsere Fresse halten sollten. (Die Worte "foutage" und "gueule" fielen jedenfalls.) Für 140€ Miete im Monat kann man anscheinend nicht erwarten, dass Freundlichkeit im Preis inkludiert ist. Wie dem auch sei, die "désinsectisation" war von dem Erfolg gekrönt, dass ich beim nachmittäglichen Wiedereintritt in mein Zimmerchen von eiligem Kakerlakengetrappel begrüßt wurde. Abschuss negativ.
 Als kleinen Trost für das Weiterleben meiner Kakis gab es am Abend jedenfalls ein Deutschen-Treffen bei Kristin, zu dem ich als Österreicher netterweise auch noch zugelassen war. ^^ Kristin, ich weiß zwar nicht mehr genau, was das für ein Auflauf war, den du da gemacht hast, aber er war wirklich verdammt gut. Merci beaucoup.
 
-<div class="img-container">
-  <img src="/media/2012-11-05-ca-va-ca-va-ca-va-ca-va/Photo1779.jpg" />
-  <p>Bienvenue chez les Allemands.</p>
-</div>
+![Bienvenue chez les Allemands.]($media$/Photo1779.jpg)
 
 Am Samstag bereitete ich mich auf meine sonntägliche Reise nach Spanien vor --- als Reiseproviant hatte ich 800g Brot gefüllt mit Salami und einer Auswahl französischer Käsesorten vorgesehen. Dazu noch eine Taboulé aus der Packung. Mmmmmhh.
 Am selben Abend sollte der Geburtstag von Bruno stattfinden, der als Brasilianer auch Teil unser erweiterten Erasmus-Gruppe ist. Zu diesem Anlass hatte ich mich mit Andreas, Lisa noch zum Geschenke-Kaufen am Nachmittag verabredet, wurde aber zuvor noch spontan von meiner Nachbarin Yselia zum Tee eingeladen. Als Geschenk kauften wir dann jedenfalls ein Kochbuch mit sehr schönen Illustrationen, da wir da bei Bruno noch ein gewisses Verbesserungspotential sahen. :) Am Abend speiste ich noch zum Abschied mit Pauline, und dann ging ich mit Sack und Pack für Spanien zu Brunos Geburtstagsfeier, wo ich leider schon mich nach kurzer Zeit wieder abmelden musste und in die Stadt fuhr.

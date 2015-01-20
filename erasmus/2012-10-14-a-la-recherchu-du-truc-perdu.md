@@ -27,10 +27,7 @@ Am Abend habe ich noch Idir zum Spaghettiessen eingeladen, und auch Emy hat sich
 
 Am Dienstag Abend war wieder Chor, und ich habe schon wieder einige neue Namen gelernt, allerdings auch wieder viele andere vergessen. ;)
 
-<div class="img-container">
-  <img src="/media/2012-10-14-a-la-recherchu-du-truc-perdu/Photo1672.jpg" />
-  <p>Tenöre bei der Arbeit.</p>
-</div>
+![Tenöre bei der Arbeit.]($media$/Photo1672.jpg)
 
 Am Mittwoch habe ich endlich meinen CAF-Antrag (Wohngeldbeihilfe) eingereicht. Nachdem ich endlich eine französischsprachige Geburtsurkunde (warum braucht man so etwas nur? **warum**??) organisiert hatte (danke nochmals an meine Eltern!) und von Pass über e-card bis hin zu meinem Hinterteil so ziemlich alles kopiert hatte, was möglich war, wurde mein Antrag beim Accueil von Village 2 ohne Mullen, ohne Knullen akzeptiert. Juhu! Das heißt, wenn jetzt alles gut geht, bin ich bald stolzer monatlicher Bezieher des französischen Wohngelds. Ask not what you can do for your country - ask what your country can do for you. ^^
 Am Abend bin ich dann zu Anita gegangen, wo sich eine Untermenge unserer Erasmus-Gruppe zum gemeinsamen Weihnachtsticketkauf verabredet hat. Die französische Staatsbahn SNCF hat sich nämlich dazu entschieden, den Ticketverkauf für die gesamte Zeit um Weihnachten am 11. Oktober zu eröffnen, sodass sich alle wie die Hyänen gleichzeitig darauf stürzen. Viva la civilisation! Wir wollten auf jeden Fall Tickets für den 21. Dezember nach Paris kaufen und für den 23. Dezember die Weiterreise in unsere jeweiligen Heimatorte, in meinem Fall Innsbruck. Die Wartezeit bis Mitternacht haben wir uns mit dem Kochen von Crêpes vertrieben, die insgesamt sehr gut gelungen sind --- noch einmal großes Lob, Anita! :) Um Mitternacht, 11. Oktober, wurden wir allerdings nicht etwa mit einer schönen Reservierungsseite belohnt, sondern mit einem lakonischen Hinweis, dass die Reservierung zur matinée freigeschaltet wird. So kann man auch auf die harte Tour lernen, dass matinée nicht "frühe Morgenstunden", sondern "Vormittag" bedeutet. ;)
@@ -45,36 +42,24 @@ Am Abend wollte ich dann eigentlich mit einer Kollegin ins Kino gehen, aber sie 
 
 Der Samstag versprach dann ein äußerst dichter Tag zu werden. Ich habe mich nämlich schon vor einigen Wochen für eine Stadttour durch Bordeaux angemeldet, die quasi als Willkommensgeschenk für Studenten gratis angeboten wird. Dummerweise habe ich erst diese Woche realisiert, dass an genau dem Wochenende auch unsere erste Chorreise stattfindet, und zwar in ein kleines Loch (fr. trou) namens Soulignac. Um diese beiden Pläne unter einen Hut zu bringen, beschloss ich, die eigentlich ganztägige Stadttour nur am Vormittag zu besuchen und mich dann am Nachmittag mit dem Chor nach Soulignac zu verzupfen. Demgemäß brachte ich zuerst um 9:45 Uhr meine Sachen für die Chorreise (Anzug, Schuhe, Noten, etc.) zu meinem Chorkollegen Guillaume, der übrigens in fantastisch zentraler Lage in Bordeaux eine richtig geniale Wohnung für zwei Personen um 600€ mietet. Neid. Danach hastete ich gleich weiter zum Grand Theatre, wo die Stadttour ihren Ausgangspunkt nahm. Dort hatte sich schon eine Hundertschaft von Studenten versammelt, darunter auch ein guter Teil meiner Erasmus-Gruppe. Wir wurden im großen Saal des Grand Theatre mit einem Werk von Brahms begrüßt, worauf ich mich gleich sehr heimisch fühlte. Möchte auch dem Grand Theatre unbedingt bald einmal wieder einen weiteren Besuch abstatten, was mir bei der [Fülle der angebotenen Konzerte](http://www.opera-bordeaux.com/concert.html) wohl leicht fallen dürfte. :) Bei den Opern sagt mir in baldiger Zukunft leider eher wenig zu, aber nächstes Jahr gibt es "La Flûte enchantée" von einem gewissen Mozart! ^^
 
-<div class="img-container">
-  <img src="/media/2012-10-14-a-la-recherchu-du-truc-perdu/Photo1684.jpg" />
-  <p>Notre groupe au théâtre.</p>
-</div>
+![Notre groupe au théâtre.]($media$/Photo1684.jpg)
 
 Nach dem Grand Theatre teilte sich die Studentenschaft in kleinere Gruppen auf, die jeweils von ein paar Führern betreut wurden. Unsere Gruppe ging zuerst zum CAPC, einem Museum für zeitgenössische Kunst, das ich, wie den Großteil zeitgenössischer Kunst, ziemlich verrückt fand. Danach gingen wir weiter durch die Stadt, ein wenig an der Garonne entlang, bis wir zu einem Gebäude namens H14 kamen, wo eine Debatte stattfand zwischen dem ancien premier ministre et maire de Bordeaux, Alain Juppé, und dem Künstler Yann Arthus-Bertrand. Die Diskussion fand ich eigentlich sehr interessant, und ich war auch sehr von Alain Juppé eingenommen, am allermeisten von dessen Humor und dessen Stimme, die mir in ihrer Kratzigkeit und Tiefe sehr zusagte. Ob man wohl für so eine Stimme Kettenraucher (gewesen) sein muss? :)
 Nach der Diskussion waren wir schon ziemlich hungrig und freuten uns schon auf unser Chappi in dem Resto'U, das auch gratis für uns zur Verfügung gestellt werden sollte. Der Uhrzeiger neigte sich allerdings schon immer näher Richtung zwei Uhr, zu welcher Zeit ich ja beim Bahnhof sein sollte für die Chorreise nach Soulignac. Allerdings gefiel mir die Stadttour sehr gut und hätte sie gerne fortgesetzt, weshalb ich ziemlich hin- und hergerissen war. Schlussendlich beendete ich meinen Konflikt (auf die hilfreichen Vorschläge meiner Kollegen, mich zweizuteilen, ging ich praktischerweise nicht ein), indem ich die selbe Methode anwandte wie der psychopathische Killer Anton Chigurh im Film "No Country for Old Men": Ich warf eine Münze. Diese sagte mir, ich sollte die Tour fortsetzen, was ich dann auch machte, leider zu Kosten meiner ersten Chorreise. Dafür habe ich mich entschieden, bei der Chorreise nach Sevilla teilzunehmen, die Ende Oktober beginnen und eine Woche (während der universitären Herbstferien) dauern wird. ¡Mein erster Besuch in Spanien, olé! :)
 Nach dem Mittagessen ging es jedenfalls weiter zur Place des Quinconces ("Schachfeld-Platz", nach der ehemaligen Anordnung der Bäume dort), wo wir von den Ausführungen unserer guides immer wieder von den Schreckensschreien der Besucher des anliegenden Rummelplatzes abgelenkt wurden. :) Danach sahen wir die Porte Cailhau, ein richtig schönes Stadttor aus dem 15. Jahrhundert.
 
-<div class="img-container">
-  <img src="/media/2012-10-14-a-la-recherchu-du-truc-perdu/Photo1710.jpg" />
-  <p>Porte Cailhau.</p>
-</div>
+![Porte Cailhau.]($media$/Photo1710.jpg)
 
 Als krönenden Abschluss ging es dann noch kurz in die Cathédrale Saint-André und dann zum Hôtel de Ville (Rathaus), wo wir erneut von Alain Juppé et al. bei Brot und Spi ... Wein empfangen wurden.
 
-<div class="img-container">
-  <img src="/media/2012-10-14-a-la-recherchu-du-truc-perdu/Photo1729.jpg" />
-  <p>Alain Juppé et al.</p>
-</div>
+![Alain Juppé et al.]($media$/Photo1729.jpg)
 
 Nachdem sich vom Bürgermeister über den Universitätsdirektor bis zur Putzfrau so gut wie jeder einmal gemeldet hat, war die Tour offiziell zu Ende, was sehr viele noch zum Anlass nahmen, sich mit Monsieur Juppé ablichten zu lassen. Max, hier hätte ich wirklich die Gelegenheit gehabt, mich mit einem premier ministre de la France porträtieren zu lassen, nicht so wie du mit deinem Madame-Tussauds-Sarkozy. ;) Fand das allerdings zu aufdringlich und nahm daher davon und vom Bürgermeister Abstand.
 Nach der Tour gingen wir alle noch nach Hause und wollten dann etwas später noch in die Stadt, doch ich kochte mir Kartoffeln, die ziemlich lange brauchten, und als ich fertig war, musste ich feststellen, dass sich meine Gruppe schon via Facebook zu einem Kinofilm verabredet hatte, der 20 Minuten später in der Innenstadt beginnen würde. Da sich das zeitlich nicht mehr ausgegangen wäre, blieb ich denn zuhause und sah mir den oben schon erwähnten "No Country for Old Men" an --- ein fantastischer Film!
 
 Heute Sonntag arbeitete ich wieder einmal an meinem Computerprogramm für das Botanische Institut der Universität Innsbruck, das ich aufgrund meiner zahlreichen Freizeitaktivitäten immer wieder vor mich hergeschoben hatte. :) Am Nachmittag traf ich mich dann mit dem Teil unserer Erasmus-Gruppe, der zu Weihnachten nach Paris fährt. Bei Anita, Kaffee und Kuchen suchten wir im Internet nach geeigneten Pariser Hostels, bis unsere Wahl schließlich auf das [Aloha Hostel](http://www.aloha.fr/) fiel, das uns somit im Dezember für 30€ pro Person und Nacht beherbergen wird. Inklusive Frühstück. Yay!
 
-<div class="img-container">
-  <img src="/media/2012-10-14-a-la-recherchu-du-truc-perdu/Photo1734.jpg" />
-  <p>Kaffeekränzchen avec Anita, Kristin et Andreas.</p>
-</div>
+![Kaffeekränzchen avec Anita, Kristin et Andreas.]($media$/Photo1734.jpg)
 
 Muss jetzt Schluss machen, denn um 20 Uhr empfange ich meine Nachbarinnen Yuko und Dorka, denen ich letzte Woche ein österreichisches Abendessen versprochen hatte. Kaiserschmarrn! :)
 

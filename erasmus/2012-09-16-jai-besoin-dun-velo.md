@@ -21,10 +21,7 @@ Ein in Grammatik beschlagener Mensch kann einen Text wie "Ich komme aus Innsbruc
 Nun zum letzten Fach, nämlich Modèles de Calcul: Diese Vorlesung beschäftigt sich damit, was berechenbar ist und was nicht; außerdem damit, mit wieviel Aufwand gewisse Dinge zu berechnen sind. Zum Beispiel gibt es Probleme wie Sudoku, für die es relativ aufwändig ist, eine Lösung zu finden (sprich: berechnen), aber vergleichsweise einfach, eine gefundene Lösung zu überprüfen. Das weiß jeder, der schon einmal eine halbe Stunde an einem Sudoku gesessen ist, nur um dann in zwei Sekunden zu merken, dass er/sie wieder einmal versehentlich zwei gleiche Zahlen in die selbe Reihe gesteckt hat. :) Es gibt aber auch andere Probleme, wie die Addition von zwei Zahlen, wo die Lösungsüberprüfung nicht einfacher ist als die Berechnung --- um zu überprüfen, ob "873 + 125 = 998" stimmt, führt kein Weg daran vorbei, die Berechnung selber auszuführen. :)
 Diese Vorlesung ist zwar interessant, aber da ich eine relativ ähnliche Vorlesung in Innsbruck schon besucht habe weiß ich noch nicht, ob ich sie mir weiterhin anschaue oder mir lieber einen freien Freitag mache. ^^
 
-<div class="img-container">
-  <img src="/media/2012-09-16-jai-besoin-dun-velo/Photo1473.jpg" />
-  <p>Modèles de Calcul (während der Pause aufgenommen).</p>
-</div>
+![Modèles de Calcul (während der Pause aufgenommen).]($media$/Photo1473.jpg)
 
 Vor Beginn meines Auslandsaufenthalts habe ich übrigens viel davon gehört, dass die französischen Universitäten sehr verschult seien: So würde der typische österreichische Student, der mit Kaffee und Tageszeitung eine halbe Stunde zu spät in der Vorlesung erscheint, in Frankreich zuerst gnadenlos zur Schnecke gemacht und anschließend mit einer leckeren Sauce angerichtet. Habe ich mir so vorgestellt. Mittlerweile hat sich dieses Bild revidiert: Von einigen Kollegen anderer Fakultäten habe ich nämlich gehört, dass es ihnen so ähnlich schon ergangen sei, aber in der Informatik scheint das bisher noch überhaupt nicht der Fall zu sein! Die Leute kommen und gehen, wann es ihnen passt --- im Übrigen gilt das teilweise auch für die Professoren. :) Da ich mir allerdings seit der Zeit mit meiner Strebergruppe in München angewohnt habe, regelmäßig und pünktlich zu Lehrveranstaltungen zu erscheinen, profitiere ich nicht sonderlich von dieser Freiheit, freue mich aber trotzdem darüber, dass ich nicht in der Ecke stehen muss, wenn ich einmal die Tram verpasse und fünf Minuten zu spät komme. :)
 
@@ -39,25 +36,16 @@ Am Freitag hatte ich meine erste Chinesisch-Stunde und gab darauf im Gegenzug me
 > einer ohne Ohren, einer ohne Schwanz  
 > sehr bizarr, sehr bizarr.
 
-<div class="img-container">
-  <img src="/media/2012-09-16-jai-besoin-dun-velo/Photo1529.jpg" />
-  <p>Chinesisches "Bruder Jakob".</p>
-</div>
+![Chinesisches "Bruder Jakob".]($media$/Photo1529.jpg)
 
 Am Samstag fuhr ein Teil unserer Erasmus-Gruppe dann nach Arcachon, um sich die weltbekannten Dünen anzusehen. Vor der Hinfahrt habe ich allerdings noch mein ganzes Zimmer auf Anraten der Wohnheim-Putzfrau mit Insektenspray zugenebelt, um meinen kleinen Mitbewohnern endgültig den Garaus zu bereiten. Dazu später noch mehr.
 Die Fahrt nach Arcachon mit dem Zug von Pessac aus gestaltete sich relativ einfach und war mit 7,30€ auch gar nicht so teuer wie erwartet. In Arcachon angekommen mussten wir den Bus zu den Dünen nehmen, was sich aufgrund der recht geringen Bus-Taktfrequenz ziemlich hinzog. Die Dünen waren dann allerdings ziemlich spektakulär, und das daran angrenzende Meer nicht minder, denn es gab sehr viele Wellen, die teilweise auch ziemlich hoch und stark waren. Für Surfer und Segler ein Paradies! Ich war auf jeden Fall von meinem ersten Ausflug an den Atlantik begeistert!
 
-<div class="img-container">
-  <img src="/media/2012-09-16-jai-besoin-dun-velo/Arcachon.jpg" />
-  <p>Les Dunes.</p>
-</div>
+![Les Dunes.]($media$/Arcachon.jpg)
 
 Ein paar aus unserer Gruppe verabschiedeten sich dann von uns, die wir noch ein wenig länger am Strand bleiben und den Tag genießen wollten. Wir stellten dann allerdings fest, dass sich mit dem letzten Bus von den Dünen (ca. 19:40 Uhr) vermutlich der letzte Zug nach Bordeaux (ca. 20:15 Uhr!) nicht mehr ausgehen würde! Daraufhin brachen wir relativ eilig auf, um uns irgendwie eine Verbindung nach Bordeaux zu organisieren. Es wusste allerdings niemand die Nummer eines Taxiunternehmens, auch die Auskunft scheint nichts gewusst zu haben. So ging ich dann zur Bushaltestelle, wo ich ein paar Leute fragen wollte, die sich dann lustigerweise als Österreicher herausstellten. ^^ Der Vorarlberger unter ihnen war natürlich bestens informiert und versicherte uns, dass wir mit dem Bus doch den Zug erreichen würden. Während ich noch mit den Österreichern ein bisschen ratschte, sah ich auch gleichzeitig das erste Auto mit österreichischem Kennzeichen seit meiner Ankunft in Bordeaux vor mehr als zwei Wochen! Die Dünen von Arcachon scheinen eine Art Attraktion auf Österreicher auszuüben. ;)
 
-<div class="img-container">
-  <img src="/media/2012-09-16-jai-besoin-dun-velo/Photo1523.jpg" />
-  <p>Aufgabe: Finde den Vorarlberger! :)</p>
-</div>
+![Aufgabe: Finde den Vorarlberger! :)]($media$/Photo1523.jpg)
 
 Als ich mich also schon wieder langsam wie in Österreich zu fühlen begann, kam ein Mann auf uns zu, den ich zuvor nach einem Taxiunternehmen gefragt hatte, und bot uns eine Mitfahrgelegenheit für zwei an, die Andreas und ich dann auch dankbarerweise beanspruchten. Leider mussten wir den Rest unserer verbliebenen Gruppe zurücklassen, aber wir hatten dafür eine erstklassige, kostenlose Mitfahrgelegenheit bis fast vor unsere Haustür! Leider bekam ich noch während der Fahrt relativ starkes Halsweh, weshalb ich dann nicht mehr mit den anderen ausgehen konnte. :(
 Wem es dafür pudelwohl ging, waren meine geliebten insektoiden Mitbewohner! Nachdem ich eigentlich erwartet hatte, bei meiner Rückkehr den Boden vor lauter Kakerleichen nicht mehr zu sehen, war ich ob des Misserfolgs meines Insektozids erschüttert: Keine einzige tote Kakerlake war zu sehen, nur einem armen, unschuldigen Spinnchen scheine ich den vorzeitigen Tod beschert zu haben. R.I.P. Dafür sah ich gleich bei meinem Eintritt in das Zimmer ein richtig fettes Kakerlakenexemplar ungeniert die Zimmerwand entlangeilen. 1:0 für euch, aber ich schlage schon noch zurück!

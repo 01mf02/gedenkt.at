@@ -14,38 +14,23 @@ Meine eigenen Sprachfortschritte gehen übrigens nicht nur im Französischen vor
 
 In letzterer Angelegenheit, dem Klavier nämlich, hat sich in Zwischenzeit auch einiges bei mir getan: Ich habe nämlich mittlerweile endlich meinen Studentenausweis bekommen (yippi-yippi-yay!), der mir nicht nur bargeldloses Zahlen in der Mensa, sondern auch die Benutzung des wohnheimeigenen Klaviers ermöglicht! Das Klavier dort hatte ich eigentlich schon ein wenig abgeschrieben, nachdem mir die Dame vom Wohnheim-Sekretariat immer wieder gesagt hat, es wäre "très désaccordé", aber es hat sich als nicht so verstimmt herausgestellt wie befürchtet. Im Gegenteil, das Klavier der Marke Tchaika ist made in USSR (!) und durchaus spielbar. Ich glaube trotzdem, dass ich nicht sehr viel darauf üben können werde, denn immer sobald ich zu spielen beginne, lockt das sofort irgendwelche Wohnheimbewohner an, die zuhören wollen. ;)
 
-<div class="img-container">
-  <img src="/media/2012-09-23-je-suis-malade-completement-malade/Photo1537.jpg" />
-  <p>Le piano.</p>
-</div>
+![Le piano.]($media$/Photo1537.jpg)
 
 Ich habe übrigens auf meinem Stockwerk einen Musiker namens Idir kennengelernt, der Gitarre und Mundharmonika spielt, und am Samstag hat er mich durch Klopfen an meiner Tür etwas unsanft aus meinem Nachmittagsschläfchen geholt. Ein paar Minuten später waren wir dann im salle de piano, wo wir ein bisschen improvisierten. Nach einigen Minuten ging dann die Türe auf und zwei andere, nämlich Brenda und Kevin, kamen unerwartet herein, letzterer hatte schon seine Gitarre mit. ^^ So wurde aus der Jamsession à deux eine Jamsession à quatre! :) Das größte Problem bei der Verständigung war dabei die französische Benennung der Noten, denn auch hier kochen die Franzosen mit do, re, mi, ... ihr eigenes Süppchen, an das ich mich noch nicht gewöhnt habe. Was heißt z.B. auf Französisch as-moll? Puh.
 
-<div class="img-container">
-  <img src="/media/2012-09-23-je-suis-malade-completement-malade/Photo1543.jpg" />
-  <p>Meine ersten Zuhörer: Coutin, Ema und Idir.</p>
-</div>
+![Meine ersten Zuhörer: Coutin, Ema und Idir.]($media$/Photo1543.jpg)
 
 A propos Kochen: Diesen Samstag hat wieder einmal ein größeres Erasmus-Kochtreffen stattgefunden, das sehr fein war! Es gab französische Taboulé, spanisches Erdäpfelomelette, griechischen Salat ... und österreichischen Kaiserschmarrn! ;) Letzterer war auch mein erstes österreichisches Gericht hier in Frankreich; sonst habe ich mich bisher platzbedingt zumeist von Spaghetti und Frankfurtern ernährt. ^^ (Die Frankfurter heißen hier übrigens auch Frankfurter, d.h., dass scheinbar nur die Deutschen die Bezeichnung "Wiener Würstchen" verwenden. Vielleicht deshalb, weil "Würstchen" irgendwie auch abwertend klingt und man ungern die Frankfurter damit beleidigen möchte?) Unsere Frankfurterin, Lisa, war leider zu krank, um zu unserem Kochtreffen zu kommen, und auch Anita und ich kämpften mit dem Husten. Trotzdem ließ ich es mir nicht nehmen, ein wenig zu singen, als unser Québécois Matthieu die Gitarre auspackte. :) Alles in allem war das jedenfalls ein gewaltiger Abend!
 
-<div class="img-container">
-  <img src="/media/2012-09-23-je-suis-malade-completement-malade/Photo1547.jpg" />
-  <p>Baladeur Jorge et ses filles.</p>
-</div>
+![Baladeur Jorge et ses filles.]($media$/Photo1547.jpg)
 
 Durch meine Krankheit musste ich leider diese Woche meine Bemühungen hintanstellen, ein Fahrrad zu kaufen. Ich habe zwar nämlich eine tolle Seite namens [leboncoin.fr](http://www.leboncoin.fr/) entdeckt, wo man auch richtig viele [Fahrradangebote](http://www.leboncoin.fr/velos/offres/aquitaine/?f=a&th=1) finden kann, doch am Donnerstag war ich nach einer Vorlesung so fertig und hatte so ein Kopfweh, dass ich richtig froh war, dass mir jemand ein Besichtigungstreffen für ein Rennrad abgesagt hat. Seitdem warte ich darauf, bis ich wieder gesund bin, und werde mich dann wieder voll auf die Suche stürzen! :) Habe auch schon einige schöne Fahrräder gesehen, u.a. ein paar niederländische, die es mir optisch ganz besonders angetan haben, so wie [das hier](http://www.go-sport.com/cycle/velo/railway-1-1100300). Nur schade, dass es in der von mir avisierten Preisklasse wohl keine Fahrräder mit Nabendynamo gibt. :/
 
-<div class="img-container">
-  <img src="/media/2012-09-23-je-suis-malade-completement-malade/Photo1533.jpg" />
-  <p>Dieses Fahrrad war mir dann doch zu klein.</p>
-</div>
+![Dieses Fahrrad war mir dann doch zu klein.]($media$/Photo1533.jpg)
 
 Durch meinen neuen Studentenausweis bin ich mittlerweile übrigens in der Lage, die studentische "lavarie", sprich Waschsalon, zu benützen! Finalement! Das Ergebnis kann man hier bestaunen.
 
-<div class="img-container">
-  <img src="/media/2012-09-23-je-suis-malade-completement-malade/Photo1551.jpg" />
-  <p>Keine Fledermäuse.</p>
-</div>
+![Keine Fledermäuse.]($media$/Photo1551.jpg)
 
 Heute war ich übrigens beim Chor vorsingen, mit dem Ergebnis, dass ich jetzt Mitglied des [Chœur Voyageur](http://lechoeurvoyageur.fr/) bin! Yay! Das Vorsingen war nicht sonderlich schwierig und ist trotz Halsschmerzen besser gegangen als erwartet, und zum Schluss habe ich noch "[Tauben vergiftet](http://www.youtube.com/watch?v=TiH5BsVTcyg)", was bei meinem frankophonen Publikum trotz Sprachunverständnis auf großen Anklang gestoßen ist. :) Ein Beweis für die Genialität Georg Kreislers.
 Die Leute beim Vorsingen haben einen sehr guten Eindruck auf mich gemacht, und ich freue mich schon auf die erste Probe am Dienstag.
