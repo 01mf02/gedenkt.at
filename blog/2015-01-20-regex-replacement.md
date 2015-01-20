@@ -82,7 +82,7 @@ Prelude> import Text.Regex
 
 Sigh. I knew this was not going to be that easy. So I somehow have to remove the old regex-compat package. Luckily, it turned out that I had a package called libghc-regex-compat-dev on my Linux system, which I removed via my package manager. After that, I could load Text.Regex just fine, and it matched strings containing "strange" characters just as well. Great!
 
-Now we are able to match simple test strings, but we want to search and replace within a whole file. How do we do that? Luckily, Haskell has an enormously convenient function `interact`, which reads from standard input, passes the input to a function, and writes the output of the function to standard output. The solution utilising `interact` is:
+Now we are able to match simple test strings, but we want to search and replace within a whole file. How do we do that? Luckily, Haskell has an awesome function called `interact`, which reads from standard input, passes the input to a function, and writes the output of the function to standard output. The solution utilising `interact` is:
 
 ~~~ haskell
 main = interact (\ f -> subRegex (mkRegex regex) f "![\\2](\\1)\n")
