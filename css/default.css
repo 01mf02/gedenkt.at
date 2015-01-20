@@ -64,9 +64,9 @@ pre {
   padding: 10px;
 }
 
-@media all and (min-width: 600px) {
+@media all and (min-width: 800px) {
   body {
     margin: 0px auto 0px auto;
-    width: 600px;
+    width: 800px;
   }
 }
