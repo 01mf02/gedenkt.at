@@ -16,13 +16,13 @@ For displaying images with captions on my website, so far I used HTML code as th
 </div>
 ~~~
 
-However, I wanted to use the new Markdown syntax for it, which looks as follows:
+I wanted to replace this with Markdown syntax, which looks as follows:
 
 ~~~
 ![Les Dunes.](/media/Arcachon.jpg)
 ~~~
 
-Much less to type that way. :) However, in my existing files, I used the img-container about 50 times, which was clearly too much for me to replace by hand. Therefore, I first thought about giving my good old friend `sed` a spin to automatise the replacement. Unfortunately, I quickly found out via Stack Overflow that `sed` [seems to work best if you process files line by line][sed post], and in my case, I had to match a pattern over multiple lines. For about one minute, I considered the advice in the Stack Overflow post to use Perl for the task, but as I do not know how to program in Perl and did not want to learn it for this apparently simple task, I researched a Haskell solution to this problem, which turned out to be very nice.
+Much less to type that way. :) However, in my existing files, I used the img-container about 50 times, which was clearly too much for me to replace by hand. Therefore, I first considered giving my good old friend `sed` a spin to automatise the replacement. Unfortunately, I quickly found out via [Stack Overflow][sed post] that `sed` seems to work best if you process files line by line, and in my case, I had to match a pattern over multiple lines. For about one minute, I considered the advice in the Stack Overflow post to use Perl for the task, but as I do not know how to program in Perl and did not want to learn it for this apparently simple task, I researched a Haskell solution to this problem, which turned out to be very nice.
 
 
 ## Solution
@@ -67,7 +67,7 @@ I tested this with some other examples, and on one example, nothing was replaced
 </div>
 ~~~
 
-What is wrong about this? It contains 'è' and 'ä'. "But we are in the 21th century, what about Unicode?", I hear you blubber out in disbelief. I concur, but apparently old habits die hard, and Unicode is still not supported everywhere. Fear not, for you have a remedy at hand: The [Text.Regex] module which I used is provided by several packages, the default one being [regex-compat][], which does seem to not support Unicode. However, there is a replacement called [regex-compat-tdfa][] which supports Unicode. One `cabal-install regex-compat-tdfa` later, I get a new error message:
+What is wrong about this? It contains 'è' and 'ä'. "But we are in the 21th century, what about Unicode?", I hear you blubber out in disbelief. I concur, but apparently old habits die hard, and Unicode is still not supported everywhere. Fear not, for you have a remedy at hand: The [Text.Regex] module which I used is provided by several packages, the default one being [regex-compat][], which does seem to not support Unicode. However, as I found out via [Stack Overflow][regex-tdfa-post], there is a replacement called [regex-compat-tdfa][] which supports Unicode. One `cabal-install regex-compat-tdfa` later, I get a new error message:
 
 ~~~
 michi ~ $$ ghci
@@ -114,4 +114,5 @@ main = interact (\ f -> subRegex (mkRegex regex) f "![\\2](\\1)\n")
 [sed post]: http://unix.stackexchange.com/questions/26284/how-can-i-use-sed-to-replace-a-multi-line-string
 [Text.Regex]: https://hackage.haskell.org/package/regex-compat/docs/Text-Regex.html
 [regex-compat]: https://hackage.haskell.org/package/regex-compat
+[regex-tdfa-post]: http://stackoverflow.com/questions/2098314/haskells-text-regex-subregex-using-tdfa-implementation
 [regex-compat-tdfa]: https://hackage.haskell.org/package/regex-compat-tdfa
