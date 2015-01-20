@@ -7,10 +7,7 @@ Straßenbahnen faszinieren mich grundsätzlich sehr. Neben den praktischen Grün
 
 In manchen Städten haben es Straßenbahnen sogar zu Wahrzeichen gebracht: Bei San Francisco denkt man an steile Straßenzüge und an die "[cable cars]", und auch z.B. in [Bordeaux][Straßenbahn Bordeaux] findet sich die Straßenbahn bei Stadtbeschreibungen und Werbebroschüren immer wieder an prominenter Stelle. Ich kann mich außerdem noch gut an das erinnern, was mir mein Freund Romaric in Bordeaux erzählt hat: Vor dem dortigen Tramausbau seien die Vorstädte Talence und Pessac verkehrsmäßig sehr bescheiden erschlossen gewesen, und die beiden Vorstädte hätten seit dem Tramausbau eine enorme Aufwertung genossen.
 
-<figure>
-  <img src="$media$/640px-Bordeaux_place_de_la_bourse_with_tram.JPG">
-  <figcaption>Straßenbahn in Bordeaux (Bild von <a href="http://commons.wikimedia.org/wiki/File:Bordeaux_place_de_la_bourse_with_tram.JPG">Phillip Maiwald</a>)</figcaption>
-</figure>
+![Straßenbahn in Bordeaux (Bild von <a href="http://commons.wikimedia.org/wiki/File:Bordeaux_place_de_la_bourse_with_tram.JPG">Phillip Maiwald</a>)]($media$/640px-Bordeaux_place_de_la_bourse_with_tram.JPG)
 
 Umso mehr hat es mich gefreut, dass auch in Innsbruck der Tramausbau vorangetrieben werden sollte --- und dann gleich in mein Heimatviertel, [Hötting-West]. Nun ist die Situation in Hötting-West zwar nicht vergleichbar mit Talence/Pessac, da wir ja in Hötting-West schon eine sehr leistungsfähige Buslinie in die Innenstadt haben, aber ich erwarte mir dennoch eine gewisse Aufwertung des Stadtteils.
 

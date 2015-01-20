@@ -42,7 +42,7 @@ regex = unlines
 testText = unlines
   [ "<div class=\"img-container\">"
   , "  <img src=\"/media/Arcachon.jpg\" />"
-  , "  <p>Description.</p>"
+  , "  <p>Les Dunes.</p>"
   , "</div>"
   ]
 
@@ -53,7 +53,7 @@ Let us try it:
 
 ~~~
 michi ~ $$ runhaskell regex.hs
-"![Description.](/media/Arcachon.jpg)\n"
+"![Les Dunes.](/media/Arcachon.jpg)\n"
 ~~~
 
 Yes, it works! (At this point, I confess that I took at least one hour to come up with this whole solution, including a countless number of "oh no, why does it not work?".)

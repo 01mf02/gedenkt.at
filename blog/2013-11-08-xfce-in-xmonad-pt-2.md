@@ -85,15 +85,9 @@ Mit der momentanen Lösung bin ich höchst zufrieden --- alles funktioniert best
 
 Zu guter Letzt noch ein paar Bildschirmfotos:
 
-<figure>
-  <img src="$media$/clean.png">
-  <figcaption>Einmal aufgeräumt, ...</figcaption>
-</figure>
+![Einmal aufgeräumt, ...]($media$/clean.png)
 
-<figure>
-  <img src="$media$/messy.png" />
-  <figcaption>... einmal mit Fenstern.</figcaption>
-</figure>
+![... einmal mit Fenstern.]($media$/messy.png)
 
 Man beachte auch die Fenstervorschau pro Arbeitsfläche im Xfce-Panel rechts oben; ein sehr nützliches Werkzeug, um schnell herauszufinden, wo sich der Firefox wieder hinverkrochen hat. ;)
 

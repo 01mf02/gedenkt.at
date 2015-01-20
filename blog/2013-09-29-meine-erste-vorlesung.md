@@ -11,10 +11,7 @@ In den darauffolgenden Wochen bereitete ich mich auf die Vorlesung vor, indem ic
 
 Und ein paar Wochen später stand ich also im Hörsaal A der Universität Innsbruck ca. 100 Studenten gegenüber, die alle gekommen waren, um bei mir ihre Mathematik-Kenntnisse aufzufrischen. Bei dieser ersten Vorlesung war ich doch im Vorfeld etwas nervös, aber da ich mich ja auf diese erste Stunde ausreichend vorbereitet hatte, war ich doch zuversichtlich, ohne gröbere Schnitzer aus der Vorlesung herauszukommen. Ich begrüßte die Studenten zu Beginn mit einem "Messieurs et dames, bonjour, willkommen beim Französischkurs für Anfänger." (mit übertriebenem französischen Akzent ausgesprochen), was die Studenten schon einmal zum Lachen brachte und aufweckte. Dann legte ich relativ zügig mit dem Stoff los, bei dem ich mir größte Mühe gab, ihn verständlich zu erklären und durch Zwischenfragen an mein Publikum zu überprüfen, ob alle den Stoff verstanden haben.
 
-<figure>
-  <img src="$media$/Photo3891.jpg">
-  <figcaption>Glückliche Studenten.</figcaption>
-</figure>
+![Glückliche Studenten.]($media$/Photo3891.jpg)
 
 Ich versuchte, den Kurs möglichst abwechslungsreich zu gestalten: So erklärte ich z.B. die vollständige Induktion anhand von ein paar Büchern, die ich mitgebracht hatte. Ich wollte nämlich zeigen, dass durch das Umwerfen des ersten Buches auch alle anderen dahinterstehenden Bücher (wieviele auch immer) umfallen würden. Dabei erklärte ich, dass wir bei der vollständigen Induktion immer einen Basisfall und einen Induktionsschritt beweisen müssen. Auf die Bücher angewandt entspricht das Beweisen des Basisfalls dem Umwerfen des allerersten Buches, und das Beweisen des Induktionsschritts, dass wenn ich ein x-beliebiges Buch umwerfe, auch das dahinterstehende Buch umfällt. Zum Schluss stellte ich alle meine Bücher hintereinander und warf das erste Buch um, was auch alle anderen Bücher dahinter zu Fall brachte. Begeisterter Applaus von Seiten der Studenten.
 
