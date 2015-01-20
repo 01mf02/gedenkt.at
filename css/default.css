@@ -58,6 +58,11 @@ div.figure img {
   max-width: 100%;
 }
 
+pre {
+  background: lightgrey;
+  overflow: auto;
+  padding: 10px;
+}
 
 @media all and (min-width: 600px) {
   body {
