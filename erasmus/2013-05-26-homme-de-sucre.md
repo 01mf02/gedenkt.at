@@ -52,7 +52,7 @@ Am Samstag arbeitete ich größtenteils an meiner Masterarbeit und traf mich am 
 
 Am Sonntag war ich hauptsächlich damit beschäftigt, diesen Artikel zu schreiben :). Zwecks Erhalts von Bildern zur soirée am Samstag Abend ging ich noch zu Simon, der sich gerade auf eine Fahrradtour nach Bourgailh vorbereitete, und ich beschloss spontan, mich anzuschließen. So fuhren wir also in den Pessacer Hauswald, wo wir das dortige Gewächshaus besichtigten (sehr zu empfehlen!) und nach einer kleinen Tour zum See wieder zurückfuhren.
 
-![Avec Simon dans les serres de Bourgailh.]($media$/Photo3376-e1369592380785.jpg)
+![Avec Simon dans les serres de Bourgailh.]($media$/Photo3376.jpg)
 
 
 
