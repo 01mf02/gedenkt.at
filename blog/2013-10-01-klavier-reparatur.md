@@ -29,4 +29,4 @@ Was habe ich aus dieser Sache gelernt?
     * Alkohol: Zum Putzen der empfindlichen Kontakte, um Korrosion durch Fingertapper zu verhindern.
     * Licht: Wem noch nie eine Schraube in irgendein obskures Loch gefallen ist, der werfe den ersten Stein.
 
-Ich hoffe, dass ich mit dieser Anleitung dienlich sein konnte --- man weiß nie, wann man sein nächstes Klavier reparieren muss. ;)
+Ich hoffe, dass ich mit dieser Anleitung dienlich sein konnte -- man weiß nie, wann man sein nächstes Klavier reparieren muss. ;)

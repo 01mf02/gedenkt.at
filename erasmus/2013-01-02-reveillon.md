@@ -59,6 +59,6 @@ Nachdem dem Abstieg vom Dach blieben wir noch einige Zeit bei der Feier, wo wir 
 Um Gulda zu zitieren: "Aussi le plus bon soir une fois a une fin", und so machten wir (Anna, Stefan et moi) uns dann spätnachts auf den Heimweg, um diesen gewaltigen Jahreswechsel zu einem Abschluss zu bringen.
 Nach ca. vier Stunden Schlaf (verdammt sei meine fixe Aufwachzeit um spätestens 8 Uhr!) bereitete ich mich auf meine Abreise aus Wien vor, die ich am Westbahnhof nach einem gemeinsamen Abschiedsfrühstück mit Anna und Stefan antrat. Das Gratis-Internet im railjet versüßte mir die Reise, sodass ich sogar im Zug an meinem Blog weiterschreiben konnte. ;) Zuhause angekommen stolperte ich gleich in einen Familienbesuch hinein, denn mein Onkel samt seiner Freundin stattete uns noch einen Besuch ab. Nach einem sehr vergnüglichen Abend mit den beiden spielte ich noch ein wenig mit meiner Schwester und ging dann einmal wieder zeitig schlafen.
 
-Ich hoffe, meine Leserschaft hatte auch einen angenehmen Jahreswechsel --- ich für meinen Teil wünsche euch auf jeden Fall allen noch ein schönes, neues Jahr! Bis bald!
+Ich hoffe, meine Leserschaft hatte auch einen angenehmen Jahreswechsel -- ich für meinen Teil wünsche euch auf jeden Fall allen noch ein schönes, neues Jahr! Bis bald!
 
 P.S.: Ich widmete mich zeitweilig wieder einmal einem von mir lange vernachlässigten Zeitvertreib, nämlich dem Computerspielen! :) Im Moment hat es mir das Spiel [Black Mesa](http://www.blackmesasource.com/), ein kostenloses Half-Life-Remake, besonders angetan; ich kann es nur empfehlen.

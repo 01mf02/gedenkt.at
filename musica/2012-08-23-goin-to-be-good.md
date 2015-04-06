@@ -2,7 +2,7 @@
 title: Goin' To Be Good
 ---
 
-Hi there! On a trip to Vorarlberg (most western country of Austria, featuring a people nobody but themselves and the Swiss understand ^^), I had the idea for this song. The recording features Lukas Hartl on the guitar and on the background vocals --- enjoy!
+Hi there! On a trip to Vorarlberg (most western country of Austria, featuring a people nobody but themselves and the Swiss understand ^^), I had the idea for this song. The recording features Lukas Hartl on the guitar and on the background vocals -- enjoy!
 
 <audio controls src="$media$/goin-to-be-good.mp3"></audio>
 

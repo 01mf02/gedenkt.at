@@ -174,7 +174,7 @@ Now what happens if we run this Omega version?
 ["a","aa","ba","aaa","baa","aaaa","baaa","aaaaa","baaaa","aaaaaa"]
 ~~~
 
-We see that now sometimes the production rule starting with 'b' is also chosen --- great! :)
+We see that now sometimes the production rule starting with 'b' is also chosen -- great! :)
 
 
 ## Using it as an exam evaluation tool

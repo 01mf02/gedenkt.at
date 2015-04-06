@@ -19,7 +19,7 @@ Es folgt eine kleine Auswahl meiner momentanen Lieblingstitel (teilweise inspiri
 * Jacques Dutronc : [J'aime les filles](http://www.youtube.com/watch?v=HNRtpvGumkU)
 
 
-Nebenbei versuche ich auch, das französische Liedgut auf eigene Faust zu erweitern; so habe ich wieder einmal in einem nächtlichen Motivationshoch passend zur neuen Jahreszeit das Lied "Veronika, der Lenz ist da" auf Französisch übersetzt --- voilà "Véronique, le printemps est là":
+Nebenbei versuche ich auch, das französische Liedgut auf eigene Faust zu erweitern; so habe ich wieder einmal in einem nächtlichen Motivationshoch passend zur neuen Jahreszeit das Lied "Veronika, der Lenz ist da" auf Französisch übersetzt -- voilà "Véronique, le printemps est là":
 
 ~~~
 "Véronique, le printemps est là
@@ -78,7 +78,7 @@ Am Donnerstag fand unser Französisch-Kurs statt ... nicht! Wir warten vor der T
 
 Am Freitag fand wieder einmal ein kleines Treffen unserer Erasmus-Gruppe statt, die allerdings nach meinem Empfinden leider nur noch ein Schatten ihrer selbst ist, da einige der ohnehin nicht zahlreichen Verbliebenen abgesagt haben. Es fehlen insbesondere die ganzen Deutschen, die immer sehr motivierbar waren und bei fast jeder kulturellen Aktivität mitgemacht haben. :( So waren wir nur zu dritt; wir haben schon bessere Abende gesehen. Machte aber nichts, denn ich musste sowieso früh gehen, denn ...
 
-Am Samstag stand eine kulturelle Stadtführung von Bordeaux am Programm! Diese wurde veranstaltet von unserer Französisch-Professorin, die den Französisch-Kurs am Dienstag hielt und uns nunmehr aufgrund einer Beinoperation leider nicht mehr unterrichten wird. Wir sahen bei dieser Stadtführung einige uns schon bekannte Monumente, aber auch einige versteckte Ecken der Stadt --- ich hoffe, meine nächsten Besucher aus Heimatlanden jetzt also eine kulturelle Einführung in die Stadt geben zu können. ;)
+Am Samstag stand eine kulturelle Stadtführung von Bordeaux am Programm! Diese wurde veranstaltet von unserer Französisch-Professorin, die den Französisch-Kurs am Dienstag hielt und uns nunmehr aufgrund einer Beinoperation leider nicht mehr unterrichten wird. Wir sahen bei dieser Stadtführung einige uns schon bekannte Monumente, aber auch einige versteckte Ecken der Stadt -- ich hoffe, meine nächsten Besucher aus Heimatlanden jetzt also eine kulturelle Einführung in die Stadt geben zu können. ;)
 
 ![À la fin du tour.]($media$/Photo2979.jpg)
 

@@ -25,11 +25,11 @@ Traduction
 	Pourquoi la fumée dans la cheminée
 	reste en bas à foison ?
 	Et une corneille reste et veille :
-	Enfants --- faites attention !
+	Enfants -- faites attention !
 
 
 
-	La femme d'à côté --- comme je l'entends ---
+	La femme d'à côté -- comme je l'entends ---
 	elle vient d'on ne sait où
 	elle vit ici déjà il y a longtemps
 	mais elle n'est pas comme nous.
@@ -43,7 +43,7 @@ Traduction
 	Au dehors, elle semble aimable, mais
 	étrange est sa maison.
 	Notre programme, c'est fuir cette femme !
-	Enfants --- faites attention !
+	Enfants -- faites attention !
 
 
 	La sorcière ne peut pas rester

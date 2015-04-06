@@ -30,7 +30,7 @@ Paroles
 	on n'était plus si sage.
 
 	On a goûté à tout
-	ô --- on s'est goûté
+	ô -- on s'est goûté
 	pauvre de toi
 	je ne t'ai pas écouté.
 
@@ -43,7 +43,7 @@ Paroles
 	Mais ton âme
 	s'est envolé, juste comme le mien
 	et tout qui reste
-	sont les souvenirs de toi --- de nous.
+	sont les souvenirs de toi -- de nous.
 
 	<Refrain>
 

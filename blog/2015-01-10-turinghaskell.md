@@ -27,7 +27,7 @@ In each state, the machine does the following:
 
 More formally, the exact behaviour of the machine in each state is determined by the machine's transition function δ(s, c) = (s', c', d): When the machine is in the state s and it reads the symbol c from the tape head, it will overwrite the symbol c under the tape head with c', move the tape head in the direction determined by d ∈ {→, ←}, and it will finally set its new state to s'.
 
-As soon as the machine reaches its accepting or rejecting state, it halts --- the word is accepted respectively rejected. It can also be the case that the machine will never reach an accepting or rejecting state, in which case the machine will run forever (or at least as long as nobody pulls the plug) --- it does not terminate.
+As soon as the machine reaches its accepting or rejecting state, it halts -- the word is accepted respectively rejected. It can also be the case that the machine will never reach an accepting or rejecting state, in which case the machine will run forever (or at least as long as nobody pulls the plug) -- it does not terminate.
 
 Let us pay some attention to the tape: The tape has finite length, namely at first the length of the input word. However, when the tape head goes beyond the tape (either to the left or to the right), the tape gets automatically extended by one, and the tape head reads a blank symbol. That way, the Turing machine can allocate a principally infinite amount of memory on the tape.
 
