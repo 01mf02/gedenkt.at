@@ -5,9 +5,13 @@ cabal-version:      >= 1.10
 
 executable Site
   main-is:          Site.hs
+  other-modules:    Austrian
   build-depends:    base == 4.*
-                  , hakyll == 4.6.*
+                  , containers
                   , filepath
+                  , hakyll >= 4.7
                   , old-locale
+                  , pandoc
+                  , time
   ghc-options:      -threaded
   default-language: Haskell2010

@@ -1,6 +1,6 @@
 module Austrian where
 
-import           System.Locale (TimeLocale (..))
+import Data.Time.Format (TimeLocale (..))
 
 austrianTimeLocale :: TimeLocale
 austrianTimeLocale = TimeLocale {
@@ -27,6 +27,7 @@ austrianTimeLocale = TimeLocale {
            , ("Dezember" , "Dez")
            ],
 
+{-
   intervals = [ ("Jahr"  , "Jahre")
               , ("Monat" , "Monate")
               , ("Tag"   , "Tage")
@@ -35,11 +36,13 @@ austrianTimeLocale = TimeLocale {
               , ("sec"   , "secs")
               , ("usec"  , "usecs")
               ],
+-}
 
   amPm = ("AM", "PM"),
   dateTimeFmt = "%a %b %e %H:%M:%S %Z %Y",
   dateFmt = "%d.%m.%y",
   timeFmt = "%H:%M:%S",
-  time12Fmt = "%I:%M:%S %p"
+  time12Fmt = "%I:%M:%S %p",
+  knownTimeZones = []
 }
 

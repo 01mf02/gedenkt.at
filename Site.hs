@@ -100,7 +100,7 @@ writerOptions = defaultHakyllWriterOptions {
     defaultExtensions = writerExtensions defaultHakyllWriterOptions
     newExtensions = foldr S.insert defaultExtensions mathExtensions
 
-renderPandocMath :: Item String -> Item String
+renderPandocMath :: Item String -> Compiler (Item String)
 renderPandocMath = renderPandocWith defaultHakyllReaderOptions writerOptions
 
 
@@ -110,7 +110,7 @@ renderPandocMath = renderPandocWith defaultHakyllReaderOptions writerOptions
 postCompiler :: Compiler (Item String)
 postCompiler =
   getResourceBody
-    >>= return . renderPandocMath
+    >>= renderPandocMath
     >>= applyAsTemplate postCtx
     >>= loadAndApplyTemplate "templates/post.html"    postCtx
     >>= loadAndApplyTemplate "templates/default.html" postCtx
@@ -125,6 +125,6 @@ markdownCompiler :: Context String -> Compiler (Item String)
 markdownCompiler ctx =
   getResourceBody
     >>= applyAsTemplate ctx
-    >>= return . renderPandoc
+    >>= renderPandoc
     >>= loadAndApplyTemplate "templates/default.html" ctx
     >>= relativizeUrls
