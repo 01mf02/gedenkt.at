@@ -28,15 +28,15 @@ main = hakyll $ do
 
   match "erasmus.md" $ do
     route   $ setExtension "html"
-    compile $ postListCompiler "erasmus/*"
+    compile $ namePatternCompiler erasmusLists
 
   match "musica.md" $ do
     route   $ setExtension "html"
-    compile $ postListCompiler "musica/*"
+    compile $ patternCompiler "musica/*"
 
   match "blog.md" $ do
     route   $ setExtension "html"
-    compile $ postListCompiler "blog/*"
+    compile $ patternCompiler "blog/*"
 
   match "tourdeurope.md" $ do
     route   $ setExtension "html"
@@ -46,7 +46,7 @@ main = hakyll $ do
     route   $ setExtension "html"
     compile $ do
       posts <- recentFirst =<< loadAll (patternAny allPosts)
-      markdownCompiler $ postListCtx $ take 3 posts
+      nameItemsCompiler [("posts", take 3 posts)]
 
   match "templates/*" $ compile templateCompiler
 
@@ -55,10 +55,16 @@ main = hakyll $ do
 -- Patterns
 
 allPosts :: [Pattern]
-allPosts = ["blog/*", "musica/*", "erasmus/*"]
+allPosts = ["blog/*", "musica/*", "erasmus/**"]
 
 patternAny :: [Pattern] -> Pattern
 patternAny = foldl1 (.||.)
+
+erasmusLists :: [(String, Pattern)]
+erasmusLists =
+  [ ("bordeaux", "erasmus/bordeaux/*")
+  , ("praha"   , "erasmus/praha/*")
+  ]
 
 
 --------------------------------------------------------------------------------
@@ -82,10 +88,8 @@ postCtx =
   mediaField <>
   defaultContext
 
-postListCtx :: [Item String] -> Context String
-postListCtx posts =
-  listField "posts" postCtx (return posts) <>
-  defaultContext
+postListCtx :: String -> [Item String] -> Context String
+postListCtx name = listField name postCtx . return
 
 
 --------------------------------------------------------------------------------
@@ -116,10 +120,19 @@ postCompiler =
     >>= loadAndApplyTemplate "templates/default.html" postCtx
     >>= relativizeUrls
 
-postListCompiler :: Pattern -> Compiler (Item String)
-postListCompiler ptrn = do
-  posts <- recentFirst =<< loadAll ptrn
-  markdownCompiler $ postListCtx posts
+nameItemsCompiler :: [(String, [Item String])] -> Compiler (Item String)
+nameItemsCompiler postLists = markdownCompiler $ defaultContext <> mconcat ctxs
+  where ctxs = map (uncurry postListCtx) postLists
+
+namePatternCompiler :: [(String, Pattern)] -> Compiler (Item String)
+namePatternCompiler lists =
+  mapM (uncurry loadNamePattern) lists >>= nameItemsCompiler
+
+loadNamePattern :: String -> Pattern -> Compiler (String, [Item String])
+loadNamePattern name ptrn = loadAll ptrn >>= recentFirst >>= return . (,) name
+
+patternCompiler :: Pattern -> Compiler (Item String)
+patternCompiler ptrn = namePatternCompiler [("posts", ptrn)]
 
 markdownCompiler :: Context String -> Compiler (Item String)
 markdownCompiler ctx =
