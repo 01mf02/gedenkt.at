@@ -13,11 +13,11 @@ Es bedarf einer kurzen Einführung über meine Motive ...
 
 
 Warum Erasmus in Tschechien?
-============================
+----------------------------
 
 Vor ca. zwei Jahren wurde ich von einer Kollegin aus dem [Unichor],
-die aus Tschechien stammt, zu ihrer Hochzeit nach Hradec Králové (Königgrätz) eingeladen.
-Besagter Aufenthalt hat mich vollständig für Tschechien begeistert:
+die aus Tschechien stammt, zu ihrer Hochzeit nach [Hradec Králové] (Königgrätz)
+eingeladen. Besagter Aufenthalt hat mich vollständig für Tschechien begeistert:
 
 * Die Leute waren sehr freundlich, kultiviert und sprachen sogar
   zu einem sehr großen Teil Deutsch.
@@ -27,7 +27,8 @@ Besagter Aufenthalt hat mich vollständig für Tschechien begeistert:
 * Es war wie Österreich, nur ein bisschen exotischer und ostblockiger. ;)
 
 Dazu kommt auch noch, dass ich historisch vorbelastet bin, da
-mein Großvater aus Brünn (Brno) stammt und meine Großmutter aus Iglau (Jihlava),
+mein Großvater aus [Brünn] (Brno) stammt und
+meine Großmutter aus [Iglau] (Jihlava),
 ersterer allerdings nie wirklich Tschechisch gelernt hatte und ich
 mich somit dadurch fast verpflichtet fühlte, seinen versäumten Spracherwerb
 nachzuholen. Vor der Türe Österreichs liegt nämlich ein Land, das über
@@ -50,7 +51,7 @@ Monate nach Prag einlud. Und so lebe ich jetzt.
 
 
 Příjezd v Praze
-===============
+---------------
 
 Am 31. Juni 2016 schickte ich mich dazu an, meinem geliebten Heimatstädtchen
 den temporären Abschied zu erklären, und bestieg den Zug von Innsbruck nach
@@ -88,17 +89,18 @@ weitere Monate. Ein entsprechender Deal war auch mit meinem Vermieter
 schnell geschlossen, inklusive einer Preisreduktion im Falle einer
 längerfristigen Miete. :)
 
-Die Wohnung befindet sich am Vítězné náměstí (man zähle hier sechs
-diakritische Zeichen!), also etwas außerhalb des Stadtzentrums direkt
-in der Nähe meiner Arbeitsstätte. Ich teile die Wohnung aktuell mit
-einem Inder, einer Französin, einer Ukrainerin, einem Spanier und einem Amerikaner.
+Die Wohnung befindet sich am [Vítězné náměstí] (man zähle hier sechs
+diakritische Zeichen!), also etwas außerhalb des Stadtzentrums, drei Gehminuten
+von meiner Arbeitsstätte.
+Ich teile die Wohnung aktuell mit einem Inder, einer Französin,
+einer Ukrainerin, einem Spanier und einem Amerikaner.
 Man fühlt sich geradezu an die "auberge espagnole" erinnert.
 Alles sehr nette Leute, mit denen ich bis jetzt ausgezeichnet auskomme.
 Unser Vermieter, Radek, kümmert sich gut um die Wohnung und schenkte uns sogar
 anlässlich meiner Ankunft zwei Bonbonnieren.
 
 Das größte Problem an der Wohnung ist die Lage an einem sehr befahrenen
-Verkehrskreuz. Man hört trotz doppelter Fenster fast immer das unbestimmte
+Kreisverkehr. Man hört trotz doppelter Fenster fast immer das unbestimmte
 Grummeln anfahrender Autos, das sich allerdings hoffentlich in ein paar
 Jahrzehnten in ein summendes, kaum hörbares elektrisches Geräusch umwandeln wird.
 Die erste Nacht verbrachte ich jedenfalls gewohnt auslandsmelancholisch
@@ -106,7 +108,7 @@ und konnte wegen des Autolärms kaum schlafen.
 
 
 Příští dny
-==========
+----------
 
 Am folgenden Tage kam ich auf die Arbeit, wobei mein Hauptproblem darin bestand,
 das genaue Stockwerk und den Namen des Unternehmens, in dem ich arbeiten sollte,
@@ -132,24 +134,25 @@ da der ÖAMTC auf meine schriftliche Anfrage noch nicht reagiert hat.
 Jedenfalls ging mein erster Arbeitstag mit sehr viel Organisation einher.
 Leider litt Chad an einem ungesund klingenden Husten, der von den Tschechen
 spaßhalber als "černý kašel" (Keuchhusten) bezeichnet wurde, bereit,
-meinem Kollegen einen ewigen Platz in "kutná hora"
+meinem Kollegen einen ewigen Platz in "[Kutná Hora]"
 (das über eine Knochenkirche verfügt) zu verschaffen.
 So ähnlich, wie wenn wir Innsbrucker sagen, dass jemand nach Hall kommt.
 
-Am nächsten Tag geschah nicht sehr viel interessantes, da Chad zuhause blieb
-und auch Josef auf Reise nach Cambridge aufbrach. So blieb ich denn
-einen guten Teil meiner Zeit zuhause und arbeitete von dort.
-Einen guten Teil meiner Arbeitszeit brachte ich auch damit zu,
-WG-Inserate abzuklappern, mit bis dato eher mäßigem Erfolg.
+Am nächsten Tag geschah nicht sehr viel interessantes, da Chad
+krankheitsbedingt zuhause blieb und Josef nach Cambridge aufbrach.
+So blieb ich denn einen guten Teil meiner Zeit zuhause und arbeitete von dort.
+Ich brachte einiges meiner Arbeitszeit auch damit zu, WG-Inserate abzuklappern,
+mit bis dato eher mäßigem Erfolg.
 
-Am Samstag antwortete endlich jemand auf meine (tschechischen) Inserate,
+Am Samstag jedoch antwortete endlich jemand auf meine (tschechischen) Inserate,
 mit der Aufforderung, ich sollte mich telefonisch melden. Der resultierende
 Anruf war eher desaströs von der ersten Sekunde an, denn es meldete sich
 eine Frau statt des von mir erwarteten Herren, und auch dann wurde ich nicht
 mit besagtem Herren verbunden, sondern mit einer anderen Person.
 Ich verstand soviel, dass ich am Sonntag einen Besichtigungstermin hätte und
 über E-Mail die genaue Adresse erhalten würde. Aber am Ende des Gesprächs
-war ich schweißgebadet.
+war ich schweißgebadet. Und bis jetzt habe ich noch keine Adresse erhalten.
+Ob sie wohl überhaupt noch kommt?
 
 Am Nachmittag traf ich dann einen tschechischen Freund, David, den Bruder
 der Chorkollegin, die mein Interesse für Tschechien ins Rollen gebracht hatte.
@@ -173,8 +176,11 @@ entschädigte mich vollends. Er bot mir zudem an, seine Wohnung über den Sommer
 zu mieten, da sein Zimmerkollege auch bald auszöge. Daraufhin inspizierte ich
 seine Wohnung, die mir auch sehr gut gefiel. Er wohnt mit zwei Slowakinnen und
 einer Tschechin zusammen, sodass auch mein Ziel, Tschechisch zu üben,
-weitestgehend erfüllt wäre. Ich ziehe dieses Angebot jedenfalls
-stark in Erwägung. Ach ja, die Wohnung verfügt auch über ein Klavier! :)
+weitestgehend erfüllt wäre.
+(Unter der Prämisse, dass Slowakisch eh mehr oder weniger Tschechisch ist.
+So wie Österreichisch eh mehr oder weniger Deutsch ist.)
+Ich ziehe dieses Angebot jedenfalls stark in Erwägung.
+Ach ja, die Wohnung verfügt auch über ein Klavier! :)
 
 Nach unserem Treffen versuchte ich dann eine alternative Route zurück zu
 meiner Wohnung, östlich der Innenstadt über die [letenské sady], in deren
@@ -200,7 +206,12 @@ nächste Woche! :)
 
 
 [Unichor]: https://www.uibk.ac.at/unichor/
+[Hradec Králové]: https://de.wikipedia.org/wiki/Hradec_Kr%C3%A1lov%C3%A9
+[Brünn]: https://de.wikipedia.org/wiki/Brno
+[Iglau]: https://de.wikipedia.org/wiki/Jihlava
 [Josef Urban]: http://arg.ciirc.cvut.cz/
 [Cezary Kaliszyk]: http://cl-informatik.uibk.ac.at/users/cek/
+[Vítězné náměstí]: https://cs.wikipedia.org/wiki/V%C3%ADt%C4%9Bzn%C3%A9_n%C3%A1m%C4%9Bst%C3%AD
+[Kutná hora]: https://de.wikipedia.org/wiki/Kutn%C3%A1_Hora
 [letenské sady]: https://cs.wikipedia.org/wiki/Letensk%C3%A9_sady
 [Amerika]: http://www.csfd.cz/film/51711-amerika/prehled/
