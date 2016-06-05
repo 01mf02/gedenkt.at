@@ -47,7 +47,11 @@ Dieser Kurzaufenthalt (der vermutlich ein eigenes Kapitel
 für sich wäre) hat mir auch wieder sehr gut gefallen und mein Interesse
 für Tschechien weiter angeheizt.
 Es erwies sich dann als glückliche Fügung, dass Josef mich für fünf weitere
-Monate nach Prag einlud. Und so lebe ich jetzt.
+Monate nach Prag einlud. Allerdings werde ich mich nur für drei Monate
+Erasmus-Unterstützung bewerben, da ich Ende Juni auf eine Konferenz fahre.
+Außerdem werde ich keine Kurse an der Universität während meines Aufenthalts
+besuchen, was dann doch auch wieder eher Erasmus-untypisch ist.
+Ergo nur Quasi-Erasmus.
 
 
 Příjezd v Praze
