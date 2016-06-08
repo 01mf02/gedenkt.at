@@ -21,6 +21,12 @@ das Wohlbefinden anderer Personen erschreckt mich. Es war aber noch nicht zu End
 Etwas später in der Früh sah ich ihn nochmals, und ich bat ihn, ob er zumindest
 untertags das Fenster schließen könnte, sodass ich eine Siesta machen und den
 verlorenen Schlaf nachholen könnte. Auf das einigten wir uns schließlich.
+Es fielen dabei interessante Aussagen wie:
+
+* You should go see a doctor if you can't sleep with an open window.
+* Perhaps you are not getting enough exercise if you can't sleep?
+* What would you do in a war?
+* Why don't you just move out?
 
 Am Abend allerdings kam das "grande finale". Ich diskutierte gerade mit meinem
 indischen Mitbewohner, als der Amerikaner (ich werde ihn bei seinem Namen Greg
