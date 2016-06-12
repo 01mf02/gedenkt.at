@@ -205,6 +205,13 @@ empfindlich gebremst wurde durch ein Freiluftkino, bei dem ich den
 tschechischen Film "[Amerika]" mit Untertiteln (english, what else?) sah.
 Ein gelungener Abschluss für einen Samstag.
 
+Am Sonntag begab ich mich nach dem Schreiben dieses Blog-Eintrages in den
+nahegelegenen Park Stromovka, den ich einmal in voller Länge durchlief.
+Sehr idyllisch.
+
+![Park Stromovka.]($media$/IMG_20160605_190051.jpg)
+
+
 Ich wünsche meiner Leserschaft einen schönen Tag und bis hoffentlich
 nächste Woche! :)
 
