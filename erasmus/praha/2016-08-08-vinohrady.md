@@ -63,6 +63,9 @@ Zu Abend gegessen wurde direkt an der Moldau, was uns die Gelegenheit gab,
 viele Boote im Design von Sportwägen oder Schwänen zu sehen. Immer eifrig
 bewacht von einem Motorboot, das darauf achtete, dass sich die Boote
 nicht zu sehr den Stromschnellen nähern.
+
+![Čluny nad Vltavou.]($media$/IMG_20160730_203046.jpg)
+
 Nach dem Essen fuhr ich dann direkt mit der U-Bahn und mit dem Bus in meine
 Wohnung, wo mein Mitbewohner gerade von einem Fußballspiel zurückgekommen war.
 Diese Nacht schlief ich leider erstaunlich schlecht, da ich meine Ohrenstöpsel
@@ -202,6 +205,9 @@ wo der Valdštejnský palác, der jetzige Sitz des Tschechischen Senats,
 bei freiem Eintritt zu besichtigen ist.
 Sehr sehenswert, genauso wie der gleich angrenzende Valdštejnská zahrada
 (Wallenstein-Garten).
+
+![Valdštejnská zahrada.]($media$/IMG_20160807_165620.jpg)
+
 Auf jeden Fall habe ich vor dieser touristischen Aktivität noch zwei
 Telefonnummern von Wohnungsangeboten angerufen, wobei allerdings die erste
 nicht abgehoben hat und die zweite gleich gesagt hat, dass eine Mindestdauer
@@ -223,6 +229,9 @@ Die Wohnung ist ca. zwei Gehminuten von der Metrostation Flora,
 drei Metro-Stationen vom Stadtzentrum und
 acht Stationen von meiner Arbeit entfernt -- ohne Umsteigen.
 Und das Sahnehäubchen: Es gibt im Wohnzimmer ein Klavier! :)
+
+![Aussicht aus meinem neuen Zimmer.]($media$/IMG_20160807_202226.jpg)
+
 Ich habe mich jedenfalls sofort für die Wohnung entschieden,
 aus meinem Bauchgefühl heraus, und bin dann am Abend wonnetrunken
 nach Krč geschwebt. Ich habe das Gefühl, dass ich endlich angemessen wohne,
