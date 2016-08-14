@@ -132,7 +132,7 @@ verlor. So ging ich alleine weiter zur Burg und entdeckte den dahinter liegenden
 "jelení příkop", vom Reiseführer als "Hirschgraben" übersetzt.
 Nicht sehr touristisch frequentiert und sehr ruhig.
 
-![Jelení příkop]($media$/IMG_20160814_162202.jpg)
+![Jelení příkop.]($media$/IMG_20160814_162202.jpg)
 
 Unter der Woche startete ich auch ein paar Versuche, mit dem Fahrrad
 zur Arbeit zu fahren. Leider gilt auch für mein neues Domizil,
