@@ -3,7 +3,7 @@ title: Dobrá kočzka která nemlsá
 ---
 
 Meine sehr verehrten Damen und Herren, willkommen zu dieser
-fünften Ausgabe meiner Abenteuer in Tschechien! :)
+sechsten Ausgabe meiner Abenteuer in Tschechien! :)
 
 Mittlerweile habe ich mich schon halbwegs in meiner neuen Wohnung
 in den Königlichen Weingärten (so der alte deutsche Name meines Stadtviertels)
