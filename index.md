@@ -26,10 +26,10 @@ Mehr gibt es auf der dedizierten [Blog-Seite] [Blog].
 [UIBK]: http://www.uibk.ac.at/
 [Haskell]: http://www.haskell.org/
 
-[Erasmus]: /erasmus.html
-[Giro]: /tourdeurope.html
+[Erasmus]: /erasmus
+[Giro]: /tourdeurope
 
 [Unichor]: http://www.uibk.ac.at/unichor/
 
-[Musik]: /musica.html
-[Blog]: /blog.html
+[Musik]: /musica
+[Blog]: /blog

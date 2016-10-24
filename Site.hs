@@ -1,8 +1,9 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
+import           Data.List (isSuffixOf)
 import           Data.Monoid ((<>))
 import qualified Data.Set as S
-import           System.FilePath (takeBaseName)
+import           System.FilePath ((</>), takeBaseName, takeDirectory)
 
 import           Hakyll
 import           Text.Pandoc.Options
@@ -23,23 +24,23 @@ main = hakyll $ do
     compile compressCssCompiler
 
   match (patternAny allPosts) $ do
-    route $ removeDate `composeRoutes` setExtension "html"
+    route $ removeDate `composeRoutes` cleanRoute
     compile postCompiler
 
   match "erasmus.md" $ do
-    route   $ setExtension "html"
+    route   $ cleanRoute
     compile $ namePatternCompiler erasmusLists
 
   match "musica.md" $ do
-    route   $ setExtension "html"
+    route   $ cleanRoute
     compile $ patternCompiler "musica/*"
 
   match "blog.md" $ do
-    route   $ setExtension "html"
+    route   $ cleanRoute
     compile $ patternCompiler "blog/*"
 
   match "tourdeurope.md" $ do
-    route   $ setExtension "html"
+    route   $ cleanRoute
     compile $ markdownCompiler (mediaField <> defaultContext)
 
   match "index.md" $ do
@@ -72,6 +73,12 @@ erasmusLists =
 
 removeDate :: Routes
 removeDate = gsubRoute "/[0-9]{4}-[0-9]{2}-[0-9]{2}-" (const "/")
+
+cleanRoute :: Routes
+cleanRoute = customRoute createIndexRoute where
+  createIndexRoute ident =
+    let p = toFilePath ident
+    in takeDirectory p </> takeBaseName p </> "index.html"
 
 
 --------------------------------------------------------------------------------
@@ -119,6 +126,22 @@ postCompiler =
     >>= loadAndApplyTemplate "templates/post.html"    postCtx
     >>= loadAndApplyTemplate "templates/default.html" postCtx
     >>= relativizeUrls
+    >>= cleanIndexUrls
+
+cleanIndexUrls :: Item String -> Compiler (Item String)
+cleanIndexUrls = return . fmap (withUrls cleanIndex)
+
+cleanIndexHtmls :: Item String -> Compiler (Item String)
+cleanIndexHtmls = return . fmap (replaceAll pattern replacement)
+  where
+    pattern = "/index.html"
+    replacement = const "/"
+
+cleanIndex :: String -> String
+cleanIndex url
+    | idx `isSuffixOf` url = take (length url - length idx) url
+    | otherwise            = url
+  where idx = "index.html"
 
 nameItemsCompiler :: [(String, [Item String])] -> Compiler (Item String)
 nameItemsCompiler postLists = markdownCompiler $ defaultContext <> mconcat ctxs
@@ -141,3 +164,4 @@ markdownCompiler ctx =
     >>= renderPandoc
     >>= loadAndApplyTemplate "templates/default.html" ctx
     >>= relativizeUrls
+    >>= cleanIndexUrls
