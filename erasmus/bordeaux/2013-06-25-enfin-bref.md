@@ -17,25 +17,11 @@ Am Donnerstag ging es auf Reise in den Süden, nämlich zu Simon in das kleine D
 
 Seine Eltern, Marie-Laure und Daniel, stellten sich jedenfalls als sehr umgänglich und gastfreundlich heraus, und wie sich herausstellte, wohnen die beiden auf einem für meine Begriffe riesigen Anwesen, das Hühner, Schafe, Wälder und einige Felder umfasst. Jedenfalls eine ganz andere Welt als Pessac. ;) Am Tag unserer Ankunft war davon allerdings noch nicht allzuviel zu sehen, da es fast durchgehend regnete und ziemlich kalt war. So schritten wir nach unserer Ankunft in ihrem Haus auch relativ bald zum Abendessen, das sich -- wie die meisten darauffolgenden Essen auch -- fast ausschließlich aus eigens hergestellten Produkten zusammensetzte! Selbstgemachtes Brot, selbst aufgezogene Hendln, selber gepflanzter Salat ... ich kann wohl sagen, dass ich in Frankreich noch selten so gut gegessen habe. Ein typisches Essen bestand aus folgenden Teilen:
 
-
-
-	
-  1. Aperitif
-
-	
-  2. Hauptspeise & Wein
-
-	
-  3. Salat
-
-	
-  4. Brot & Käse
-
-	
-  5. Dessert
-
-
-
+1. Aperitif
+2. Hauptspeise & Wein
+3. Salat
+4. Brot & Käse
+5. Dessert
 
 Am Freitag setzte sich der Regen weiter fort; ich erfuhr, dass es in der Region zu schweren Überschwemmungen gekommen war, sogar mit einigen Toten. Hauptsächlich Leute, die (ganz nach französischer Manier) Straßensperren ignoriert haben und dann vom Strom weggespült wurden. Diesem Risiko wollten wir uns nicht aussetzen, und so verbrachten wir den Großteil des Tages im "Atelier", wo wir verschiedenen Tätigkeiten nachgingen: Simon bereitete sein Fahrrad auf seine "Tour de France" vor, die er bald unternehmen möchte, und ich versuchte, ein altes Klavier neu zu stimmen, womit ich einige Stunden zubrachte. Besagtes Atelier ist jedenfalls für Bastler eine Goldgrube: Von Schleifmaschinen über eine kleine Küche und eine mechanische Säge aus dem 19. Jahrhundert gibt es ein riesiges Sammelsurium, und gleich darauf schließt die Garage mit Traktor, altem Auto, Fahrrädern etc. an. An verregneten Sommertagen jedenfalls sehr inspirierend. :)
 
