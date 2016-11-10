@@ -158,11 +158,12 @@ aufgewacht, und dies ist auch meinen Mitbewohnern häufiger passiert.
 Am Wochenende vor dem "Rusalka"-Besuch war ich zu Besuch bei meiner Freundin
 in Kopenhagen, die zeitgleich mit mir ihren Erasmus-Aufenthalt beendet.
 An Kopenhagen habe ich die Ruhe geschätzt, als wie auch das Radfahren,
-das mir zu einem sehr günstig ausgeliehenen Fahrrad bei Rosenborg Cykler
+das mir durch ein sehr günstig ausgeliehenes Fahrrad bei [Rosenborg Cykler]
+ermöglicht wurde.
 Wir fuhren nämlich eines Tages nach Sophienholm, ein Schloss in der Nähe
 des Vororts "Sorgenfri", wo sich uns ein sehr schöner Aussicht auf den
 danebenliegenden See darbot.
-Auch der Besuch des "Bastard Café" im Zentrum von Kopenhagen,
+Auch der Besuch des [Bastard Café] im Zentrum von Kopenhagen,
 wo wir gratis verschiedene Gesellschaftsspiele spielen konnten,
 gefiel uns sehr gut.
 
@@ -179,5 +180,6 @@ für leuchtende Augen. :)
 
 [Jazz Republic]: http://www.jazzrepublic.cz/
 [Rosenborg Cykler]: http://www.isicdanmark.dk/en/benefits/rosenborg-cykler/
+[Bastard Café]: http://bastardcafe.dk/
 [Libuše]: https://de.wikipedia.org/wiki/Libusa
 [Rusalka]: https://de.wikipedia.org/wiki/Rusalka_(Oper)
