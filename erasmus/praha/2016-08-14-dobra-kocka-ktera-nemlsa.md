@@ -1,5 +1,5 @@
 ---
-title: Dobrá kočzka která nemlsá
+title: Dobrá kočka která nemlsá
 ---
 
 Meine sehr verehrten Damen und Herren, willkommen zu dieser
