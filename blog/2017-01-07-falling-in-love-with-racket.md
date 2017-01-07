@@ -5,7 +5,7 @@ title: Falling in Love with Racket
 In the last days, I discovered the [Racket programming language](http://racket-lang.org/)
 following [a blog post of Alexis King](https://lexi-lambda.github.io/blog/2017/01/02/rascal-a-haskell-with-more-parentheses/).
 
-My interest was further sparked as I read the online books of Matthew Butterick,
+My interest was further sparked as I discovered the online books of Matthew Butterick,
 namely [Practical Typography](http://practicaltypography.com/)
 and [Beautiful Racket](http://beautifulracket.com/).
 The case he makes for Racket is that can be used as a framework to
@@ -91,9 +91,9 @@ This prints all numbers from 0 to 99999.
 An equivalent Haskell version:
 
 ~~~ haskell
-tests = [0 ..]
+test = [0 ..]
 
-main = mapM_ putStrLn (map show (takeWhile (< 100000) tests))
+main = mapM_ putStrLn (map show (takeWhile (< 100000) test))
 ~~~
 
 The Haskell version is much smaller, but this can safely be attributed
@@ -104,14 +104,28 @@ only goal of finding out whether lazy lists are nice to use in Racket.
 On the other hand, when running the two programs with `racket` and `runghc`
 respectively, the Racket version performed better, taking only 0.68s vs 1.28s.
 
-Another quick experiment was to reverse every individual line of a file and to print
-all lines.
+Another quick experiment was to reverse every individual line of a file and
+to print all resulting lines.
 
     (for-each (compose displayln list->string reverse string->list)
       (file->lines "problems.txt"))
 
-Again, the Haskell version is a bit smaller, mostly because strings are lists in Haskell.
-(This characteristic however bites in other places.)
+The version above has the disadvantage that it first has to
+read in the whole file, and only then starts processing it.
+We can do better using "sequences", which allow us to iterate
+over specific parts of an input, for example the lines of a file.
+The following code was created in roughly 30 minutes and required
+understanding Racket's "ports" and "sequences", both which were
+relatively easy to grasp given the -- I reiterate -- excellent documentation:
+
+    (call-with-input-file "problems.txt" (lambda (in)
+      (sequence-for-each (compose displayln list->string reverse string->list)
+        (in-lines in))))
+
+As before, the Haskell version is a bit smaller, mostly because
+strings are lists in Haskell. (This characteristic bites in other places.)
+Furthermore, this example uses lazy I/O, which can cause surprises
+and is therefore commonly discouraged in favour of streaming libraries.
 
     readFile "input.txt" >>= mapM_ putStrLn . map reverse . lines
 
@@ -121,4 +135,4 @@ and I was very astonished to see that so far, the lack of types
 has been much less of a problem than I thought.
 
 The Racket community seems small, but extremely motivated,
-so I would not wonder about this language gaining momentum.
+leading me to believe that this language will gain momentum.
