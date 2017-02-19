@@ -63,7 +63,58 @@ Der Tag des endgültigen Abschieds! Ein Frühstück, das für mich eher einer He
 Wie bewältigen wir in unserer heutigen Konsumgesellschaft den Schmerz? Durch Einkaufen! So ist es als ein doppeltes Symbol zu bewerten, dass ich gleich auf diesen Abschied hin zur emotionalen Beruhigung in einen M-Preis ging, der mir wie ein Heilssymbol, wie ein Rettungsanker in diesem fremden Lande erschien. Dort deckte ich mich mit einer großen Flasche Mineralwasser und zwei Packungen Landjäger ein, von denen die zweite Packung Landjäger zu meiner eisernen Ration, also zu meinen "Not-Landjägern" (in Frankreich als "saucisses de secours" berühmt geworden) mutierten, die mich bis an mein Ziel, Bordeaux, begleiten sollten. Auch das Mineralwasser behielt ich aus psychologischen Gründen bis zu meinem Ziel unausgetrunken immer bei mir, einfach aus Beruhigung, aber auch als nicht eben gerade leichter Ballast.
 Es ist anzumerken, dass dieser M-Preis das einzige Geschäft auf der Reise bleiben sollte, in dem ich das Fahrrad mit hineinnehmen durfte. In allen anderen Geschäften wies man mich an, das Fahrrad draußen stehen zu lassen, was wiederum bedeutete, dass ich alle Taschen abnehmen und mitnehmen oder darauf vertrauen musste, dass mir sie niemand vom Fahrrad herunterpfladert. Wer sich solche Fahrradrichtlinien überlegt, sollte bedenken, dass ein leicht gehetzter, weil Diebstahl fürchtender Kunde, sich wohl eher kürzer in einem Geschäft aufhalten wird als ein entspannter Kunde, der seine Einkäufe mit dem Fahrrad im Geschäft erledigen kann und seine Gepäcktaschen viel leichter mit Waren füllen kann. Aus dem Grunde ist es eigentlich unternehmerischer Selbstmord, Fahrräder in Geschäften zu verbieten. Man bedenke auch den Aufschrei, wenn man z.B. Rollstuhlfahrern den Eingang in Geschäfte verbieten würde ...
 
-Nach dieser Einkaufstour machte ich mich jedenfalls wieder auf den Weg, und zwar vorerst Richtung Bozen. An diesem Tage wollte ich wieder einmal schauen, bis wohin ich komme, ohne eine feste Schlafmöglichkeit einzuplanen. Der Radweg nach Bozen war jedenfalls recht gut beschildert, führte allerdings leider großteils direkt an der Straße (wenn auch davon abgegrenzt) entlang, was bei dem Fahrzeuglärm nicht gerade die entspannendste Fortbewegung garantierte. Aber nach einiger Zeit wechselte der Radweg die Talseite, und ich fuhr somit auf einer weiteren ehemaligen Bahnstrecke durch Tunnels und sehr schöne Gegenden, die auch vor allem den Vorteil hatten, dass sie Schatten spendeten, denn mittlerweile war wieder die Südtiroler Hitze ausgebrochen! Nach einem Mittagspicknick mit Landjäger, Käsetrio & Co. ging es dann weiter in die sogenannte Fahrradstadt Bozen. Dieser gönnte ich keine weitere ausgiebige Betrachtung, hatte ich mich ja schon am Vortag genug in ihr aufgehalten, außerdem war sie zu dem Zeitpunkt von Pollen übersäht. Was in der sogenannten Fahrradstadt allerdings fehlt, sind öffentliche Toiletten entlang des Hauptradweges durch die Stadt, der sich ansonsten sehr angenehm fährt. Aus der Stadt wieder heraußen führt ein wunderbarer Radweg an der Etsch entlang immer weiter gen Süden. Dieser war komplett von Autos verschont, aber durch die unvermindert starke Sonneneinwirkung (ich hatte immer noch keine Sonnencreme!) und die immerwährend gleich idyllische Landschaft mit ihren Weinen und Burgen wurde ich des Radelns bald müde. Somit beschloss ich, auf der Höhe von Auer (Ora) einen kleinen Dorfabstecher zu machen, um einmal etwas anderes zu sehen! Dort traf ich auf ein deutsches Radfahrer-Ehepaar, die ich schon entlang des Radweges beobachtet habe, und diese luden mich auf ein Eis ein. Nachdem sie weitergezogen sind, versuchte ich, meine Telefonkarte zu aktivieren, die mir meine Freundin in der Früh in Brixen gekauft hatte (oh, wie ich sie schon wieder vermisste!) und mit deren Hilfe ich günstig nach Österreich telefonieren hätte können. Sollen. Aus der Verwendung des Konjunktives ersieht man vielleicht schon die Schwierigkeiten, die ich damit hatte, denn die italienische Stimme, die mir bei dem Anruf der Nummer auf der Karte entgegenquasselte, verstand ich überhaupt nicht. So gab ich das Telefon einem deutschsprachigen Typen, der gerade mit einem Mädchen das Lokal betreten hatte, und ließ ihn einmal machen, doch leider mit negativen Ergebnis. Auch ein Besuch der örtlichen Trafik brachte nicht mehr als die Aussage, dass mein Telefon scheinbar nicht kompatibel mit der Telefonkarte sei. Merda! Put*n*! Dafür lud mich besagter Typ noch auf ein paar Bier ein, nachdem ich ein bisschen meine Geschichte erzählt hatte, und bewirkte also doch noch eine alkoholisch gefärbte gute Stimmung bei mir. Als ich schon ziemlich abgefüllt war, hatte ich allerdings keine große Lust mehr, am selben Tag weiter Rad zu fahren, und suchte mir daher eine nicht allzu teure Bleibe in Auer, wobei der Preis des schlussendlich von mir gewählten Hotels doch ein kleines Aua hervorrief. Doch die Importanz des Preises ist indirekt proportional zum Alkoholisierungsgrad, also war's mir wurscht, und ich genoss den Jacuzzi des Hotels. Solchermaßen erfrischt gelang es mir dann sogar noch, mit dem Hoteltelefon und der Telefonkarte Kontakt mit der Heimat aufzunehmen. Phone home ...
+Nach dieser Einkaufstour machte ich mich jedenfalls wieder auf den Weg,
+und zwar vorerst Richtung Bozen.
+An diesem Tage wollte ich wieder einmal schauen, bis wohin ich komme,
+ohne eine feste Schlafmöglichkeit einzuplanen.
+Der Radweg nach Bozen war jedenfalls recht gut beschildert,
+führte allerdings leider großteils direkt an der Straße (wenn auch davon abgegrenzt) entlang,
+was bei dem Fahrzeuglärm nicht gerade die entspannendste Fortbewegung garantierte.
+Aber nach einiger Zeit wechselte der Radweg die Talseite,
+und ich fuhr somit auf einer weiteren ehemaligen Bahnstrecke
+durch Tunnels und sehr schöne Gegenden, die auch vor allem den Vorteil hatten,
+dass sie Schatten spendeten, denn mittlerweile war wieder die Südtiroler Hitze ausgebrochen!
+Nach einem Mittagspicknick mit Landjäger, Käsetrio & Co. ging es dann
+weiter in die sogenannte Fahrradstadt Bozen.
+Dieser gönnte ich keine weitere ausgiebige Betrachtung,
+hatte ich mich ja schon am Vortag genug in ihr aufgehalten,
+außerdem war sie zu dem Zeitpunkt von Pollen übersäht.
+Was in der sogenannten Fahrradstadt allerdings fehlt,
+sind öffentliche Toiletten entlang des Hauptradweges durch die Stadt,
+der sich ansonsten sehr angenehm fährt.
+Aus der Stadt wieder heraußen führt ein wunderbarer Radweg an der Etsch entlang
+immer weiter gen Süden. Dieser war komplett von Autos verschont,
+aber durch die unvermindert starke Sonneneinwirkung (ich hatte immer noch keine Sonnencreme!)
+und die immerwährend gleich idyllische Landschaft mit ihren Weinen und Burgen
+wurde ich des Radelns bald müde.
+Somit beschloss ich, auf der Höhe von Auer (Ora) einen kleinen Dorfabstecher zu machen,
+um einmal etwas anderes zu sehen!
+Dort traf ich auf ein deutsches Radfahrer-Ehepaar,
+die ich schon entlang des Radweges beobachtet habe, und diese luden mich auf ein Eis ein.
+Nachdem sie weitergezogen sind, versuchte ich, meine Telefonkarte zu aktivieren,
+die mir meine Freundin in der Früh in Brixen gekauft hatte
+(oh, wie ich sie schon wieder vermisste!) und mit deren Hilfe
+ich günstig nach Österreich telefonieren hätte können. Sollen.
+Aus der Verwendung des Konjunktives ersieht man vielleicht schon die Schwierigkeiten,
+die ich damit hatte, denn die italienische Stimme,
+die mir bei dem Anruf der Nummer auf der Karte entgegenquasselte,
+verstand ich überhaupt nicht.
+So gab ich das Telefon einem deutschsprachigen Typen,
+der gerade mit einem Mädchen das Lokal betreten hatte, und ließ ihn einmal machen,
+doch leider mit negativen Ergebnis.
+Auch ein Besuch der örtlichen Trafik brachte nicht mehr als die Aussage,
+dass mein Telefon scheinbar nicht kompatibel mit der Telefonkarte sei.
+Merda! Putana! Dafür lud mich besagter Typ noch auf ein paar Bier ein,
+nachdem ich ein bisschen meine Geschichte erzählt hatte,
+und bewirkte also doch noch eine alkoholisch gefärbte gute Stimmung bei mir.
+Als ich schon ziemlich abgefüllt war, hatte ich allerdings keine große Lust mehr,
+am selben Tag weiter Rad zu fahren,
+und suchte mir daher eine nicht allzu teure Bleibe in Auer,
+wobei der Preis des schlussendlich von mir gewählten Hotels doch ein kleines Aua hervorrief.
+Doch die Importanz des Preises ist indirekt proportional zum Alkoholisierungsgrad,
+also war's mir wurscht, und ich genoss den Jacuzzi des Hotels.
+Solchermaßen erfrischt gelang es mir dann sogar noch,
+mit dem Hoteltelefon und der Telefonkarte Kontakt mit der Heimat aufzunehmen. Phone home ...
 
 
 # 5. Tag: Auer - Rovereto
