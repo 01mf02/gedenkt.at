@@ -1,5 +1,4 @@
 ---
-layout: song
 title: C'était la première fois
 ---
 

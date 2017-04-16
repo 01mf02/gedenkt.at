@@ -1,5 +1,4 @@
 ---
-layout: song
 title: Telefonbuchpolka
 ---
 
